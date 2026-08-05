@@ -1,6 +1,458 @@
 {
-  "generated_at": null,
-  "hackathons": [],
+  "generated_at": "2026-08-05T18:50:09.255954+00:00",
+  "hackathons": [
+    {
+      "title": "Build with Gemini XPRIZE",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://xprize.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "RevenueCat Shipaton 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Design",
+      "url": "https://revenuecat-shipaton-2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Agentic Cinema: The Blockbuster Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Databases",
+      "url": "https://agentic-cinema.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "CockroachDB \u00d7 AWS Hackathon - Build with Agentic Memory",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://cockroachdb-ai.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Build with DataHub: The Agent Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://datahub.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Arm Create: AI Optimization Challenge",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://arm-ai-optimization-challenge.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "CALL-E: Your Code Is Calling",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Communication",
+      "url": "https://call-e.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Africa Deep Tech Challenge 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://adtc-2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://youcam-api.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    }
+  ],
   "internships": [],
-  "jobs": []
+  "jobs": [
+    {
+      "title": "Freelance Copywriter",
+      "org": "Coalition Technologies ",
+      "location": "Worldwide",
+      "type": "freelance",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior Graphic Designer",
+      "org": "Lemon.io",
+      "location": "Americas, Europe, Asia, Africa, Oceania",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Data Labeling Specialists",
+      "org": "Workada",
+      "location": "USA",
+      "type": "freelance",
+      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Business Development Representative",
+      "org": "Outsite",
+      "location": "Northern America, Europe, UK, France, European timezones",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/sales/business-development-representative-2091075",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Content Reviewer - United States",
+      "org": "TELUS Digital",
+      "location": "USA",
+      "type": "part_time",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091074",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Product Sales Specialist - Pet Health (CST timezone)",
+      "org": "Tribe Wellness",
+      "location": "Worldwide",
+      "type": "",
+      "url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-cst-timezone-2091072",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Patient Care Specialist",
+      "org": "STATLINX",
+      "location": "USA",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior Independent Software Developer",
+      "org": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "type": "contract",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior Independent AI Engineer / Architect",
+      "org": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "type": "contract",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Head of Marketing & Communications",
+      "org": "garden3d",
+      "location": "Worldwide",
+      "type": "contract",
+      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "org": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "org": "Lemon.io",
+      "location": "Americas, Europe, Asia, Africa, Oceania",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior Product Engineer (Fullstack)",
+      "org": "Clipster",
+      "location": "Europe, UK, Germany, France, European timezones",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Assistant Account Payable",
+      "org": "The Obesity Society",
+      "location": "USA",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Remote Office Assistant",
+      "org": "Coalition Technologies ",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Staff Software Engineer, Product (Belo Horizonte)",
+      "org": "LawnStarter",
+      "location": "Brazil",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-belo-horizonte-2091056",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Staff Software Engineer, Product (Montevideo)",
+      "org": "LawnStarter",
+      "location": "Uruguay",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-montevideo-2091058",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
+      "org": "LawnStarter",
+      "location": "Brazil",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-sao-paulo-2091055",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Staff Software Engineer, Product (Mexico City)",
+      "org": "LawnStarter",
+      "location": "Mexico",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-mexico-city-2091050",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Staff Software Engineer, Product (Campinas)",
+      "org": "LawnStarter",
+      "location": "Brazil",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-campinas-2091049",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
+      "org": "LawnStarter",
+      "location": "Brazil",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-florianopolis-2091059",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Staff Product Engineer (Mexico City)",
+      "org": "LawnStarter",
+      "location": "Mexico",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-mexico-city-2091057",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Staff Product Engineer (Montevideo)",
+      "org": "LawnStarter",
+      "location": "Uruguay",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-montevideo-2091054",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Staff Product Engineer (Campinas)",
+      "org": "LawnStarter",
+      "location": "Brazil",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2091053",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Staff Product Engineer (Belo Horizonte)",
+      "org": "LawnStarter",
+      "location": "Brazil",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2091052",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Staff Product Engineer (Florian\u00f3polis)",
+      "org": "LawnStarter",
+      "location": "Brazil",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2091051",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Product Sales Specialist - Pet Health",
+      "org": "Tribe Wellness",
+      "location": "USA, CST (UTC-6)",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-2091048",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Inside Sales Contractor",
+      "org": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "High-Ticket Financial Sales Specialist & Team Lead Track",
+      "org": "FSE LLC",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Online Data Analyst Canada (French Language) (C)",
+      "org": "TELUS Digital",
+      "location": "Canada",
+      "type": "part_time",
+      "url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-french-language-c-2091047",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Tier III Service Desk Engineer",
+      "org": "Unio Digital",
+      "location": "USA",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior Electrical Engineer - Robotics (m/f/d)",
+      "org": "RobCo",
+      "location": "Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/robco/senior-electrical-engineer-robotics-munich-419035",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Workflow Automation Specialist (m/w/d)",
+      "org": "Stackfuel",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/stackfuel/ai-workflow-automation-specialist-berlin-267942",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Integration & Automation Engineer (m/w/d)",
+      "org": "Customs Support Group",
+      "location": "Remote job",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-412569",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Integration & Automation Engineer (m/w/d) GER",
+      "org": "Customs Support Group",
+      "location": "Remote job",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-371377",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior QA Engineer with Automation",
+      "org": "Alex Staff Agency Careers",
+      "location": "Germany",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/alex-staff-agency-careers/remote-senior-qa-engineer-with-automation-germany-358609",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Director Field Engineering - Public Sector UK",
+      "org": "Quantexa",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/director-field-engineering-public-sector-uk-london-74160",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Search: Electrical / Automation / Oil & Gas roles",
+      "org": "Jobberman Nigeria",
+      "location": "Nigeria",
+      "type": "Search link",
+      "url": "https://www.jobberman.com/jobs?q=electrical+engineer+OR+automation+OR+instrumentation+OR+oil+and+gas",
+      "tag": "Job",
+      "source": "Jobberman"
+    },
+    {
+      "title": "Search: Electrical / Automation / Oil & Gas roles",
+      "org": "MyJobMag",
+      "location": "Nigeria",
+      "type": "Search link",
+      "url": "https://www.myjobmag.com/search/jobs?q=electrical+engineer",
+      "tag": "Job",
+      "source": "MyJobMag"
+    },
+    {
+      "title": "Search: Electrical / Automation / Oil & Gas roles",
+      "org": "Hot Nigerian Jobs",
+      "location": "Nigeria",
+      "type": "Search link",
+      "url": "https://www.hotnigerianjobs.com/hotjobs/search/?q=electrical+engineer",
+      "tag": "Job",
+      "source": "Hot Nigerian Jobs"
+    },
+    {
+      "title": "Search: NYSC PPA-eligible engineering roles",
+      "org": "NGCareers",
+      "location": "Nigeria",
+      "type": "Search link",
+      "url": "https://ngcareers.com/jobs?q=electrical+engineer",
+      "tag": "Job",
+      "source": "NGCareers"
+    }
+  ]
 }
