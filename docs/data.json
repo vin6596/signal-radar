@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T18:50:09.255954+00:00",
+  "generated_at": "2026-08-06T08:35:41.053462+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Finance Automation Internship (m/w/d)",
+      "org": "Vogel",
+      "location": "M\u00fcnchen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/vogel/finance-automation-internship-munchen-236928",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Freelance Copywriter",
@@ -365,56 +375,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Electrical Engineer - Robotics (m/f/d)",
-      "org": "RobCo",
-      "location": "Munich",
+      "title": "Operations & Automation Berufseinstieg (m/w/d)",
+      "org": "Vogel",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/robco/senior-electrical-engineer-robotics-munich-419035",
+      "url": "https://www.arbeitnow.com/jobs/companies/vogel/operations-automation-berufseinstieg-munchen-186651",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "AI Workflow Automation Specialist (m/w/d)",
-      "org": "Stackfuel",
-      "location": "Berlin",
+      "title": "Finance Automation Berufseinstieg (m/w/d)",
+      "org": "Vogel",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/stackfuel/ai-workflow-automation-specialist-berlin-267942",
+      "url": "https://www.arbeitnow.com/jobs/companies/vogel/finance-automation-berufseinstieg-munchen-357105",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "AI Integration & Automation Engineer (m/w/d)",
-      "org": "Customs Support Group",
-      "location": "Remote job",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-412569",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AI Integration & Automation Engineer (m/w/d) GER",
-      "org": "Customs Support Group",
-      "location": "Remote job",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-371377",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior QA Engineer with Automation",
-      "org": "Alex Staff Agency Careers",
-      "location": "Germany",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/alex-staff-agency-careers/remote-senior-qa-engineer-with-automation-germany-358609",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Director Field Engineering - Public Sector UK",
-      "org": "Quantexa",
-      "location": "London",
+      "title": "Automation Engineer (m/w/d)",
+      "org": "Vogel",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/director-field-engineering-public-sector-uk-london-74160",
+      "url": "https://www.arbeitnow.com/jobs/companies/vogel/automation-engineer-munchen-454078",
       "tag": "Job",
       "source": "Arbeitnow"
     },
