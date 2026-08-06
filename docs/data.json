@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T08:35:41.053462+00:00",
+  "generated_at": "2026-08-06T23:59:10.464253+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -83,18 +83,35 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Finance Automation Internship (m/w/d)",
-      "org": "Vogel",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/vogel/finance-automation-internship-munchen-236928",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
+    {
+      "title": "Sales Jedi",
+      "org": "Creative Force ",
+      "location": "Europe",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "SaaS Product Support Jedi",
+      "org": "Creative Force",
+      "location": "Europe, EMEA, UK, Germany, France, European timezones",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Freelance Writer",
+      "org": "IAPWE",
+      "location": "Worldwide",
+      "type": "freelance",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Freelance Copywriter",
       "org": "Coalition Technologies ",
@@ -375,31 +392,15 @@
       "source": "Remotive"
     },
     {
-      "title": "Operations & Automation Berufseinstieg (m/w/d)",
-      "org": "Vogel",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/vogel/operations-automation-berufseinstieg-munchen-186651",
+      "title": "Devices & IOT Field Engineering Manager",
+      "org": "Canonical Ltd.",
+      "location": "Anywhere",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/150274-devices-iot-field-engineering-manager-americas",
       "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Finance Automation Berufseinstieg (m/w/d)",
-      "org": "Vogel",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/vogel/finance-automation-berufseinstieg-munchen-357105",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Automation Engineer (m/w/d)",
-      "org": "Vogel",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/vogel/automation-engineer-munchen-454078",
-      "tag": "Job",
-      "source": "Arbeitnow"
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
