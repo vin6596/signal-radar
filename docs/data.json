@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T23:59:10.464253+00:00",
+  "generated_at": "2026-08-07T07:15:40.453160+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -390,6 +390,51 @@
       "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
       "tag": "Job",
       "source": "Remotive"
+    },
+    {
+      "title": "Senior Field Engineer | Germany | Remote",
+      "org": "grafanalabs",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-field-engineer-germany-remote-440932",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Applied AI Engineer \u2013 AI & Automation",
+      "org": "Clera",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/applied-ai-engineer-ai-automation-berlin-228748",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Senior) CRM Manager \u2013 Analytics & Automation (all genders)",
+      "org": "Sunday Natural",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/senior-crm-manager-analytics-automation-all-genders-berlin-10043",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer (PAM/CPBF)",
+      "org": "Astspacemobile",
+      "location": "Edinburgh",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/astspacemobile/automation-engineer-pam-cpbf-edinburgh-399725",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer - Influencers",
+      "org": "ElevenLabs",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/automation-engineer-influencers-london-433540",
+      "tag": "Job",
+      "source": "Arbeitnow"
     },
     {
       "title": "Devices & IOT Field Engineering Manager",
