@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T18:56:47.195755+00:00",
+  "generated_at": "2026-08-08T06:52:51.320816+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -383,20 +383,47 @@
       "source": "Remotive"
     },
     {
-      "title": "Techniker Systemintegration / Mechatronik (m/w/d)",
-      "org": "MY Humancapital GmbH",
-      "location": "Munich",
+      "title": "Flight Control Automation Engineer (m/f/d)",
+      "org": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-systemintegration-mechatronik-munich-458499",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/flight-control-automation-engineer-gilching-223927",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Industrial Engineer (m/w/d)",
-      "org": "imk Management Services GmbH",
-      "location": "Chemnitz",
+      "title": "Senior Electrical Design Engineer (all genders)",
+      "org": "Cmbluenergyag",
+      "location": "Alzenau, Bavaria",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/imk-management-services-gmbh/industrial-engineer-chemnitz-460608",
+      "url": "https://www.arbeitnow.com/jobs/companies/cmbluenergyag/senior-electrical-design-engineer-all-genders-alzenau-bavaria-37502",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer (all genders)",
+      "org": "Cmbluenergyag",
+      "location": "Alzenau, Bavaria",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/cmbluenergyag/automation-engineer-all-genders-alzenau-bavaria-192069",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Manager, Software Engineering (Libraries Automation)",
+      "org": "chainguard",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/manager-software-engineering-libraries-automation-100913",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Construction Project Manager",
+      "org": "Elgin Energy",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elgin-energy/senior-construction-project-manager-london-153121",
       "tag": "Job",
       "source": "Arbeitnow"
     },
