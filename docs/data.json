@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:36:52.328285+00:00",
+  "generated_at": "2026-08-09T06:56:17.714065+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -297,25 +297,25 @@
       "org": "Clera",
       "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-product-process-berlin-373659",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-product-process-berlin-376749",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Applied AI Engineer \u2013 AI & Automation",
-      "org": "Clera",
-      "location": "Berlin",
+      "title": "Platform & DevOps Engineer (m/w/d)",
+      "org": "Yoummday GmbH",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/applied-ai-engineer-ai-automation-berlin-289511",
+      "url": "https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-150063",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Manager, Software Engineering (Libraries Automation)",
-      "org": "chainguard",
-      "location": "Remote",
+      "title": "AI Automation & Systems Engineer (m/w/d) in KI-First-Marketing-Agentur",
+      "org": "NAO Skalierung GmbH",
+      "location": "Hamburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/manager-software-engineering-libraries-automation-100913",
+      "url": "https://www.arbeitnow.com/jobs/companies/nao-skalierung-gmbh/ai-automation-systems-engineer-in-ki-first-marketing-agentur-hamburg-124719",
       "tag": "Job",
       "source": "Arbeitnow"
     },
