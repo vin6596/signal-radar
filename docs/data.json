@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:40:08.013193+00:00",
+  "generated_at": "2026-08-10T07:41:07.014518+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -83,17 +83,7 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "(Intern) AI Automation Engineer",
-      "org": "Tacto",
-      "location": "Munich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/tacto/intern-ai-automation-engineer-munich-252752",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Tier III Service Desk Engineer",
@@ -285,20 +275,20 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Founding Engineer \u2013 Product & Process",
-      "org": "Clera",
-      "location": "Berlin",
+      "title": "Senior Electrical Engineer",
+      "org": "Andurilindustries",
+      "location": "Sydney, Australia",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-product-process-berlin-376749",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-electrical-engineer-sydney-australia-312249",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Engineer - Influencers",
-      "org": "Elevenlabs",
-      "location": "London",
+      "title": "Manufacturing Test Automation Engineer",
+      "org": "Andurilindustries",
+      "location": "Sydney, Australia",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/automation-engineer-influencers-london-303255",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/manufacturing-test-automation-engineer-sydney-australia-177220",
       "tag": "Job",
       "source": "Arbeitnow"
     },
