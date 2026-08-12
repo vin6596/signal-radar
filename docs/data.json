@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:24:33.975392+00:00",
+  "generated_at": "2026-08-12T19:01:51.591551+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Technical Marketing Intern (Analytics, Research & Automation)",
+      "org": "Outpost Technologies",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/outpost-technologies/technical-marketing-intern-analytics-research-automation-london-472610",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Inside Sales Contractor",
@@ -176,15 +186,6 @@
       "source": "Remotive"
     },
     {
-      "title": "Product Sales Specialist - Pet Health (CST timezone)",
-      "org": "Tribe Wellness",
-      "location": "Worldwide",
-      "type": "",
-      "url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-cst-timezone-2091072",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
       "title": "Patient Care Specialist",
       "org": "STATLINX",
       "location": "USA",
@@ -248,47 +249,11 @@
       "source": "Remotive"
     },
     {
-      "title": "Assistant Account Payable",
-      "org": "The Obesity Society",
-      "location": "USA",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Remote Office Assistant",
-      "org": "Coalition Technologies ",
-      "location": "Worldwide",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "System Test Automation Engineer, HIL",
-      "org": "Wayve",
-      "location": "Remote",
+      "title": "Automation Engineer - Production (m/f/d)",
+      "org": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/wayve/system-test-automation-engineer-hil-12153",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Product Manager (w/m/d)",
-      "org": "Remind Me",
-      "location": "Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/remind-me/product-manager-berlin-169684",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "QA Automation Engineer (IDEA Ultimate QA)",
-      "org": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-qa-automation-engineer-idea-ultimate-qa-51359",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/automation-engineer-production-gilching-127200",
       "tag": "Job",
       "source": "Arbeitnow"
     },
