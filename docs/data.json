@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:01:51.591551+00:00",
+  "generated_at": "2026-08-13T07:26:53.156417+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -65,15 +65,6 @@
       "source": "Devpost"
     },
     {
-      "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://youcam-api.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Agents for Humans Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -81,19 +72,18 @@
       "url": "https://agentsforhumans.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
-    }
-  ],
-  "internships": [
+    },
     {
-      "title": "Technical Marketing Intern (Analytics, Research & Automation)",
-      "org": "Outpost Technologies",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/outpost-technologies/technical-marketing-intern-analytics-research-automation-london-472610",
-      "tag": "Internship",
-      "source": "Arbeitnow"
+      "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://youcam-api.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
     }
   ],
+  "internships": [],
   "jobs": [
     {
       "title": "Inside Sales Contractor",
@@ -249,11 +239,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Automation Engineer - Production (m/f/d)",
-      "org": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
+      "title": "Senior Marketing Automation Engineer (all genders)",
+      "org": "hellofresh",
+      "location": "Berlin, Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/automation-engineer-production-gilching-127200",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-marketing-automation-engineer-all-genders-berlin-berlin-115083",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Lead Mechatronics and Systems Engineer - Preclinical Research",
+      "org": "Netholabs",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/lead-mechatronics-and-systems-engineer-preclinical-research-london-305817",
       "tag": "Job",
       "source": "Arbeitnow"
     },
