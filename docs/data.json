@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:26:53.156417+00:00",
+  "generated_at": "2026-08-13T19:02:16.523812+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -56,20 +56,20 @@
       "source": "Devpost"
     },
     {
-      "title": "CALL-E: Your Code Is Calling",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Communication",
-      "url": "https://call-e.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Agents for Humans Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Beginner Friendly",
       "url": "https://agentsforhumans.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "CALL-E: Your Code Is Calling",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Communication",
+      "url": "https://call-e.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -85,6 +85,24 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Assistant Account Payable",
+      "org": "The Obesity Society",
+      "location": "USA",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Remote Office Assistant",
+      "org": "Coalition Technologies ",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Inside Sales Contractor",
       "org": "Credit Wellness, LLC",
@@ -230,31 +248,82 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Product Engineer (Fullstack)",
-      "org": "Clipster",
-      "location": "Europe, UK, Germany, France, European timezones",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Marketing Automation Engineer (all genders)",
-      "org": "hellofresh",
-      "location": "Berlin, Berlin",
+      "title": "Junior Finance & Accounting Manager (m/w/d) Renewable Energy",
+      "org": "feld.energy GmbH",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-marketing-automation-engineer-all-genders-berlin-berlin-115083",
+      "url": "https://www.arbeitnow.com/jobs/companies/feldenergy-gmbh/junior-finance-accounting-manager-renewable-energy-munich-296123",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Lead Mechatronics and Systems Engineer - Preclinical Research",
-      "org": "Netholabs",
-      "location": "London",
+      "title": "Elektroniker / Mechatroniker / Betriebselektriker (m/w/d)",
+      "org": "EuSearch GmbH",
+      "location": "Werne",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/lead-mechatronics-and-systems-engineer-preclinical-research-london-305817",
+      "url": "https://www.arbeitnow.com/jobs/companies/eusearch-gmbh/elektroniker-mechatroniker-betriebselektriker-werne-246794",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior GTM AI Engineer (m/w/d) Agentic Automation & Revenue Systems",
+      "org": "Mandl. Executives & Experts",
+      "location": "Cologne",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/mandl-executives-experts/senior-gtm-ai-engineer-agentic-automation-revenue-systems-cologne-133118",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Principal AI Productivity & Automation Architect",
+      "org": "Legend",
+      "location": "United Kingdom",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legend/principal-ai-productivity-automation-architect-united-kingdom-356274",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Global Service Line Lead: Agentic Automation Engineering",
+      "org": "roboyo",
+      "location": "Europe",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roboyo/global-service-line-lead-agentic-automation-engineering-europe-378407",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "CX AI & Automation Lead",
+      "org": "Remote",
+      "location": "EMEA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/146046-cx-ai-automation-lead",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Legal Consultant - Energy / Oil & Gas",
+      "org": "Axiom",
+      "location": "APAC,  Singapore",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/146186-legal-consultant-energy-oil-gas",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Marketing Automation Manager",
+      "org": "Canonical Ltd.",
+      "location": "EMEA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/146167-senior-marketing-automation-manager",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
