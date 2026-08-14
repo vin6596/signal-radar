@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:24:19.627272+00:00",
+  "generated_at": "2026-08-14T18:53:41.746010+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -29,15 +29,6 @@
       "source": "Devpost"
     },
     {
-      "title": "CockroachDB \u00d7 AWS Hackathon - Build with Agentic Memory",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://cockroachdb-ai.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "All Things Agentic Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -47,11 +38,11 @@
       "source": "Devpost"
     },
     {
-      "title": "Arm Create: AI Optimization Challenge",
+      "title": "CockroachDB \u00d7 AWS Hackathon - Build with Agentic Memory",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
-      "url": "https://arm-ai-optimization-challenge.devpost.com/",
+      "url": "https://cockroachdb-ai.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -61,6 +52,15 @@
       "location": "Online",
       "type": "Beginner Friendly",
       "url": "https://agentsforhumans.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Arm Create: AI Optimization Challenge",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://arm-ai-optimization-challenge.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -86,11 +86,11 @@
   "internships": [],
   "jobs": [
     {
-      "title": "Assistant Account Payable",
-      "org": "The Obesity Society",
+      "title": "Face Deduplication Collection",
+      "org": "TELUS Digital",
       "location": "USA",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
+      "type": "part_time",
+      "url": "https://remotive.com/remote-jobs/all-others/face-deduplication-collection-2091093",
       "tag": "Job",
       "source": "Remotive"
     },
@@ -248,73 +248,40 @@
       "source": "Remotive"
     },
     {
+      "title": "Techniker Systemintegration / Mechatronik (m/w/d)",
+      "org": "MY Humancapital GmbH",
+      "location": "Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-systemintegration-mechatronik-munich-107141",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Working Student - Privacy Engineering & Compliance Automation (f/m/d)",
+      "org": "TYTAN Technologies GmbH",
+      "location": "Munich, Bayern, Germany",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-privacy-engineering-compliance-automation-munich-307613",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Construction Project Manager",
+      "org": "Elgin Energy",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elgin-energy/senior-construction-project-manager-london-42677",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
       "org": "Jobgether",
-      "location": "Germany",
+      "location": "UK",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/senior-software-engineer-tools-automation-germany-84380",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/senior-software-engineer-tools-automation-uk-362397",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Crm Manager*In (M/W/D) Hubspot & Marketing Automation",
-      "org": "OMR",
-      "location": "Hamburg",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/omr/senior-crm-managerin-hubspot-marketing-automation-hamburg-2097",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Operations & Automation Engineer \u2013 Renewable Energy",
-      "org": "trawa",
-      "location": "Berlin HQ",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/trawa/operations-automation-engineer-renewable-energy-berlin-455125",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AI Solutions & Process Engineer",
-      "org": "trawa",
-      "location": "Berlin HQ",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/trawa/ai-solutions-process-engineer-berlin-237655",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "CX AI & Automation Lead",
-      "org": "Remote",
-      "location": "EMEA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/146046-cx-ai-automation-lead",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Legal Consultant - Energy / Oil & Gas",
-      "org": "Axiom",
-      "location": "APAC,  Singapore",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/146186-legal-consultant-energy-oil-gas",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Senior Marketing Automation Manager",
-      "org": "Canonical Ltd.",
-      "location": "EMEA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/146167-senior-marketing-automation-manager",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
