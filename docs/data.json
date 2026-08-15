@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:37:46.138812+00:00",
+  "generated_at": "2026-08-15T18:28:49.624191+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -230,29 +230,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "org": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "org": "Lemon.io",
-      "location": "Americas, Europe, Asia, Africa, Oceania",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Techniker Systemintegration / Mechatronik (m/w/d)",
-      "org": "MY Humancapital GmbH",
+      "title": "Working Student Field Marketing and Events DACH (f/m/d)",
+      "org": "Eqs Group",
       "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-systemintegration-mechatronik-munich-107141",
+      "url": "https://www.arbeitnow.com/jobs/companies/eqs-group/working-student-field-marketing-and-events-dach-munich-191289",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Senior) Engineer Transmission Network (M/W/D) - BU3",
+      "org": "Live Reply GmbH",
+      "location": "D\u00fcsseldorf",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/live-reply-gmbh/senior-engineer-transmission-network-bu3-dusseldorf-244567",
       "tag": "Job",
       "source": "Arbeitnow"
     },
