@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T18:53:41.746010+00:00",
+  "generated_at": "2026-08-15T06:37:46.138812+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -56,15 +56,6 @@
       "source": "Devpost"
     },
     {
-      "title": "Arm Create: AI Optimization Challenge",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://arm-ai-optimization-challenge.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "CALL-E: Your Code Is Calling",
       "org": "Devpost",
       "location": "Online",
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://youcam-api.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Africa Deep Tech Challenge 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://adtc-2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -253,33 +253,6 @@
       "location": "Munich",
       "type": "On-site",
       "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-systemintegration-mechatronik-munich-107141",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Working Student - Privacy Engineering & Compliance Automation (f/m/d)",
-      "org": "TYTAN Technologies GmbH",
-      "location": "Munich, Bayern, Germany",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-privacy-engineering-compliance-automation-munich-307613",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Construction Project Manager",
-      "org": "Elgin Energy",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elgin-energy/senior-construction-project-manager-london-42677",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
-      "org": "Jobgether",
-      "location": "UK",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/senior-software-engineer-tools-automation-uk-362397",
       "tag": "Job",
       "source": "Arbeitnow"
     },
