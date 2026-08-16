@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T18:28:49.624191+00:00",
+  "generated_at": "2026-08-16T06:39:09.403136+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "AI Automation Engineer \u2013 Marketing & Operations Consulting (m/w/d) in Stuttgart, Hamburg oder Berlin \u2013 Hybrid",
+      "org": "Klickpiloten",
+      "location": "Stuttgart",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/ai-automation-engineer-marketing-operations-consulting-in-stuttgart-hamburg-oder-berlin-hybrid-126045",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Face Deduplication Collection",
@@ -230,20 +240,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Working Student Field Marketing and Events DACH (f/m/d)",
-      "org": "Eqs Group",
-      "location": "Munich",
+      "title": "Platform & DevOps Engineer (m/w/d)",
+      "org": "Yoummday GmbH",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/eqs-group/working-student-field-marketing-and-events-dach-munich-191289",
+      "url": "https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-98477",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "(Senior) Engineer Transmission Network (M/W/D) - BU3",
-      "org": "Live Reply GmbH",
-      "location": "D\u00fcsseldorf",
+      "title": "Senior Data Analyst (m/f/d)",
+      "org": "Westwing",
+      "location": "Munich Office",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/live-reply-gmbh/senior-engineer-transmission-network-bu3-dusseldorf-244567",
+      "url": "https://www.arbeitnow.com/jobs/companies/westwing/senior-data-analyst-munich-office-439986",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
+      "org": "Unitelabs",
+      "location": "M\u00fcnchen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/unitelabs/senior-python-engineer-platform-libraries-munchen-156082",
       "tag": "Job",
       "source": "Arbeitnow"
     },
