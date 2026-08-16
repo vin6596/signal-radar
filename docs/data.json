@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:39:09.403136+00:00",
+  "generated_at": "2026-08-16T18:28:20.146616+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -83,18 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "AI Automation Engineer \u2013 Marketing & Operations Consulting (m/w/d) in Stuttgart, Hamburg oder Berlin \u2013 Hybrid",
-      "org": "Klickpiloten",
-      "location": "Stuttgart",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/ai-automation-engineer-marketing-operations-consulting-in-stuttgart-hamburg-oder-berlin-hybrid-126045",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
+    {
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "org": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Face Deduplication Collection",
       "org": "TELUS Digital",
@@ -209,33 +208,6 @@
       "location": "USA",
       "type": "full_time",
       "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Independent Software Developer",
-      "org": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "type": "contract",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Independent AI Engineer / Architect",
-      "org": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "type": "contract",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Head of Marketing & Communications",
-      "org": "garden3d",
-      "location": "Worldwide",
-      "type": "contract",
-      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
       "tag": "Job",
       "source": "Remotive"
     },
