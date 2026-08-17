@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T06:54:35.308789+00:00",
+  "generated_at": "2026-08-17T18:39:17.169146+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -65,15 +65,6 @@
       "source": "Devpost"
     },
     {
-      "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://youcam-api.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Africa Deep Tech Challenge 2026",
       "org": "Devpost",
       "location": "Online",
@@ -81,10 +72,46 @@
       "url": "https://adtc-2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
+    },
+    {
+      "title": "Reverie Hacks 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly",
+      "url": "https://reverie-hacks-2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
     }
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Senior Independent AI Engineer / Architect",
+      "org": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "type": "contract",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior Independent Software Developer",
+      "org": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "type": "contract",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Head of Marketing & Communications",
+      "org": "garden3d",
+      "location": "Worldwide",
+      "type": "contract",
+      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Tech Lead Full-Stack Rails Engineer",
       "org": "Mitre Media",
@@ -203,22 +230,42 @@
       "source": "Remotive"
     },
     {
-      "title": "Patient Care Specialist",
-      "org": "STATLINX",
-      "location": "USA",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Platform & DevOps Engineer (m/w/d)",
-      "org": "Yoummday GmbH",
-      "location": "M\u00fcnchen",
+      "title": "Senior Maintenance Engineer (m/f/d)",
+      "org": "Teampicnic",
+      "location": "Falkensee, Brandenburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-98477",
+      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/senior-maintenance-engineer-falkensee-brandenburg-409206",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Maintenance Engineer (m/f/d)",
+      "org": "Teampicnic",
+      "location": "Berlin, Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/senior-maintenance-engineer-berlin-berlin-208563",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Chief Revenue Officer (m/w/d)",
+      "org": "Leafworks Gmbh",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/leafworks-gmbh/remote-chief-revenue-officer-28895",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Principal Product Manager, Accounts & Automation",
+      "org": "PolicyMe",
+      "location": "Canada",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/150899-principal-product-manager-accounts-automation",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
