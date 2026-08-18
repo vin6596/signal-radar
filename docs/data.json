@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:41:53.899022+00:00",
+  "generated_at": "2026-08-18T18:37:44.396768+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -85,6 +85,15 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Patient Care Specialist",
+      "org": "STATLINX",
+      "location": "USA",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Senior Independent AI Engineer / Architect",
       "org": "A.Team",
@@ -230,20 +239,47 @@
       "source": "Remotive"
     },
     {
-      "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
-      "org": "Vmray Gmbh",
-      "location": "Germany, Bochum or Remote (Europe)",
+      "title": "Sr. Solutions Engineer",
+      "org": "databricks",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-89931",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-engineer-munich-186893",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "AI Engineering & Automation Specialist (on-site)",
-      "org": "Cloover",
-      "location": "Berlin",
+      "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+      "org": "databricks",
+      "location": "Berlin; Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/cloover/ai-engineering-automation-specialist-on-site-berlin-215529",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-berlin-munich-271828",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation & AI Specialist (m/w/d)",
+      "org": "WorkflowX",
+      "location": "M\u00fcnchen",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/workflowx/automation-ai-specialist-munchen-229852",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Customer Solution Architect \u2013 AI & Automation (m/f/d)",
+      "org": "Cdq Ag",
+      "location": "Deutschland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/cdq-ag/senior-customer-solution-architect-ai-automation-deutschland-150736",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Business Automation Specialist - Customer Care",
+      "org": "Perk",
+      "location": "Birmingham",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/business-automation-specialist-customer-care-birmingham-368118",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -255,6 +291,17 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/business-automation-specialist-customer-care-birmingham-375218",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Devices & IOT Field Engineering Manager (Americas)",
+      "org": "Canonical Ltd.",
+      "location": "LATAM,  Canada,  USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/151016-devices-iot-field-engineering-manager-americas-2",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
