@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-08-17T18:39:17.169146+00:00",
+  "generated_at": "2026-08-18T06:41:53.899022+00:00",
   "hackathons": [
-    {
-      "title": "Build with Gemini XPRIZE",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://xprize.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
     {
       "title": "RevenueCat Shipaton 2026",
       "org": "Devpost",
@@ -38,20 +29,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Agents for Humans Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://agentsforhumans.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "CockroachDB \u00d7 AWS Hackathon - Build with Agentic Memory",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://cockroachdb-ai.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Agents for Humans Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly",
+      "url": "https://agentsforhumans.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Beginner Friendly",
       "url": "https://reverie-hacks-2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "VoltHacks",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "IoT",
+      "url": "https://volthacks.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -230,42 +230,31 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Maintenance Engineer (m/f/d)",
-      "org": "Teampicnic",
-      "location": "Falkensee, Brandenburg",
+      "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
+      "org": "Vmray Gmbh",
+      "location": "Germany, Bochum or Remote (Europe)",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/senior-maintenance-engineer-falkensee-brandenburg-409206",
+      "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-89931",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Maintenance Engineer (m/f/d)",
-      "org": "Teampicnic",
-      "location": "Berlin, Berlin",
+      "title": "AI Engineering & Automation Specialist (on-site)",
+      "org": "Cloover",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/senior-maintenance-engineer-berlin-berlin-208563",
+      "url": "https://www.arbeitnow.com/jobs/companies/cloover/ai-engineering-automation-specialist-on-site-berlin-215529",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Chief Revenue Officer (m/w/d)",
-      "org": "Leafworks Gmbh",
-      "location": "Remote",
+      "title": "Business Automation Specialist - Customer Care",
+      "org": "Perk",
+      "location": "Birmingham",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/leafworks-gmbh/remote-chief-revenue-officer-28895",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/business-automation-specialist-customer-care-birmingham-375218",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Principal Product Manager, Accounts & Automation",
-      "org": "PolicyMe",
-      "location": "Canada",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/150899-principal-product-manager-accounts-automation",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
