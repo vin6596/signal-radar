@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:44:20.532236+00:00",
+  "generated_at": "2026-08-20T18:38:23.108299+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "AI Automation Engineer \u2013 Marketing & Operations Consulting (m/w/d) in Stuttgart, Hamburg oder Berlin \u2013 Hybrid",
+      "org": "Klickpiloten",
+      "location": "Stuttgart",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/ai-automation-engineer-marketing-operations-consulting-in-stuttgart-hamburg-oder-berlin-hybrid-275783",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Patient Care Specialist",
@@ -239,47 +249,11 @@
       "source": "Remotive"
     },
     {
-      "title": "Director AI & Automation",
-      "org": "Onemedia Consulting",
-      "location": "Onemedia Germany, Munich",
+      "title": "Customer Success Associate - Renewable Energy",
+      "org": "trawa",
+      "location": "Berlin HQ",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/onemedia-consulting/director-ai-automation-onemedia-germany-munich-269990",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
-      "org": "UniteLabs Personio",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/unitelabs-personio/senior-python-engineer-platform-libraries-munchen-239108",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Werkstudent*in Information Security Awareness & Automation",
-      "org": "QAware GmbH",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/qaware-gmbh/werkstudentin-information-security-awareness-automation-munchen-366502",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Automation Engineer",
-      "org": "Heidi",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/senior-automation-engineer-london-466839",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Account Executive - UK&I",
-      "org": "nice",
-      "location": "Remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-account-executive-uki-75529",
+      "url": "https://www.arbeitnow.com/jobs/companies/trawa/customer-success-associate-renewable-energy-berlin-288494",
       "tag": "Job",
       "source": "Arbeitnow"
     },
