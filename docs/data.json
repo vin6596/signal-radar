@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T18:36:04.841303+00:00",
+  "generated_at": "2026-08-22T06:39:07.525723+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Senior Radio Frequency Engineer",
+      "org": "Andurilindustries",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-radio-frequency-engineer-london-389255",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Vice President, Technology & Digital Strategy",
@@ -248,11 +258,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Freelance Frontend Engineer (all genders)",
-      "org": "gropyus",
-      "location": "Berlin, Berlin",
+      "title": "Platform & DevOps Engineer (m/w/d)",
+      "org": "Yoummday GmbH",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/freelance-frontend-engineer-all-genders-berlin-berlin-353220",
+      "url": "https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-363402",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Sr. Solutions Engineer",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-110837",
       "tag": "Job",
       "source": "Arbeitnow"
     },
