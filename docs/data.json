@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:39:07.525723+00:00",
+  "generated_at": "2026-08-22T18:29:46.184752+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -85,16 +85,34 @@
   ],
   "internships": [
     {
-      "title": "Senior Radio Frequency Engineer",
-      "org": "Andurilindustries",
-      "location": "London",
+      "title": "Business Automation & AI Intern/Working Student (f/m/d)",
+      "org": "Liqid Lig",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-radio-frequency-engineer-london-389255",
+      "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/business-automation-ai-intern-working-student-berlin-490216",
       "tag": "Internship",
       "source": "Arbeitnow"
     }
   ],
   "jobs": [
+    {
+      "title": "Content Reviewer - English US",
+      "org": "TELUS Digital",
+      "location": "USA",
+      "type": "part_time",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-english-us-2091105",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior Golang Developer",
+      "org": "Lemon.io",
+      "location": "Europe, USA, UK, Canada, Australia, Singapore",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Vice President, Technology & Digital Strategy",
       "org": "Shatterproof",
@@ -258,22 +276,51 @@
       "source": "Remotive"
     },
     {
-      "title": "Platform & DevOps Engineer (m/w/d)",
-      "org": "Yoummday GmbH",
-      "location": "M\u00fcnchen",
+      "title": "Solutions Architect",
+      "org": "databricks",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-363402",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-munich-455392",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Sr. Solutions Engineer",
-      "org": "databricks",
-      "location": "London",
+      "title": "Chief Revenue Officer (m/w/d)",
+      "org": "Leafworks Gmbh",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-110837",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/leafworks-gmbh/remote-chief-revenue-officer-310331",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Junior Automation Specialist",
+      "org": "Perk",
+      "location": "Birmingham",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/junior-automation-specialist-birmingham-357418",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Junior Automation Specialist",
+      "org": "Perk",
+      "location": "Birmingham",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/junior-automation-specialist-birmingham-458072",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Controls Engineer II",
+      "org": "ICON plc",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/151368-controls-engineer-ii",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
