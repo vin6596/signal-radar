@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:29:46.184752+00:00",
+  "generated_at": "2026-08-23T06:39:51.571106+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -83,17 +83,7 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Business Automation & AI Intern/Working Student (f/m/d)",
-      "org": "Liqid Lig",
-      "location": "Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/business-automation-ai-intern-working-student-berlin-490216",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Content Reviewer - English US",
@@ -276,11 +266,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Solutions Architect",
-      "org": "databricks",
-      "location": "Munich",
+      "title": "QA Automation Engineer (IntelliJ IDEA Java Build Tools)",
+      "org": "jetbrains",
+      "location": "Berlin; Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-munich-455392",
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/qa-automation-engineer-intellij-idea-java-build-tools-berlin-munich-231323",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Engineering & Automation Specialist (on-site)",
+      "org": "Cloover",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/cloover/ai-engineering-automation-specialist-on-site-berlin-204043",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI & Automation Werkstudent:in (m/w/d)",
+      "org": "Startup Insider",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/startup-insider/ai-automation-werkstudentin-berlin-135532",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -303,22 +311,24 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Junior Automation Specialist",
-      "org": "Perk",
-      "location": "Birmingham",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/junior-automation-specialist-birmingham-458072",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Controls Engineer II",
-      "org": "ICON plc",
-      "location": "USA",
+      "title": "Embedded Linux Field Engineering Manager (Americas only)",
+      "org": "Canonical Ltd.",
+      "location": "LATAM,  Canada,  USA",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/151368-controls-engineer-ii",
+      "url": "https://jobicy.com/jobs/149559-embedded-linux-field-engineering-manager-americas-only",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Cloud Field Engineer",
+      "org": "Canonical Ltd.",
+      "location": "Anywhere",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
       "tag": "Job",
       "source": "Jobicy"
     },
