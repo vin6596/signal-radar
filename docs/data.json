@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T06:46:39.307921+00:00",
+  "generated_at": "2026-08-25T18:38:59.517773+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -11,20 +11,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Agentic Cinema: The Blockbuster Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Databases",
-      "url": "https://agentic-cinema.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "All Things Agentic Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Enterprise",
       "url": "https://allthingsagentichackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Agentic Cinema: The Blockbuster Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Databases",
+      "url": "https://agentic-cinema.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -248,62 +248,22 @@
       "source": "Remotive"
     },
     {
-      "title": "Working Student Automation (m/f/d)",
-      "org": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-automation-gilching-262863",
+      "title": "Automation Operations Lead (m/w/d)",
+      "org": "Ecoturn GmbH",
+      "location": "Munich",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecoturn-gmbh/automation-operations-lead-munich-342596",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior AI & CRM Automation Specialist (x/f/m)",
-      "org": "Doctolib",
-      "location": "Berlin, Berlin",
+      "title": "Automation Developer / Backoffice Automation (m/w/d)",
+      "org": "Ecoturn GmbH",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-ai-crm-automation-specialist-berlin-berlin-348486",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecoturn-gmbh/automation-developer-backoffice-automation-munich-227098",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
-      "org": "Vmray Gmbh",
-      "location": "Germany, Bochum or Remote (Europe)",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-94433",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Construction Project Manager",
-      "org": "Elgin Energy",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elgin-energy/senior-construction-project-manager-london-373656",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "SDET \u2013 Regression Automation Engineer",
-      "org": "Oowlish Technology",
-      "location": "Argentina,  Brazil,  Mexico",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/151503-sdet-regression-automation-engineer",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Senior Client Success Partner- Care Gap & Coding Automation",
-      "org": "Qventus",
-      "location": "USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/151497-senior-client-success-partner-care-gap-coding-automation",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
