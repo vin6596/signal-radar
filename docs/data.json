@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:38:59.517773+00:00",
+  "generated_at": "2026-08-26T06:49:28.415698+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -65,20 +65,20 @@
       "source": "Devpost"
     },
     {
+      "title": "The WebMCP Challenge",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://webmcp.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "3D Websites Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Design",
       "url": "https://3d-websites-hackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hack for Humanity | Summer 2026 (+13 non-cash prizes)",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://hack-for-humanity-summer-26.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -248,20 +248,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Automation Operations Lead (m/w/d)",
-      "org": "Ecoturn GmbH",
+      "title": "Industrial Controls Engineer",
+      "org": "Proxima Fusion GmbH",
       "location": "Munich",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecoturn-gmbh/automation-operations-lead-munich-342596",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/industrial-controls-engineer-munich-352892",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Developer / Backoffice Automation (m/w/d)",
-      "org": "Ecoturn GmbH",
-      "location": "Munich",
+      "title": "Sr. Solutions Engineer",
+      "org": "databricks",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecoturn-gmbh/automation-developer-backoffice-automation-munich-227098",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-480765",
       "tag": "Job",
       "source": "Arbeitnow"
     },
