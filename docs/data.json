@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T06:49:28.415698+00:00",
+  "generated_at": "2026-08-26T19:47:10.013164+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -47,6 +47,15 @@
       "source": "Devpost"
     },
     {
+      "title": "The WebMCP Challenge",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://webmcp.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "AI Builders Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -61,15 +70,6 @@
       "location": "Online",
       "type": "IoT",
       "url": "https://volthacks.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "The WebMCP Challenge",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://webmcp.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -248,20 +248,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Industrial Controls Engineer",
-      "org": "Proxima Fusion GmbH",
-      "location": "Munich",
+      "title": "Senior Consultant Microsoft Dynamics 365 (gn)",
+      "org": "Ifblueprint",
+      "location": "M\u00fcnchen oder deutschlandweit remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/industrial-controls-engineer-munich-352892",
+      "url": "https://www.arbeitnow.com/jobs/companies/ifblueprint/remote-senior-consultant-microsoft-dynamics-365-gn-167438",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Sr. Solutions Engineer",
-      "org": "databricks",
-      "location": "London",
+      "title": "Verfahrensingenieur:in Wasseraufbereitung Galvanik (all genders)",
+      "org": "Connectima GmbH",
+      "location": "Schw\u00e4bisch Gm\u00fcnd",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-480765",
+      "url": "https://www.arbeitnow.com/jobs/companies/connectima-gmbh/verfahrensingenieurin-wasseraufbereitung-galvanik-all-genders-schwabisch-gmund-393746",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior O&M Asset Manager - Europe",
+      "org": "Sungrow Emea",
+      "location": "UK - London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-217455",
       "tag": "Job",
       "source": "Arbeitnow"
     },
