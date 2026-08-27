@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:47:10.013164+00:00",
+  "generated_at": "2026-08-27T17:22:38.424798+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -38,20 +38,20 @@
       "source": "Devpost"
     },
     {
-      "title": "CALL-E: Your Code Is Calling",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Communication",
-      "url": "https://call-e.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "The WebMCP Challenge",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://webmcp.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "CALL-E: Your Code Is Calling",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Communication",
+      "url": "https://call-e.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -85,6 +85,15 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Senior DevOps Engineer",
+      "org": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Content Reviewer - English US",
       "org": "TELUS Digital",
@@ -239,40 +248,24 @@
       "source": "Remotive"
     },
     {
-      "title": "Data Labeling Specialists",
-      "org": "Workada",
-      "location": "USA",
-      "type": "freelance",
-      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Consultant Microsoft Dynamics 365 (gn)",
-      "org": "Ifblueprint",
-      "location": "M\u00fcnchen oder deutschlandweit remote",
+      "title": "Go-to-Market Engineer \u2013 AI & Automation (m/f/d)",
+      "org": "Autarcenergy",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ifblueprint/remote-senior-consultant-microsoft-dynamics-365-gn-167438",
+      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/go-to-market-engineer-ai-automation-berlin-273685",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Verfahrensingenieur:in Wasseraufbereitung Galvanik (all genders)",
-      "org": "Connectima GmbH",
-      "location": "Schw\u00e4bisch Gm\u00fcnd",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/connectima-gmbh/verfahrensingenieurin-wasseraufbereitung-galvanik-all-genders-schwabisch-gmund-393746",
+      "title": "Senior, Business Risk & AI Automation",
+      "org": "Reddit",
+      "location": "Canada",
+      "type": [
+        "Contract"
+      ],
+      "url": "https://jobicy.com/jobs/151849-senior-business-risk-ai-automation",
       "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior O&M Asset Manager - Europe",
-      "org": "Sungrow Emea",
-      "location": "UK - London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-217455",
-      "tag": "Job",
-      "source": "Arbeitnow"
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
