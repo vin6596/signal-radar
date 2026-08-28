@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T02:03:01.748905+00:00",
+  "generated_at": "2026-08-28T18:15:40.261383+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -85,6 +85,15 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Senior QA Engineer",
+      "org": "Lemon.io",
+      "location": "Europe",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-qa-engineer-2091100",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Senior DevOps Engineer",
       "org": "Lemon.io",
@@ -248,24 +257,13 @@
       "source": "Remotive"
     },
     {
-      "title": "Sr. Solutions Engineer",
-      "org": "databricks",
-      "location": "London",
+      "title": "Senior QA Automation Architect",
+      "org": "Roku",
+      "location": "Cambridge",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-126975",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-qa-automation-architect-cambridge-212965",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Lifecycle Marketing Automation Specialist",
-      "org": "PadSplit",
-      "location": "LATAM",
-      "type": [
-        "Contract"
-      ],
-      "url": "https://jobicy.com/jobs/151881-lifecycle-marketing-automation-specialist",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
