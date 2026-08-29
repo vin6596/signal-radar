@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T18:15:40.261383+00:00",
+  "generated_at": "2026-08-29T12:24:15.166561+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -38,6 +38,15 @@
       "source": "Devpost"
     },
     {
+      "title": "TikTok TechJam 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://tiktoktechjam2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "The WebMCP Challenge",
       "org": "Devpost",
       "location": "Online",
@@ -72,19 +81,19 @@
       "url": "https://volthacks.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
-    },
-    {
-      "title": "3D Websites Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Design",
-      "url": "https://3d-websites-hackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
     }
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Senior React Full-stack Developer",
+      "org": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Senior QA Engineer",
       "org": "Lemon.io",
@@ -248,20 +257,38 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Graphic Designer",
-      "org": "Lemon.io",
-      "location": "Americas, Europe, Asia, Africa, Oceania",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081",
+      "title": "Systemadministrator (m/w/d) \u2013 Automation & Tools",
+      "org": "netzbest GmbH",
+      "location": "Homeoffice",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/netzbest-gmbh/remote-systemadministrator-automation-tools-deutschlandweit-27360",
       "tag": "Job",
-      "source": "Remotive"
+      "source": "Arbeitnow"
     },
     {
-      "title": "Senior QA Automation Architect",
-      "org": "Roku",
-      "location": "Cambridge",
+      "title": "(Senior) CRM Automation & Lifecycle Manager (all genders)",
+      "org": "HolidayCheck Group AG",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-qa-automation-architect-cambridge-212965",
+      "url": "https://www.arbeitnow.com/jobs/companies/holidaycheck-group-ag/senior-crm-automation-lifecycle-manager-all-genders-munchen-487238",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Product Manager Platform (m/w/d)",
+      "org": "Kiwigrid",
+      "location": "Dresden",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/kiwigrid/product-manager-platform-dresden-209524",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer (gn) - 40 Std, (hybrid) (M\u00fcnchen)",
+      "org": "42Watt",
+      "location": "M\u00fcnchen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-316691",
       "tag": "Job",
       "source": "Arbeitnow"
     },
