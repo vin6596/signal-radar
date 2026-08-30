@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T11:22:45.228908+00:00",
+  "generated_at": "2026-08-30T20:39:06.064374+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -257,6 +257,15 @@
       "source": "Remotive"
     },
     {
+      "title": "SCADA Engineering Manager (m/f/d) \u2013 Utility Scale PV & BESS",
+      "org": "Greencells Gmbh",
+      "location": "Saarbr\u00fccken",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-161334",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
       "org": "Vmray Gmbh",
       "location": "Germany, Bochum or Remote (Europe)",
@@ -282,28 +291,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/elgin-energy/senior-construction-project-manager-london-109871",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior QA Automation Engineer (Boosters)",
-      "org": "Playson",
-      "location": "Europe",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/152043-senior-qa-automation-engineer-boosters",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "CX AI & Automation Lead",
-      "org": "Remote",
-      "location": "Ireland,  UK",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/152000-cx-ai-automation-lead-2",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
