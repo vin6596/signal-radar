@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:52:01.276150+00:00",
+  "generated_at": "2026-08-31T22:33:22.356057+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -47,15 +47,6 @@
       "source": "Devpost"
     },
     {
-      "title": "TikTok TechJam 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://tiktoktechjam2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "CALL-E: Your Code Is Calling",
       "org": "Devpost",
       "location": "Online",
@@ -65,20 +56,29 @@
       "source": "Devpost"
     },
     {
+      "title": "TikTok TechJam 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://tiktoktechjam2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Nebius x NVIDIA Global AI Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://nebiusglobalaihackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "AI Builders Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://ai-builders-hackathon-2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "VoltHacks",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "IoT",
-      "url": "https://volthacks.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -257,11 +257,11 @@
       "source": "Remotive"
     },
     {
-      "title": "(Senior) Flight Control System Engineer (m/f/d)",
-      "org": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-flight-control-system-engineer-gilching-221003",
+      "title": "QA Software Test Automation Engineers (Java)",
+      "org": "Xm",
+      "location": "Remote",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-204520",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -271,15 +271,6 @@
       "location": "UK - Milton Keynes",
       "type": "On-site",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-ev-field-service-engineer-uk-uk-milton-keynes-184210",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Construction Project Manager",
-      "org": "Elgin Energy",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elgin-energy/senior-construction-project-manager-london-109871",
       "tag": "Job",
       "source": "Arbeitnow"
     },
