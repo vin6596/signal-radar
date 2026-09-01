@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T22:33:22.356057+00:00",
+  "generated_at": "2026-09-01T11:12:16.388053+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -7,15 +7,6 @@
       "location": "Online",
       "type": "Design",
       "url": "https://revenuecat-shipaton-2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "All Things Agentic Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Enterprise",
-      "url": "https://allthingsagentichackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -56,15 +47,6 @@
       "source": "Devpost"
     },
     {
-      "title": "TikTok TechJam 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://tiktoktechjam2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Nebius x NVIDIA Global AI Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -79,6 +61,24 @@
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://ai-builders-hackathon-2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "VoltHacks",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "IoT",
+      "url": "https://volthacks.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "3D Websites Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Design",
+      "url": "https://3d-websites-hackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -99,7 +99,7 @@
       "org": "Lemon.io",
       "location": "Europe",
       "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-qa-engineer-2091100",
+      "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
       "tag": "Job",
       "source": "Remotive"
     },
@@ -127,15 +127,6 @@
       "location": "Europe, USA, UK, Canada, Australia, Singapore",
       "type": "full_time",
       "url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Vice President, Technology & Digital Strategy",
-      "org": "Shatterproof",
-      "location": "USA",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/all-others/vice-president-technology-digital-strategy-2091104",
       "tag": "Job",
       "source": "Remotive"
     },
@@ -257,22 +248,51 @@
       "source": "Remotive"
     },
     {
-      "title": "QA Software Test Automation Engineers (Java)",
-      "org": "Xm",
-      "location": "Remote",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-204520",
+      "title": "Werkstudent Technisches Marketing & Automation",
+      "org": "flexlog GmbH",
+      "location": "Karlsruhe",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/flexlog-gmbh/werkstudent-technisches-marketing-automation-karlsruhe-400185",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior EV Field Service Engineer - UK",
-      "org": "Sungrow Emea",
-      "location": "UK - Milton Keynes",
+      "title": "Werkstudent*in Information Security Awareness & Automation",
+      "org": "QAware GmbH",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-ev-field-service-engineer-uk-uk-milton-keynes-184210",
+      "url": "https://www.arbeitnow.com/jobs/companies/qaware-gmbh/werkstudentin-information-security-awareness-automation-munchen-213829",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior O&M Asset Manager - Europe",
+      "org": "Sungrow Emea",
+      "location": "UK - London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-194901",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Specialist Field Engineer - Networking",
+      "org": "Coreweave",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/senior-specialist-field-engineer-networking-london-24388",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Electrical Engineer",
+      "org": "ManTech",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/149908-electrical-engineer-2",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
