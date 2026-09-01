@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:12:16.388053+00:00",
+  "generated_at": "2026-09-01T20:38:38.765334+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "(Senior) Business Automation Developer (all genders) I International",
+      "org": "Real Digital",
+      "location": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-336366",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Senior React Full-stack Developer",
@@ -248,49 +258,24 @@
       "source": "Remotive"
     },
     {
-      "title": "Werkstudent Technisches Marketing & Automation",
-      "org": "flexlog GmbH",
-      "location": "Karlsruhe",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/flexlog-gmbh/werkstudent-technisches-marketing-automation-karlsruhe-400185",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Werkstudent*in Information Security Awareness & Automation",
-      "org": "QAware GmbH",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/qaware-gmbh/werkstudentin-information-security-awareness-automation-munchen-213829",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior O&M Asset Manager - Europe",
-      "org": "Sungrow Emea",
-      "location": "UK - London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-194901",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Specialist Field Engineer - Networking",
-      "org": "Coreweave",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/senior-specialist-field-engineer-networking-london-24388",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Engineer",
-      "org": "ManTech",
-      "location": "USA",
+      "title": "Senior QA Automation Developer (Platform)",
+      "org": "Upgrade",
+      "location": "Canada",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/149908-electrical-engineer-2",
+      "url": "https://jobicy.com/jobs/152334-senior-qa-automation-developer-platform",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Email Automation & QA Specialist",
+      "org": "Imprint",
+      "location": "USA",
+      "type": [
+        "Contract"
+      ],
+      "url": "https://jobicy.com/jobs/152332-email-automation-qa-specialist",
       "tag": "Job",
       "source": "Jobicy"
     },
