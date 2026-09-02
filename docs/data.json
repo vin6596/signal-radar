@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T20:38:38.765334+00:00",
+  "generated_at": "2026-09-02T10:45:17.677935+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -74,26 +74,16 @@
       "source": "Devpost"
     },
     {
-      "title": "3D Websites Hackathon",
+      "title": "DevNetwork [API + Cloud + AI] Hackathon 2026",
       "org": "Devpost",
-      "location": "Online",
-      "type": "Design",
-      "url": "https://3d-websites-hackathon.devpost.com/",
+      "location": "Santa Clara Convention Center and Online",
+      "type": "IoT",
+      "url": "https://api-cloud-ai-hackathon-2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "(Senior) Business Automation Developer (all genders) I International",
-      "org": "Real Digital",
-      "location": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-336366",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Senior React Full-stack Developer",
@@ -258,26 +248,31 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior QA Automation Developer (Platform)",
-      "org": "Upgrade",
-      "location": "Canada",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/152334-senior-qa-automation-developer-platform",
+      "title": "Senior Data Analyst (m/f/d)",
+      "org": "Westwing Group SE",
+      "location": "Munich Office",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/westwing-group-se/senior-data-analyst-munich-office-56362",
       "tag": "Job",
-      "source": "Jobicy"
+      "source": "Arbeitnow"
     },
     {
-      "title": "Email Automation & QA Specialist",
-      "org": "Imprint",
-      "location": "USA",
-      "type": [
-        "Contract"
-      ],
-      "url": "https://jobicy.com/jobs/152332-email-automation-qa-specialist",
+      "title": "Sr. Solutions Architect - Life Sciences",
+      "org": "databricks",
+      "location": "Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-life-sciences-munich-36699",
       "tag": "Job",
-      "source": "Jobicy"
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Sr. Solutions Architect - Automotive",
+      "org": "databricks",
+      "location": "Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-automotive-munich-463574",
+      "tag": "Job",
+      "source": "Arbeitnow"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
