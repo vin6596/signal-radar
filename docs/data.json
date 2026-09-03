@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:35:17.783634+00:00",
+  "generated_at": "2026-09-03T10:46:00.216468+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -20,20 +20,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Agents for Humans Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://agentsforhumans.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "The WebMCP Challenge",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://webmcp.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Agents for Humans Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly",
+      "url": "https://agentsforhumans.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "DevNetwork [API + Cloud + AI] Hackathon 2026",
+      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
       "org": "Devpost",
-      "location": "Santa Clara Convention Center and Online",
-      "type": "IoT",
-      "url": "https://api-cloud-ai-hackathon-2026.devpost.com/",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://amazonappdev2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -248,11 +248,20 @@
       "source": "Remotive"
     },
     {
-      "title": "DevOps Engineer Application Management Services (m/w/d)",
-      "org": "European IT Consultancy EITCO GmbH",
-      "location": "Berlin/Bonn/Essen",
+      "title": "Pulverbeschichter, Oberf\u00e4chenbeschichter, Lakierer",
+      "org": "Personalberatung Sabine Perry",
+      "location": "Bad F\u00fcssing",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/european-it-consultancy-eitco-gmbh/devops-engineer-application-management-services-berlin-bonn-essen-91056",
+      "url": "https://www.arbeitnow.com/jobs/companies/personalberatung-sabine-perry/pulverbeschichter-oberfachenbeschichter-lakierer-bad-fussing-196274",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Founding Lead Engineer \u2014 AI & Workflow Automation",
+      "org": "Founders Factory",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/founders-factory/founding-lead-engineer-ai-workflow-automation-berlin-429045",
       "tag": "Job",
       "source": "Arbeitnow"
     },
