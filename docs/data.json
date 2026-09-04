@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:34:39.961204+00:00",
+  "generated_at": "2026-09-04T10:44:12.687539+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -16,15 +16,6 @@
       "location": "Online",
       "type": "Databases",
       "url": "https://agentic-cinema.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "The WebMCP Challenge",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://webmcp.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -65,6 +56,15 @@
       "source": "Devpost"
     },
     {
+      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://amazonappdev2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "VoltHacks",
       "org": "Devpost",
       "location": "Online",
@@ -74,26 +74,16 @@
       "source": "Devpost"
     },
     {
-      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
+      "title": "Hack for Humanity | Summer 2026 (+13 non-cash prizes)",
       "org": "Devpost",
       "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://amazonappdev2026.devpost.com/",
+      "type": "Beginner Friendly",
+      "url": "https://hack-for-humanity-summer-26.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Remote AI Systems & Automation Engineer (Internal Operations) (m/f/d)",
-      "org": "Roompricegenie",
-      "location": "Remote Germany",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-ai-systems-automation-engineer-internal-operations-96452",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Senior React Full-stack Developer",
@@ -249,11 +239,11 @@
       "source": "Remotive"
     },
     {
-      "title": "Software Engineer, Backend - Core/API & Process Automation",
-      "org": "Camunda",
-      "location": "Remote",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-core-api-process-automation-492538",
+      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
+      "org": "METYCLE",
+      "location": "Cologne (GER)",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-404460",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -265,39 +255,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/elgin-energy/senior-construction-project-manager-london-17687",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Automation Sales Manager",
-      "org": "Formic",
-      "location": "USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/152414-automation-sales-manager",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Senior QA Automation Engineer (Platform)",
-      "org": "Upgrade",
-      "location": "USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Web Automation Test Engineer",
-      "org": "Caylent",
-      "location": "Brazil",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/152405-web-automation-test-engineer",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
