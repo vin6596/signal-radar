@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:44:12.687539+00:00",
+  "generated_at": "2026-09-04T20:21:15.251652+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -85,6 +85,15 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Freelance Copywriter",
+      "org": "Coalition Technologies ",
+      "location": "Worldwide",
+      "type": "freelance",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Senior React Full-stack Developer",
       "org": "Lemon.io",
@@ -239,22 +248,69 @@
       "source": "Remotive"
     },
     {
-      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
-      "org": "METYCLE",
-      "location": "Cologne (GER)",
+      "title": "Solutions Architect (Presales, Data & AI, Digital Native Business)",
+      "org": "databricks",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-404460",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-presales-data-ai-digital-native-business-london-451174",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Construction Project Manager",
-      "org": "Elgin Energy",
+      "title": "Solutions Architect (Media, Entertainment and Agencies)",
+      "org": "databricks",
       "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elgin-energy/senior-construction-project-manager-london-17687",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-media-entertainment-and-agencies-london-205041",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Infrastructure & Platform Senior Specialist Solutions Engineer",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/infrastructure-platform-senior-specialist-solutions-engineer-london-330079",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior EV Field Service Engineer - UK",
+      "org": "Sungrow Emea",
+      "location": "UK - Milton Keynes",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-ev-field-service-engineer-uk-uk-milton-keynes-97567",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior GTM Systems AI and Automation Engineer",
+      "org": "Camunda",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-447360",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Software Engineer, Backend - Core/API & Process Automation",
+      "org": "Camunda",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-core-api-process-automation-134204",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior GTM Systems & Process Engineer",
+      "org": "HackerOne",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/152516-senior-gtm-systems-process-engineer",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
