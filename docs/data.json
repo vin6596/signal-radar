@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T10:02:37.983610+00:00",
+  "generated_at": "2026-09-05T19:59:32.304048+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -221,33 +221,6 @@
       "source": "Remotive"
     },
     {
-      "title": "Sales Jedi",
-      "org": "Creative Force ",
-      "location": "Europe",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "SaaS Product Support Jedi",
-      "org": "Creative Force",
-      "location": "Europe, EMEA, UK, Germany, France, European timezones",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Freelance Writer",
-      "org": "IAPWE",
-      "location": "Worldwide",
-      "type": "freelance",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
       "title": "Senior GTM Systems AI and Automation Engineer",
       "org": "Camunda",
       "location": "Remote",
@@ -262,6 +235,15 @@
       "location": "Gilching, Bayern, Germany",
       "type": "On-site",
       "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/test-automation-engineer-gilching-80166",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Cybersecurity & AI Engineer Automation (F/H)",
+      "org": "mirakllabs",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/cybersecurity-ai-engineer-automation-f-h-paris-270282",
       "tag": "Job",
       "source": "Arbeitnow"
     },
