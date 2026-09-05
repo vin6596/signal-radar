@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T20:21:15.251652+00:00",
+  "generated_at": "2026-09-05T10:02:37.983610+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "Hack for Humanity | Summer 2026 (+13 non-cash prizes)",
+      "title": "OpenCV AI Competition 2026, powered by AWS",
       "org": "Devpost",
       "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://hack-for-humanity-summer-26.devpost.com/",
+      "type": "IoT",
+      "url": "https://opencv26.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -248,69 +248,22 @@
       "source": "Remotive"
     },
     {
-      "title": "Solutions Architect (Presales, Data & AI, Digital Native Business)",
-      "org": "databricks",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-presales-data-ai-digital-native-business-london-451174",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Solutions Architect (Media, Entertainment and Agencies)",
-      "org": "databricks",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-media-entertainment-and-agencies-london-205041",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Infrastructure & Platform Senior Specialist Solutions Engineer",
-      "org": "databricks",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/infrastructure-platform-senior-specialist-solutions-engineer-london-330079",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior EV Field Service Engineer - UK",
-      "org": "Sungrow Emea",
-      "location": "UK - Milton Keynes",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-ev-field-service-engineer-uk-uk-milton-keynes-97567",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Senior GTM Systems AI and Automation Engineer",
       "org": "Camunda",
       "location": "Remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-447360",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Software Engineer, Backend - Core/API & Process Automation",
-      "org": "Camunda",
-      "location": "Remote",
+      "title": "Test Automation Engineer (m/f/d)",
+      "org": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-core-api-process-automation-134204",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/test-automation-engineer-gilching-80166",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior GTM Systems & Process Engineer",
-      "org": "HackerOne",
-      "location": "USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/152516-senior-gtm-systems-process-engineer",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
