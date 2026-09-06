@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T19:59:32.304048+00:00",
+  "generated_at": "2026-09-06T10:22:33.015723+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -47,20 +47,20 @@
       "source": "Devpost"
     },
     {
-      "title": "AI Builders Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://ai-builders-hackathon-2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://amazonappdev2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "AI Builders Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://ai-builders-hackathon-2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "(Senior) Business Automation Developer (all genders) I International",
+      "org": "Real Digital",
+      "location": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-107411",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Freelance Copywriter",
@@ -221,29 +231,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior GTM Systems AI and Automation Engineer",
-      "org": "Camunda",
+      "title": "QA Software Test Automation Engineers (Java)",
+      "org": "Xm",
       "location": "Remote",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Test Automation Engineer (m/f/d)",
-      "org": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/test-automation-engineer-gilching-80166",
+      "url": "https://www.arbeitnow.fr/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-233007",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Cybersecurity & AI Engineer Automation (F/H)",
-      "org": "mirakllabs",
+      "title": "Senior Software Integration Engineer - Warehouse Automation",
+      "org": "Exotec",
+      "location": "Lille, France",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/senior-software-integration-engineer-warehouse-automation-lille-241230",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Solutions Engineer - Italian Speaking",
+      "org": "Algolia",
       "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/cybersecurity-ai-engineer-automation-f-h-paris-270282",
+      "url": "https://www.arbeitnow.fr/jobs/companies/algolia/solutions-engineer-italian-speaking-paris-165143",
       "tag": "Job",
       "source": "Arbeitnow"
     },
