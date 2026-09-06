@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:22:33.015723+00:00",
+  "generated_at": "2026-09-06T20:03:45.582089+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -85,16 +85,43 @@
   ],
   "internships": [
     {
-      "title": "(Senior) Business Automation Developer (all genders) I International",
-      "org": "Real Digital",
-      "location": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
+      "title": "Working Student | Accounting & Finance (m/f/d)",
+      "org": "TWAICE",
+      "location": "Munich, Hybrid",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-107411",
+      "url": "https://www.arbeitnow.com/jobs/companies/twaice/working-student-accounting-finance-munich-hybrid-314557",
       "tag": "Internship",
       "source": "Arbeitnow"
     }
   ],
   "jobs": [
+    {
+      "title": "Sales Jedi",
+      "org": "Creative Force ",
+      "location": "Europe",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "SaaS Product Support Jedi",
+      "org": "Creative Force",
+      "location": "Europe, EMEA, UK, Germany, France, European timezones",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Freelance Writer",
+      "org": "IAPWE",
+      "location": "Worldwide",
+      "type": "freelance",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Freelance Copywriter",
       "org": "Coalition Technologies ",
@@ -231,31 +258,60 @@
       "source": "Remotive"
     },
     {
-      "title": "QA Software Test Automation Engineers (Java)",
-      "org": "Xm",
-      "location": "Remote",
+      "title": "Senior Sales Consultant Smart Grids (all genders)",
+      "org": "Envelio",
+      "location": "Cologne / Remote from Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-233007",
+      "url": "https://www.arbeitnow.com/jobs/companies/envelio/remote-senior-sales-consultant-smart-grids-all-genders-91686",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Software Integration Engineer - Warehouse Automation",
-      "org": "Exotec",
-      "location": "Lille, France",
+      "title": "(Senior) CRM Automation & Lifecycle Manager (all genders)",
+      "org": "HolidayCheck Group AG",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/senior-software-integration-engineer-warehouse-automation-lille-241230",
+      "url": "https://www.arbeitnow.com/jobs/companies/holidaycheck-group-ag/senior-crm-automation-lifecycle-manager-all-genders-munchen-472955",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Solutions Engineer - Italian Speaking",
-      "org": "Algolia",
-      "location": "Paris",
+      "title": "Product Manager Platform (m/w/d)",
+      "org": "Kiwigrid",
+      "location": "Dresden",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/algolia/solutions-engineer-italian-speaking-paris-165143",
+      "url": "https://www.arbeitnow.com/jobs/companies/kiwigrid/product-manager-platform-dresden-32512",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer (gn) - 40 Std, (hybrid) (M\u00fcnchen)",
+      "org": "42Watt",
+      "location": "M\u00fcnchen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-90580",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior O&M Asset Manager - Europe",
+      "org": "Sungrow Emea",
+      "location": "UK - London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-292920",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automations Engineer, Post Sales Systems",
+      "org": "ClickUp",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/152650-automations-engineer-post-sales-systems",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
