@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:03:45.582089+00:00",
+  "generated_at": "2026-09-07T11:43:34.115393+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -85,11 +85,20 @@
   ],
   "internships": [
     {
-      "title": "Working Student | Accounting & Finance (m/f/d)",
-      "org": "TWAICE",
-      "location": "Munich, Hybrid",
+      "title": "Working Student IT & Infrastructure (m/f/d)",
+      "org": "Idealworks",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/twaice/working-student-accounting-finance-munich-hybrid-314557",
+      "url": "https://www.arbeitnow.com/jobs/companies/idealworks/working-student-it-infrastructure-munchen-115109",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Automation Engineer \u2013 Marketing & Operations Consulting (m/w/d) in Stuttgart, Hamburg oder Berlin \u2013 Hybrid",
+      "org": "Klickpiloten",
+      "location": "Stuttgart",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/ai-automation-engineer-marketing-operations-consulting-in-stuttgart-hamburg-oder-berlin-hybrid-362836",
       "tag": "Internship",
       "source": "Arbeitnow"
     }
@@ -249,47 +258,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Tier III Service Desk Engineer",
-      "org": "Unio Digital",
-      "location": "Worldwide",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Sales Consultant Smart Grids (all genders)",
-      "org": "Envelio",
-      "location": "Cologne / Remote from Germany",
+      "title": "Werkstudent*In Data & Automation (M/W/D)",
+      "org": "Ramp106 Gmbh",
+      "location": "Hamburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/envelio/remote-senior-sales-consultant-smart-grids-all-genders-91686",
+      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/werkstudentin-data-automation-hamburg-140873",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "(Senior) CRM Automation & Lifecycle Manager (all genders)",
-      "org": "HolidayCheck Group AG",
-      "location": "M\u00fcnchen",
+      "title": "(Senior) Marketing Operations Manager*In (M/W/D) Crm, Growth, Hubspot",
+      "org": "Ramp106 Gmbh",
+      "location": "Hamburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/holidaycheck-group-ag/senior-crm-automation-lifecycle-manager-all-genders-munchen-472955",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Product Manager Platform (m/w/d)",
-      "org": "Kiwigrid",
-      "location": "Dresden",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/kiwigrid/product-manager-platform-dresden-32512",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Automation Engineer (gn) - 40 Std, (hybrid) (M\u00fcnchen)",
-      "org": "42Watt",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-90580",
+      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/senior-marketing-operations-managerin-crm-growth-hubspot-hamburg-385005",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -303,13 +285,22 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Automations Engineer, Post Sales Systems",
-      "org": "ClickUp",
-      "location": "USA",
+      "title": "Cybersecurity & AI Engineer Automation (F/H)",
+      "org": "Mirakl - Labs",
+      "location": "Paris, Paris, France",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/cybersecurity-ai-engineer-automation-f-h-paris-194861",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Devices & IOT Field Engineering Manager",
+      "org": "Canonical",
+      "location": "Anywhere",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/152650-automations-engineer-post-sales-systems",
+      "url": "https://jobicy.com/jobs/150274-devices-iot-field-engineering-manager-americas",
       "tag": "Job",
       "source": "Jobicy"
     },
