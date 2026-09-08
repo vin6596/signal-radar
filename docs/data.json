@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T21:10:33.691080+00:00",
+  "generated_at": "2026-09-08T10:42:23.151759+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -29,20 +29,20 @@
       "source": "Devpost"
     },
     {
-      "title": "CALL-E: Your Code Is Calling",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Communication",
-      "url": "https://call-e.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Nebius x NVIDIA Global AI Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://nebiusglobalaihackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "CALL-E: Your Code Is Calling",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Communication",
+      "url": "https://call-e.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -239,20 +239,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Business Development Manager Wasseraufbereitung (all genders)",
-      "org": "Connectima GmbH",
-      "location": "Augsburg",
+      "title": "Solutions Architect, CustomerLake",
+      "org": "databricks",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/connectima-gmbh/business-development-manager-wasseraufbereitung-all-genders-augsburg-386888",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-customerlake-munich-50455",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior O&M Asset Manager - Europe",
-      "org": "Sungrow Emea",
-      "location": "UK - London",
+      "title": "Solutions Architect - CustomerLake",
+      "org": "databricks",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-292920",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-customerlake-berlin-489831",
       "tag": "Job",
       "source": "Arbeitnow"
     },
