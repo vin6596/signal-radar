@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T10:42:23.151759+00:00",
+  "generated_at": "2026-09-08T20:47:28.139256+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -85,6 +85,15 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Tier III Service Desk Engineer",
+      "org": "Unio Digital",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Sales Jedi",
       "org": "Creative Force ",
@@ -239,20 +248,56 @@
       "source": "Remotive"
     },
     {
-      "title": "Solutions Architect, CustomerLake",
-      "org": "databricks",
-      "location": "Munich",
+      "title": "Controls Engineer - Rust Backend (m/f/d) for the renewable energy industry",
+      "org": "H.E.A.T. Energie-Software GmbH",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-customerlake-munich-50455",
+      "url": "https://www.arbeitnow.com/jobs/companies/heat-energie-software-gmbh/controls-engineer-rust-backend-for-the-renewable-energy-industry-berlin-38841",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Solutions Architect - CustomerLake",
-      "org": "databricks",
+      "title": "Software Engineer - IoT/Cloud/Edge Backend (m/f/d) for the renewable energy industry",
+      "org": "H.E.A.T. Energie-Software GmbH",
       "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-customerlake-berlin-489831",
+      "url": "https://www.arbeitnow.com/jobs/companies/heat-energie-software-gmbh/software-engineer-iot-cloud-edge-backend-for-the-renewable-energy-industry-berlin-71176",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
+      "org": "METYCLE",
+      "location": "Cologne (GER)",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-73673",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior AV Field Engineer  (M/W/D)  - Stuttgart, Germany",
+      "org": "Mobileye",
+      "location": "Remote - Germany",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/mobileye/remote-senior-av-field-engineer-stuttgart-germany-85753",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "SCADA Engineering Manager (m/f/d) \u2013 Utility Scale PV & BESS",
+      "org": "Greencells Gmbh",
+      "location": "Saarbr\u00fccken",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-375330",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Solutions Architect, CustomerLake",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-customerlake-london-391114",
       "tag": "Job",
       "source": "Arbeitnow"
     },
