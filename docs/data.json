@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T10:51:05.044100+00:00",
+  "generated_at": "2026-09-09T20:31:59.464525+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -239,56 +239,38 @@
       "source": "Remotive"
     },
     {
-      "title": "Inside Sales Contractor",
-      "org": "Credit Wellness, LLC",
-      "location": "Worldwide",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Director AI & Automation",
-      "org": "Onemedia Consulting",
-      "location": "Onemedia Germany, Munich",
+      "title": "Mechatronics Engineering - 50 Prozent studentische Stelle (m/w/d)",
+      "org": "XRbit gUG (haftungsbeschr\u00e4nkt)",
+      "location": "Bochum",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/onemedia-consulting/director-ai-automation-onemedia-germany-munich-310057",
+      "url": "https://www.arbeitnow.com/jobs/companies/xrbit-gug-haftungsbeschrankt/mechatronics-engineering-50-prozent-studentische-stelle-bochum-169203",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Lead Business Analyst, Process & automation (London | remote)",
-      "org": "Lightspeedhq",
-      "location": "Remote in the UK",
+      "title": "Automatisierungstechniker (m/w/d)",
+      "org": "Classen Industries GmbH",
+      "location": "Baruth/Mark",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-london-remote-495940",
+      "url": "https://www.arbeitnow.com/jobs/companies/classen-industries-gmbh/automatisierungstechniker-baruth-mark-112656",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Lead Business Analyst, Process & Automation (Belfast | remote)",
-      "org": "Lightspeedhq",
-      "location": "Belfast",
+      "title": "Senior QA Automation Engineer",
+      "org": "OLR Holdings Ltd trading as DFYNE",
+      "location": "Uddingston",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-belfast-remote-309459",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Director, Customer Success",
-      "org": "nice",
-      "location": "Remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/director-customer-success-250628",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/olr-holdings-ltd-trading-as-dfyne/senior-qa-automation-engineer-uddingston-229952",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
       "title": "Solutions Architect, CustomerLake",
       "org": "databricks",
-      "location": "London",
+      "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-customerlake-london-391114",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/solutions-architect-customerlake-paris-375154",
       "tag": "Job",
       "source": "Arbeitnow"
     },
