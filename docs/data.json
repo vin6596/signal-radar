@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T20:47:28.139256+00:00",
+  "generated_at": "2026-09-09T10:51:05.044100+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -29,6 +29,15 @@
       "source": "Devpost"
     },
     {
+      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://amazonappdev2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "Nebius x NVIDIA Global AI Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -43,15 +52,6 @@
       "location": "Online",
       "type": "Communication",
       "url": "https://call-e.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://amazonappdev2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -248,47 +248,38 @@
       "source": "Remotive"
     },
     {
-      "title": "Controls Engineer - Rust Backend (m/f/d) for the renewable energy industry",
-      "org": "H.E.A.T. Energie-Software GmbH",
-      "location": "Berlin",
+      "title": "Director AI & Automation",
+      "org": "Onemedia Consulting",
+      "location": "Onemedia Germany, Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/heat-energie-software-gmbh/controls-engineer-rust-backend-for-the-renewable-energy-industry-berlin-38841",
+      "url": "https://www.arbeitnow.com/jobs/companies/onemedia-consulting/director-ai-automation-onemedia-germany-munich-310057",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Software Engineer - IoT/Cloud/Edge Backend (m/f/d) for the renewable energy industry",
-      "org": "H.E.A.T. Energie-Software GmbH",
-      "location": "Berlin",
+      "title": "Lead Business Analyst, Process & automation (London | remote)",
+      "org": "Lightspeedhq",
+      "location": "Remote in the UK",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/heat-energie-software-gmbh/software-engineer-iot-cloud-edge-backend-for-the-renewable-energy-industry-berlin-71176",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-london-remote-495940",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
-      "org": "METYCLE",
-      "location": "Cologne (GER)",
+      "title": "Lead Business Analyst, Process & Automation (Belfast | remote)",
+      "org": "Lightspeedhq",
+      "location": "Belfast",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-73673",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-belfast-remote-309459",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior AV Field Engineer  (M/W/D)  - Stuttgart, Germany",
-      "org": "Mobileye",
-      "location": "Remote - Germany",
+      "title": "Director, Customer Success",
+      "org": "nice",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/mobileye/remote-senior-av-field-engineer-stuttgart-germany-85753",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "SCADA Engineering Manager (m/f/d) \u2013 Utility Scale PV & BESS",
-      "org": "Greencells Gmbh",
-      "location": "Saarbr\u00fccken",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-375330",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/director-customer-success-250628",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -298,15 +289,6 @@
       "location": "London",
       "type": "On-site",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-customerlake-london-391114",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Cybersecurity & AI Engineer Automation (F/H)",
-      "org": "Mirakl - Labs",
-      "location": "Paris, Paris, France",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/cybersecurity-ai-engineer-automation-f-h-paris-194861",
       "tag": "Job",
       "source": "Arbeitnow"
     },
