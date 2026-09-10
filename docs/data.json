@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:45:14.839890+00:00",
+  "generated_at": "2026-09-10T20:28:53.383513+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -83,8 +83,27 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "(Senior) Business Automation Developer (all genders) I International",
+      "org": "Real Digital",
+      "location": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-64495",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
+    {
+      "title": "Inside Sales Contractor",
+      "org": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Tier III Service Desk Engineer",
       "org": "Unio Digital",
@@ -239,29 +258,38 @@
       "source": "Remotive"
     },
     {
-      "title": "Lead Solutions Architect",
-      "org": "databricks",
-      "location": "Munich",
+      "title": "QA Automation Engineer",
+      "org": "capco",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/lead-solutions-architect-munich-297257",
+      "url": "https://www.arbeitnow.com/jobs/companies/capco/qa-automation-engineer-118845",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Engineer \u2013 Magnet Industrialisation",
-      "org": "Proxima Fusion GmbH",
-      "location": "Munich",
+      "title": "Senior Software Engineer- (PLC/OT) - Product Delivery",
+      "org": "gropyus",
+      "location": "Richen, Baden-W\u00fcrttemberg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/automation-engineer-magnet-industrialisation-munich-204654",
+      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/senior-software-engineer-plc-ot-product-delivery-richen-baden-wurttemberg-493593",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior EV Field Service Engineer - UK",
-      "org": "Sungrow Emea",
-      "location": "UK - Milton Keynes",
+      "title": "Working Student \u2013 Release Support and Automation",
+      "org": "Snke",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-ev-field-service-engineer-uk-uk-milton-keynes-187489",
+      "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-release-support-and-automation-munchen-285528",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Electrical Characterisation Engineer",
+      "org": "Quantum Motion Technologies - Personio",
+      "location": "London, UK",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/senior-electrical-characterisation-engineer-london-uk-391854",
       "tag": "Job",
       "source": "Arbeitnow"
     },
