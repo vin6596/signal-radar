@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:28:53.383513+00:00",
+  "generated_at": "2026-09-11T10:42:56.000148+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -83,17 +83,7 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "(Senior) Business Automation Developer (all genders) I International",
-      "org": "Real Digital",
-      "location": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-64495",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Inside Sales Contractor",
@@ -258,38 +248,11 @@
       "source": "Remotive"
     },
     {
-      "title": "QA Automation Engineer",
-      "org": "capco",
-      "location": "Remote",
+      "title": "Senior Sales Consultant Smart Grids (all genders)",
+      "org": "Envelio",
+      "location": "Cologne / Remote from Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/capco/qa-automation-engineer-118845",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Software Engineer- (PLC/OT) - Product Delivery",
-      "org": "gropyus",
-      "location": "Richen, Baden-W\u00fcrttemberg",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/senior-software-engineer-plc-ot-product-delivery-richen-baden-wurttemberg-493593",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Working Student \u2013 Release Support and Automation",
-      "org": "Snke",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-release-support-and-automation-munchen-285528",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Electrical Characterisation Engineer",
-      "org": "Quantum Motion Technologies - Personio",
-      "location": "London, UK",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/senior-electrical-characterisation-engineer-london-uk-391854",
+      "url": "https://www.arbeitnow.com/jobs/companies/envelio/remote-senior-sales-consultant-smart-grids-all-genders-368896",
       "tag": "Job",
       "source": "Arbeitnow"
     },
