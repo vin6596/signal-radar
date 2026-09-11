@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:42:56.000148+00:00",
+  "generated_at": "2026-09-11T20:33:07.000765+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "GatewayHacks 2026 | Software & AI ",
+      "title": "Global Innovation Build Challenge V2",
       "org": "Devpost",
       "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://gatewayhacks-2026.devpost.com/",
+      "type": "Machine Learning/AI",
+      "url": "https://gibc-v2.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -100,24 +100,6 @@
       "location": "Worldwide",
       "type": "full_time",
       "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Sales Jedi",
-      "org": "Creative Force ",
-      "location": "Europe",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "SaaS Product Support Jedi",
-      "org": "Creative Force",
-      "location": "Europe, EMEA, UK, Germany, France, European timezones",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
       "tag": "Job",
       "source": "Remotive"
     },
@@ -248,20 +230,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Sales Consultant Smart Grids (all genders)",
-      "org": "Envelio",
-      "location": "Cologne / Remote from Germany",
+      "title": "DevOps Engineer Application Management Services (m/w/d)",
+      "org": "European IT Consultancy EITCO GmbH",
+      "location": "Berlin/Bonn/Essen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/envelio/remote-senior-sales-consultant-smart-grids-all-genders-368896",
+      "url": "https://www.arbeitnow.com/jobs/companies/european-it-consultancy-eitco-gmbh/devops-engineer-application-management-services-berlin-bonn-essen-254943",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Solutions Architect, CustomerLake",
-      "org": "databricks",
-      "location": "Paris",
+      "title": "Engineering Manager (m/f/d) \u2013 Power-to-X & E-Fuels Plant Engineering",
+      "org": "Ineratec Gmbh 1",
+      "location": "Karlsruhe",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/solutions-architect-customerlake-paris-375154",
+      "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-132079",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
+      "org": "Unitelabs",
+      "location": "M\u00fcnchen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/unitelabs/senior-python-engineer-platform-libraries-munchen-371781",
       "tag": "Job",
       "source": "Arbeitnow"
     },
