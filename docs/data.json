@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:33:07.000765+00:00",
+  "generated_at": "2026-09-12T10:12:05.377015+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -230,31 +230,33 @@
       "source": "Remotive"
     },
     {
-      "title": "DevOps Engineer Application Management Services (m/w/d)",
-      "org": "European IT Consultancy EITCO GmbH",
-      "location": "Berlin/Bonn/Essen",
+      "title": "Solutions Architect, CustomerLake",
+      "org": "databricks",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/european-it-consultancy-eitco-gmbh/devops-engineer-application-management-services-berlin-bonn-essen-254943",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-customerlake-berlin-114067",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Engineering Manager (m/f/d) \u2013 Power-to-X & E-Fuels Plant Engineering",
-      "org": "Ineratec Gmbh 1",
-      "location": "Karlsruhe",
+      "title": "Senior O&M Asset Manager - Europe",
+      "org": "Sungrow Emea",
+      "location": "UK - London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-132079",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-293364",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
-      "org": "Unitelabs",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/unitelabs/senior-python-engineer-platform-libraries-munchen-371781",
+      "title": "HR AI & Automation Operations Lead",
+      "org": "Remote",
+      "location": "LATAM,  Canada,  USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/153082-hr-ai-automation-operations-lead",
       "tag": "Job",
-      "source": "Arbeitnow"
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
