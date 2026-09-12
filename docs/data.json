@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:12:05.377015+00:00",
+  "generated_at": "2026-09-12T20:14:56.346509+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -83,8 +83,27 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
+      "org": "Autarcenergy",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-10886",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
+    {
+      "title": "AI Response Evaluator",
+      "org": "iMerit Technology",
+      "location": "France, Japan, Turkey, Vietnam, Mexico, Norway",
+      "type": "freelance",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Inside Sales Contractor",
       "org": "Credit Wellness, LLC",
@@ -221,40 +240,42 @@
       "source": "Remotive"
     },
     {
-      "title": "Remote Office Assistant",
-      "org": "Coalition Technologies ",
-      "location": "Worldwide",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Solutions Architect, CustomerLake",
-      "org": "databricks",
-      "location": "Berlin",
+      "title": "Senior Digital Content Consultant",
+      "org": "dept",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-customerlake-berlin-114067",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/senior-digital-content-consultant-283056",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior O&M Asset Manager - Europe",
-      "org": "Sungrow Emea",
-      "location": "UK - London",
+      "title": "Business Automation Engineer",
+      "org": "Perk",
+      "location": "Birmingham",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-293364",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/business-automation-engineer-birmingham-225263",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "HR AI & Automation Operations Lead",
-      "org": "Remote",
-      "location": "LATAM,  Canada,  USA",
+      "title": "QA Automation Lead [gn] Data Intelligence",
+      "org": "Actian",
+      "location": "Europe",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/153082-hr-ai-automation-operations-lead",
+      "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Site Reliability Engineer (Hardware Automation)",
+      "org": "Nebius",
+      "location": "Europe,  Netherlands",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/149057-senior-site-reliability-engineer-hardware-automation",
       "tag": "Job",
       "source": "Jobicy"
     },
