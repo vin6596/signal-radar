@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T11:11:25.298293+00:00",
+  "generated_at": "2026-09-13T20:24:37.733879+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -230,6 +230,15 @@
       "source": "Remotive"
     },
     {
+      "title": "Working Student (m/f/d) - Calibration",
+      "org": "Iocto",
+      "location": "Dresden - Dippoldiswalde",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/iocto/working-student-calibration-dresden-dippoldiswalde-42321",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
       "org": "METYCLE",
       "location": "Cologne (GER)",
@@ -248,35 +257,13 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Staff QA Automation Engineer",
-      "org": "tem",
-      "location": "United Kingdom",
+      "title": "Alternant(e) Logistique et Supply Chain (H/F)",
+      "org": "Sogeclair",
+      "location": "Toulouse, France",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/staff-qa-automation-engineer-united-kingdom-117080",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sogeclair/alternante-logistique-et-supply-chain-h-f-toulouse-453371",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "QA Automation Lead [gn] Data Intelligence",
-      "org": "Actian",
-      "location": "Europe",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Senior Site Reliability Engineer (Hardware Automation)",
-      "org": "Nebius",
-      "location": "Europe,  Netherlands",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/149057-senior-site-reliability-engineer-hardware-automation",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
