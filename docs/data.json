@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:14:56.346509+00:00",
+  "generated_at": "2026-09-13T11:11:25.298293+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -83,18 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
-      "org": "Autarcenergy",
-      "location": "Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-10886",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
+    {
+      "title": "Remote Office Assistant",
+      "org": "Coalition Technologies ",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "AI Response Evaluator",
       "org": "iMerit Technology",
@@ -231,29 +230,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Face Deduplication Collection",
-      "org": "TELUS Digital",
-      "location": "USA",
-      "type": "part_time",
-      "url": "https://remotive.com/remote-jobs/all-others/face-deduplication-collection-2091093",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Digital Content Consultant",
-      "org": "dept",
-      "location": "Remote",
+      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
+      "org": "METYCLE",
+      "location": "Cologne (GER)",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/senior-digital-content-consultant-283056",
+      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-12439",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Business Automation Engineer",
-      "org": "Perk",
-      "location": "Birmingham",
+      "title": "SCADA Engineering Manager (m/f/d) \u2013 Utility Scale PV & BESS",
+      "org": "Greencells Gmbh",
+      "location": "Saarbr\u00fccken",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/business-automation-engineer-birmingham-225263",
+      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-140312",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "org": "tem",
+      "location": "United Kingdom",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/staff-qa-automation-engineer-united-kingdom-117080",
       "tag": "Job",
       "source": "Arbeitnow"
     },
