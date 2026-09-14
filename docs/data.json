@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:58:08.252943+00:00",
+  "generated_at": "2026-09-14T21:34:00.839722+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -38,15 +38,6 @@
       "source": "Devpost"
     },
     {
-      "title": "CALL-E: Your Code Is Calling",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Communication",
-      "url": "https://call-e.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "AI Builders Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Beginner Friendly",
       "url": "https://nextstep2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "OneAquaHealth IEEE Global Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Health",
+      "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -230,11 +230,101 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior KI-Experte / AI & Automation (m/w/d) | Ab sofort | Vollzeit",
-      "org": "tempLED GmbH",
-      "location": "Kiefersfelden",
+      "title": "Projektleiter Steuerungstechnik (m/w/d)",
+      "org": "EW-Tec Industrieservice & Anlagentechnik GmbH",
+      "location": "Viersen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/templed-gmbh/senior-ki-experte-ai-automation-ab-sofort-vollzeit-kiefersfelden-206085",
+      "url": "https://www.arbeitnow.com/jobs/companies/ew-tec-industrieservice-anlagentechnik-gmbh/projektleiter-steuerungstechnik-viersen-250089",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "KI Automation & Content Builder (m/w/d)",
+      "org": "meetergo GmbH",
+      "location": "Cologne",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/meetergo-gmbh/ki-automation-content-builder-cologne-270474",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Solutions Architect - Lakebase",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-lakebase-london-440773",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Solutions Architect",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-london-363313",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Specialist Solutions Architect (AI/ML)",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-specialist-solutions-architect-ai-ml-london-129678",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Solutions Engineer (Technical, Presales, Data & AI, DNB)",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-engineer-technical-presales-data-ai-dnb-london-215738",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Solutions Engineer (Manufacturing, Automotive, Defence)",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-engineer-manufacturing-automotive-defence-london-40904",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Solutions Architect (Enterprise Accounts)",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-enterprise-accounts-london-284194",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Forward Deployed Engineering - Architect",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-forward-deployed-engineering-architect-london-376949",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Lead Solutions Architect  - Strategic Customers",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/lead-solutions-architect-strategic-customers-london-432997",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Infrastructure & Platform Specialist Solutions Architect (SSA)",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/infrastructure-platform-specialist-solutions-architect-ssa-london-453776",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -246,17 +336,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/sogeclair/alternante-logistique-et-supply-chain-h-f-toulouse-453371",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Delivery Solutions Architect - Oil & Gas",
-      "org": "Databricks",
-      "location": "USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/153202-delivery-solutions-architect-oil-gas",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
