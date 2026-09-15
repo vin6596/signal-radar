@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:13:42.731547+00:00",
+  "generated_at": "2026-09-15T20:55:20.062279+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -65,6 +65,15 @@
       "source": "Devpost"
     },
     {
+      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Communication",
+      "url": "https://aws-cds-partner.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "OneAquaHealth IEEE Global Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -72,18 +81,19 @@
       "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
-    },
-    {
-      "title": "Beginner's Paradise - FirstCommit",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://firstcommit.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Working Student | Accounting & Finance (m/f/d)",
+      "org": "TWAICE",
+      "location": "Munich, Hybrid",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/twaice/working-student-accounting-finance-munich-hybrid-342659",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Remote Office Assistant",
@@ -221,11 +231,56 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Network Automation Engineer (EU)",
-      "org": "Megaport",
-      "location": "United Kingdom",
+      "title": "Product Manager Platform (m/w/d)",
+      "org": "Kiwigrid",
+      "location": "Dresden",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/megaport/senior-network-automation-engineer-eu-united-kingdom-196633",
+      "url": "https://www.arbeitnow.com/jobs/companies/kiwigrid/product-manager-platform-dresden-153714",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer (gn) - 40 Std, (hybrid) (M\u00fcnchen)",
+      "org": "42Watt",
+      "location": "M\u00fcnchen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-420813",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer (gn) - 40 Std, (hybrid) (M\u00fcnchen)",
+      "org": "42Watt",
+      "location": "M\u00fcnchen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-68428",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Automation & Operations Manager (m/w/d)",
+      "org": "Creative Dreams",
+      "location": "D\u00fcsseldorf",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/creative-dreams/ai-automation-operations-manager-dusseldorf-436183",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Social Media & KI-Automation Manager (m/w/d) - 100% Remote, Vollzeit | Start: ab sofort",
+      "org": "Endo Health GmbH",
+      "location": "Chemnitz",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/endo-health-gmbh/social-media-ki-automation-manager-100-remote-vollzeit-start-ab-sofort-chemnitz-238743",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Head of Electrical Engineering, AI Factory Development",
+      "org": "Firmus",
+      "location": "Sydney, Australia",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/firmus/head-of-electrical-engineering-ai-factory-development-sydney-australia-226644",
       "tag": "Job",
       "source": "Arbeitnow"
     },
