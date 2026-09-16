@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:56:10.624058+00:00",
+  "generated_at": "2026-09-16T20:56:15.538165+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -85,6 +85,15 @@
   ],
   "internships": [
     {
+      "title": "Cloud & Data Engineering Intern / Working Student (m/f/d) - Full-Stack Data Platforms & AI Automation",
+      "org": "PFASuiki GmbH",
+      "location": "Oberhaching",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/pfasuiki-gmbh/cloud-data-engineering-intern-working-student-full-stack-data-platforms-ai-automation-oberhaching-170366",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "AI Engineer Intern, GenAI Internal Automation (GAIA)",
       "org": "Equativ",
       "location": "Paris",
@@ -95,6 +104,15 @@
     }
   ],
   "jobs": [
+    {
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "org": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Remote Office Assistant",
       "org": "Coalition Technologies ",
@@ -202,60 +220,6 @@
       "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
       "tag": "Job",
       "source": "Remotive"
-    },
-    {
-      "title": "Senior Independent AI Engineer / Architect",
-      "org": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "type": "contract",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Independent Software Developer",
-      "org": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "type": "contract",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Head of Marketing & Communications",
-      "org": "garden3d",
-      "location": "Worldwide",
-      "type": "contract",
-      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "DevOps Engineer Application Management Services (m/w/d)",
-      "org": "European IT Consultancy EITCO GmbH",
-      "location": "Berlin/Bonn/Essen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/european-it-consultancy-eitco-gmbh/devops-engineer-application-management-services-berlin-bonn-essen-24479",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Engineering Manager (m/f/d) \u2013 Power-to-X & E-Fuels Plant Engineering",
-      "org": "Ineratec Gmbh 1",
-      "location": "Karlsruhe",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-93992",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Electrical Characterisation Engineer",
-      "org": "Quantum Motion Technologies - Personio",
-      "location": "London, UK",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/senior-electrical-characterisation-engineer-london-uk-293765",
-      "tag": "Job",
-      "source": "Arbeitnow"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
