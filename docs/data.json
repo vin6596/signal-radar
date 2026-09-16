@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T20:55:20.062279+00:00",
+  "generated_at": "2026-09-16T10:56:10.624058+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -25,15 +25,6 @@
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://nebiusglobalaihackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "AI Builders Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://ai-builders-hackathon-2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -81,15 +72,24 @@
       "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
+    },
+    {
+      "title": "Beginner's Paradise - FirstCommit",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly",
+      "url": "https://firstcommit.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
     }
   ],
   "internships": [
     {
-      "title": "Working Student | Accounting & Finance (m/f/d)",
-      "org": "TWAICE",
-      "location": "Munich, Hybrid",
+      "title": "AI Engineer Intern, GenAI Internal Automation (GAIA)",
+      "org": "Equativ",
+      "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/twaice/working-student-accounting-finance-munich-hybrid-342659",
+      "url": "https://www.arbeitnow.fr/jobs/companies/equativ/ai-engineer-intern-genai-internal-automation-gaia-paris-63381",
       "tag": "Internship",
       "source": "Arbeitnow"
     }
@@ -231,56 +231,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Product Manager Platform (m/w/d)",
-      "org": "Kiwigrid",
-      "location": "Dresden",
+      "title": "DevOps Engineer Application Management Services (m/w/d)",
+      "org": "European IT Consultancy EITCO GmbH",
+      "location": "Berlin/Bonn/Essen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/kiwigrid/product-manager-platform-dresden-153714",
+      "url": "https://www.arbeitnow.com/jobs/companies/european-it-consultancy-eitco-gmbh/devops-engineer-application-management-services-berlin-bonn-essen-24479",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Engineer (gn) - 40 Std, (hybrid) (M\u00fcnchen)",
-      "org": "42Watt",
-      "location": "M\u00fcnchen",
+      "title": "Engineering Manager (m/f/d) \u2013 Power-to-X & E-Fuels Plant Engineering",
+      "org": "Ineratec Gmbh 1",
+      "location": "Karlsruhe",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-420813",
+      "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-93992",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Engineer (gn) - 40 Std, (hybrid) (M\u00fcnchen)",
-      "org": "42Watt",
-      "location": "M\u00fcnchen",
+      "title": "Senior Electrical Characterisation Engineer",
+      "org": "Quantum Motion Technologies - Personio",
+      "location": "London, UK",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-68428",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AI Automation & Operations Manager (m/w/d)",
-      "org": "Creative Dreams",
-      "location": "D\u00fcsseldorf",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/creative-dreams/ai-automation-operations-manager-dusseldorf-436183",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Social Media & KI-Automation Manager (m/w/d) - 100% Remote, Vollzeit | Start: ab sofort",
-      "org": "Endo Health GmbH",
-      "location": "Chemnitz",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/endo-health-gmbh/social-media-ki-automation-manager-100-remote-vollzeit-start-ab-sofort-chemnitz-238743",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Head of Electrical Engineering, AI Factory Development",
-      "org": "Firmus",
-      "location": "Sydney, Australia",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/firmus/head-of-electrical-engineering-ai-factory-development-sydney-australia-226644",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/senior-electrical-characterisation-engineer-london-uk-293765",
       "tag": "Job",
       "source": "Arbeitnow"
     },
