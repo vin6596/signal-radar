@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:56:15.538165+00:00",
+  "generated_at": "2026-09-17T11:05:20.862941+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -84,15 +84,6 @@
     }
   ],
   "internships": [
-    {
-      "title": "Cloud & Data Engineering Intern / Working Student (m/f/d) - Full-Stack Data Platforms & AI Automation",
-      "org": "PFASuiki GmbH",
-      "location": "Oberhaching",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/pfasuiki-gmbh/cloud-data-engineering-intern-working-student-full-stack-data-platforms-ai-automation-oberhaching-170366",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    },
     {
       "title": "AI Engineer Intern, GenAI Internal Automation (GAIA)",
       "org": "Equativ",
@@ -220,6 +211,64 @@
       "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
       "tag": "Job",
       "source": "Remotive"
+    },
+    {
+      "title": "Technical Field Engineer - Montage & Inbetriebnahme (gn)",
+      "org": "visionm GmbH",
+      "location": "Mainz",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/visionm-gmbh/technical-field-engineer-montage-inbetriebnahme-gn-mainz-158990",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Revenue Operations Manager - GTM Systems and Automation",
+      "org": "newrelic",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/newrelic/senior-revenue-operations-manager-gtm-systems-and-automation-london-217745",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior O&M Asset Manager - Europe",
+      "org": "Sungrow Emea",
+      "location": "UK - London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-170258",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Mechatronic Engineer - Automation Test Equitment",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/mechatronic-engineer-automation-test-equitment-paris-200482",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Principal Product Manager, Accounts & Automation",
+      "org": "PolicyMe",
+      "location": "Canada",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/150899-principal-product-manager-accounts-automation",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior QA Automation Engineer - Product (LATAM)",
+      "org": "Upgrade",
+      "location": "Argentina,  Brazil",
+      "type": [
+        "Contract"
+      ],
+      "url": "https://jobicy.com/jobs/153469-senior-qa-automation-engineer-product-latam",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
