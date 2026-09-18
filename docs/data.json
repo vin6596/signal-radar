@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:40:40.278810+00:00",
+  "generated_at": "2026-09-18T20:29:38.950275+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -83,18 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Mandatory Internship(Unpaid), Software Test(QA) Automation Engineer",
-      "org": "IndieKidz GmbH",
-      "location": "Berlin",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/mandatory-internshipunpaid-software-testqa-automation-engineer-berlin-121906",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
+    {
+      "title": "Senior Data Scientist",
+      "org": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Senior Independent Software Developer",
       "org": "A.Team",
@@ -231,31 +230,98 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Control Systems Engineer \u2013 Vehicle Dynamics & Abstraction (m/f/d)",
-      "org": "Quantum-Systems GmbH",
-      "location": "M\u00fcnchen, Bayern, Germany",
+      "title": "Junior Maintenance Engineer",
+      "org": "hellofresh",
+      "location": "Derby",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-control-systems-engineer-vehicle-dynamics-abstraction-munchen-70770",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/junior-maintenance-engineer-derby-290841",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "QA Software Test Automation Engineers (Java)",
-      "org": "Xm",
-      "location": "Remote",
+      "title": "Multi-Skilled Maintenance Engineer (Electrical)",
+      "org": "Thehutgroup",
+      "location": "Frome",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-241975",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/multi-skilled-maintenance-engineer-electrical-frome-155452",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Solutions Architect (Portuguese speaking) - Madrid OR Paris",
-      "org": "databricks",
-      "location": "Paris",
+      "title": "Electrical AIT Technician",
+      "org": "Hypersonica",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/solutions-architect-portuguese-speaking-madrid-or-paris-424654",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/electrical-ait-technician-london-169958",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "AIT Engineer, Electrical",
+      "org": "Hypersonica",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/ait-engineer-electrical-london-102792",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior QA Automation Engineer - AI",
+      "org": "Anaplan",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-qa-automation-engineer-ai-london-347155",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "QA Automation Engineer - AI",
+      "org": "Anaplan",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/qa-automation-engineer-ai-london-494529",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Maintenance Engineer",
+      "org": "Advancedtechnologyservices",
+      "location": "Somerset",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/advancedtechnologyservices/maintenance-engineer-somerset-439483",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Harness Design Engineer",
+      "org": "Loftorbital",
+      "location": "Toulouse, Occitanie",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/harness-design-engineer-toulouse-occitanie-343735",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Pre-sales Manager, Field Engineering - Named Accounts",
+      "org": "Databricks",
+      "location": "Denmark",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/153562-pre-sales-manager-field-engineering-named-accounts",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Electrical Engineer",
+      "org": "Lunar Energy",
+      "location": "UK",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/153551-senior-electrical-engineer",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
