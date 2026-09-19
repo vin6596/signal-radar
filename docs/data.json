@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T20:29:38.950275+00:00",
+  "generated_at": "2026-09-19T10:25:00.242084+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -230,74 +230,47 @@
       "source": "Remotive"
     },
     {
-      "title": "Junior Maintenance Engineer",
-      "org": "hellofresh",
-      "location": "Derby",
+      "title": "Process Engineer (m/f/d)",
+      "org": "Rohlik",
+      "location": "Berlin, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/junior-maintenance-engineer-derby-290841",
+      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/process-engineer-berlin-359537",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Multi-Skilled Maintenance Engineer (Electrical)",
-      "org": "Thehutgroup",
-      "location": "Frome",
+      "title": "Senior Electrical Engineer (m/f/d)",
+      "org": "Dornier MedTech GmbH",
+      "location": "DMT-Germany - Wessling",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/multi-skilled-maintenance-engineer-electrical-frome-155452",
+      "url": "https://www.arbeitnow.com/jobs/companies/dornier-medtech-gmbh/senior-electrical-engineer-dmt-germany-wessling-204650",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Electrical AIT Technician",
-      "org": "Hypersonica",
+      "title": "Junior AI-Automation Specialist (m/w/d) \u2013 vor Ort in Dortmund",
+      "org": "ATZ AG",
+      "location": "Dortmund, Nordrhein-Westfalen, Deutschland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-258748",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Solutions Engineer",
+      "org": "databricks",
       "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/electrical-ait-technician-london-169958",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-engineer-london-406972",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "AIT Engineer, Electrical",
-      "org": "Hypersonica",
-      "location": "London",
+      "title": "Senior Solutions Architect (Data & AI)",
+      "org": "databricks",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/ait-engineer-electrical-london-102792",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior QA Automation Engineer - AI",
-      "org": "Anaplan",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-qa-automation-engineer-ai-london-347155",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "QA Automation Engineer - AI",
-      "org": "Anaplan",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/qa-automation-engineer-ai-london-494529",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Maintenance Engineer",
-      "org": "Advancedtechnologyservices",
-      "location": "Somerset",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/advancedtechnologyservices/maintenance-engineer-somerset-439483",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Harness Design Engineer",
-      "org": "Loftorbital",
-      "location": "Toulouse, Occitanie",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/harness-design-engineer-toulouse-occitanie-343735",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-data-ai-467428",
       "tag": "Job",
       "source": "Arbeitnow"
     },
