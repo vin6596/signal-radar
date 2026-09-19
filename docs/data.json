@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:25:00.242084+00:00",
+  "generated_at": "2026-09-19T20:07:46.540988+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -56,6 +56,15 @@
       "source": "Devpost"
     },
     {
+      "title": "Hack the North 2026",
+      "org": "Devpost",
+      "location": "University of Waterloo \u2014 E5/PSE",
+      "type": "Beginner Friendly",
+      "url": "https://hackthenorth2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "NextStep Hacks 2026",
       "org": "Devpost",
       "location": "Online",
@@ -72,19 +81,38 @@
       "url": "https://firstcommit.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
-    },
-    {
-      "title": "OneAquaHealth IEEE Global Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Health",
-      "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Finance & AI Automation Intern (Remote Part-time)",
+      "org": "Soda Data Nv",
+      "location": "France",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-part-time-france-258419",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Finance & AI Automation Intern (Remote Full-time)",
+      "org": "Soda Data Nv",
+      "location": "France",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-full-time-france-214116",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
+    {
+      "title": "Senior .NET Full-stack Developer",
+      "org": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Senior Data Scientist",
       "org": "Lemon.io",
@@ -230,29 +258,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Process Engineer (m/f/d)",
-      "org": "Rohlik",
-      "location": "Berlin, Germany",
+      "title": "Working Student \u2013 Release Support and Automation",
+      "org": "Snke",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/process-engineer-berlin-359537",
+      "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-release-support-and-automation-munchen-248754",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Electrical Engineer (m/f/d)",
-      "org": "Dornier MedTech GmbH",
-      "location": "DMT-Germany - Wessling",
+      "title": "AI Strategy & Automation Lead (m/w/d)",
+      "org": "benuta GmbH",
+      "location": "Bonn, Nordrhein-Westfalen, Deutschland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/dornier-medtech-gmbh/senior-electrical-engineer-dmt-germany-wessling-204650",
+      "url": "https://www.arbeitnow.com/jobs/companies/benuta-gmbh/ai-strategy-automation-lead-bonn-252312",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Junior AI-Automation Specialist (m/w/d) \u2013 vor Ort in Dortmund",
-      "org": "ATZ AG",
-      "location": "Dortmund, Nordrhein-Westfalen, Deutschland",
+      "title": "Electrical Maintenance Technician",
+      "org": "Andurilindustries",
+      "location": "Sydney, Australia",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-258748",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/electrical-maintenance-technician-sydney-australia-220449",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -275,26 +303,13 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Pre-sales Manager, Field Engineering - Named Accounts",
-      "org": "Databricks",
-      "location": "Denmark",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/153562-pre-sales-manager-field-engineering-named-accounts",
+      "title": "Post-doctorant : \u00ab Artificial Intelligence for Sustainable Renewable Energy Production and Storage in Subsurface Reservoirs\u201d",
+      "org": "ECOLE NATIONALE SUPERIEURE DE TECHNIQUES AVANCEES",
+      "location": "Palaiseau, \u00cele-de-France, France",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ecole-nationale-superieure-de-techniques-avancees/post-doctorant-artificial-intelligence-for-sustainable-renewable-energy-production-and-storage-in-subsurface-reservoirs-palaiseau-315249",
       "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Senior Electrical Engineer",
-      "org": "Lunar Energy",
-      "location": "UK",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/153551-senior-electrical-engineer",
-      "tag": "Job",
-      "source": "Jobicy"
+      "source": "Arbeitnow"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
