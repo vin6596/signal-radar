@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:44:52.061444+00:00",
+  "generated_at": "2026-09-20T20:24:37.478353+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -47,15 +47,6 @@
       "source": "Devpost"
     },
     {
-      "title": "Hack the North 2026",
-      "org": "Devpost",
-      "location": "University of Waterloo \u2014 E5/PSE",
-      "type": "Beginner Friendly",
-      "url": "https://hackthenorth2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -81,20 +72,55 @@
       "url": "https://firstcommit.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
-    }
-  ],
-  "internships": [
+    },
     {
-      "title": "Internship AI & Automation - Energy (m/f/d)",
-      "org": "1Komma5Grad",
-      "location": "Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/internship-ai-automation-energy-berlin-480051",
-      "tag": "Internship",
-      "source": "Arbeitnow"
+      "title": "OneAquaHealth IEEE Global Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Health",
+      "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
     }
   ],
+  "internships": [],
   "jobs": [
+    {
+      "title": "Frontend Web Application Developer",
+      "org": "KoboToolbox",
+      "location": "USA, Canada, Argentina, Mexico, Peru",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior Shopify Developer",
+      "org": "Sanctuary Computer Inc",
+      "location": "Worldwide",
+      "type": "contract",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "\ud83c\udde9\ud83c\uddea Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
+      "org": "hey contact heroes GmbH",
+      "location": "Europe",
+      "type": "freelance",
+      "url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior AI Engineer",
+      "org": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Senior .NET Full-stack Developer",
       "org": "Lemon.io",
@@ -240,121 +266,42 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Data Engineer",
-      "org": "Lemon.io",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Infrastructure & Network Engineer - Germany",
-      "org": "Sungrow Europe - Welcome traveler!",
-      "location": "Germany - Munich",
+      "title": "Software Engineer - PLC/OT",
+      "org": "gropyus",
+      "location": "Richen, Baden-W\u00fcrttemberg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/sungrow-europe-welcome-traveler/senior-infrastructure-network-engineer-germany-germany-munich-41804",
+      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/software-engineer-plc-ot-richen-baden-wurttemberg-470157",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Sales Manager Photovoltaik & W\u00e4rmepumpen (m/w/d) \u2013 Digital Sales",
-      "org": "1Komma5Grad",
-      "location": "Berlin",
+      "title": "Semiconductor Packaging Engineer / Process Engineer Advanced Packaging (m/f/d)",
+      "org": "Swissbit",
+      "location": "DE-Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/sales-manager-photovoltaik-warmepumpen-digital-sales-berlin-327075",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/semiconductor-packaging-engineer-process-engineer-advanced-packaging-de-berlin-484924",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Product Manager Platform (m/w/d)",
-      "org": "Kiwigrid",
-      "location": "Dresden",
+      "title": "Process Development Engineer \u2013 Semiconductor Packaging (m/f/d)",
+      "org": "Swissbit",
+      "location": "DE-Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/kiwigrid/product-manager-platform-dresden-197549",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/process-development-engineer-semiconductor-packaging-de-berlin-97737",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Engineer (gn) - 40 Std, (hybrid) (M\u00fcnchen)",
-      "org": "42Watt",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-310751",
+      "title": "Electrical Engineer",
+      "org": "Serve Robotics",
+      "location": "Malaysia",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/153758-electrical-engineer-3",
       "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Automation Engineer (gn) - 40 Std, (hybrid) (M\u00fcnchen)",
-      "org": "42Watt",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-192897",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Project Manager - Customer Operations AI & Automation (f/m/d)",
-      "org": "Zeal Network",
-      "location": "United Kingdom",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/project-manager-customer-operations-ai-automation-united-kingdom-449819",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electronics Process Engineer",
-      "org": "Secheron S Dot A",
-      "location": "Lyon, France",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/secheron-s-dot-a/electronics-process-engineer-lyon-323538",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electronics Industrialization Engineer",
-      "org": "Secheron S Dot A",
-      "location": "Lyon, France",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/secheron-s-dot-a/electronics-industrialization-engineer-lyon-169722",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Sr. Manager, Field Engineering UAE",
-      "org": "databricks",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-manager-field-engineering-uae-paris-228332",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Sr. Manager, Field Engineering Qatar&Africa",
-      "org": "databricks",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-manager-field-engineering-qatarafrica-paris-464878",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Manager, Field Engineering France",
-      "org": "databricks",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/manager-field-engineering-france-paris-319183",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Technical Account Manager - France",
-      "org": "dataiku",
-      "location": "Paris; Remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-technical-account-manager-france-280044",
-      "tag": "Job",
-      "source": "Arbeitnow"
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
