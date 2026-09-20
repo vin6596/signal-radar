@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:07:46.540988+00:00",
+  "generated_at": "2026-09-20T10:44:52.061444+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -47,20 +47,20 @@
       "source": "Devpost"
     },
     {
-      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Communication",
-      "url": "https://aws-cds-partner.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Hack the North 2026",
       "org": "Devpost",
       "location": "University of Waterloo \u2014 E5/PSE",
       "type": "Beginner Friendly",
       "url": "https://hackthenorth2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Communication",
+      "url": "https://aws-cds-partner.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -85,20 +85,11 @@
   ],
   "internships": [
     {
-      "title": "Finance & AI Automation Intern (Remote Part-time)",
-      "org": "Soda Data Nv",
-      "location": "France",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-part-time-france-258419",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Finance & AI Automation Intern (Remote Full-time)",
-      "org": "Soda Data Nv",
-      "location": "France",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-full-time-france-214116",
+      "title": "Internship AI & Automation - Energy (m/f/d)",
+      "org": "1Komma5Grad",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/internship-ai-automation-energy-berlin-480051",
       "tag": "Internship",
       "source": "Arbeitnow"
     }
@@ -258,56 +249,110 @@
       "source": "Remotive"
     },
     {
-      "title": "Working Student \u2013 Release Support and Automation",
-      "org": "Snke",
+      "title": "Senior Infrastructure & Network Engineer - Germany",
+      "org": "Sungrow Europe - Welcome traveler!",
+      "location": "Germany - Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/sungrow-europe-welcome-traveler/senior-infrastructure-network-engineer-germany-germany-munich-41804",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Sales Manager Photovoltaik & W\u00e4rmepumpen (m/w/d) \u2013 Digital Sales",
+      "org": "1Komma5Grad",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/sales-manager-photovoltaik-warmepumpen-digital-sales-berlin-327075",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Product Manager Platform (m/w/d)",
+      "org": "Kiwigrid",
+      "location": "Dresden",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/kiwigrid/product-manager-platform-dresden-197549",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer (gn) - 40 Std, (hybrid) (M\u00fcnchen)",
+      "org": "42Watt",
       "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-release-support-and-automation-munchen-248754",
+      "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-310751",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "AI Strategy & Automation Lead (m/w/d)",
-      "org": "benuta GmbH",
-      "location": "Bonn, Nordrhein-Westfalen, Deutschland",
+      "title": "Automation Engineer (gn) - 40 Std, (hybrid) (M\u00fcnchen)",
+      "org": "42Watt",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/benuta-gmbh/ai-strategy-automation-lead-bonn-252312",
+      "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-192897",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Electrical Maintenance Technician",
-      "org": "Andurilindustries",
-      "location": "Sydney, Australia",
+      "title": "Project Manager - Customer Operations AI & Automation (f/m/d)",
+      "org": "Zeal Network",
+      "location": "United Kingdom",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/electrical-maintenance-technician-sydney-australia-220449",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/project-manager-customer-operations-ai-automation-united-kingdom-449819",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Solutions Engineer",
+      "title": "Electronics Process Engineer",
+      "org": "Secheron S Dot A",
+      "location": "Lyon, France",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/secheron-s-dot-a/electronics-process-engineer-lyon-323538",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Electronics Industrialization Engineer",
+      "org": "Secheron S Dot A",
+      "location": "Lyon, France",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/secheron-s-dot-a/electronics-industrialization-engineer-lyon-169722",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Sr. Manager, Field Engineering UAE",
       "org": "databricks",
-      "location": "London",
+      "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-engineer-london-406972",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-manager-field-engineering-uae-paris-228332",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Solutions Architect (Data & AI)",
+      "title": "Sr. Manager, Field Engineering Qatar&Africa",
       "org": "databricks",
-      "location": "Remote",
+      "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-data-ai-467428",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-manager-field-engineering-qatarafrica-paris-464878",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Post-doctorant : \u00ab Artificial Intelligence for Sustainable Renewable Energy Production and Storage in Subsurface Reservoirs\u201d",
-      "org": "ECOLE NATIONALE SUPERIEURE DE TECHNIQUES AVANCEES",
-      "location": "Palaiseau, \u00cele-de-France, France",
+      "title": "Manager, Field Engineering France",
+      "org": "databricks",
+      "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ecole-nationale-superieure-de-techniques-avancees/post-doctorant-artificial-intelligence-for-sustainable-renewable-energy-production-and-storage-in-subsurface-reservoirs-palaiseau-315249",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/manager-field-engineering-france-paris-319183",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Technical Account Manager - France",
+      "org": "dataiku",
+      "location": "Paris; Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-technical-account-manager-france-280044",
       "tag": "Job",
       "source": "Arbeitnow"
     },
