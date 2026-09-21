@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:09:00.814122+00:00",
+  "generated_at": "2026-09-21T21:45:03.998221+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
+      "org": "Autarcenergy",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-98083",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Frontend Web Application Developer",
@@ -248,22 +258,49 @@
       "source": "Remotive"
     },
     {
-      "title": "Automatisierungsingenieur:in",
-      "org": "Skillect",
-      "location": "Villingen-Schwenningen",
+      "title": "Advanced Packaging Electrical / Signal Integrity Architect (f/m/d)",
+      "org": "Black Semiconductor GmbH",
+      "location": "Aachen, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/skillect/automatisierungsingenieurin-villingen-schwenningen-47358",
+      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/advanced-packaging-electrical-signal-integrity-architect-aachen-88687",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Electrical Engineer",
-      "org": "Serve Robotics",
-      "location": "Malaysia",
+      "title": "SMTS - Process Engineer CMP (f/m/d)",
+      "org": "Black Semiconductor GmbH",
+      "location": "Aachen, Germany",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/smts-process-engineer-cmp-aachen-171286",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Power Systems Engineer",
+      "org": "Hypersonica",
+      "location": "Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/hypersonica/senior-power-systems-engineer-munich-242004",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Corporate Development Manager (m/w/d)",
+      "org": "Thermondo",
+      "location": "Berlin (Zentrale)",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-corporate-development-manager-berlin-zentrale-285909",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Inside Solar Energy Consultant",
+      "org": "Goodleap",
+      "location": "USA",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/153758-electrical-engineer-3",
+      "url": "https://jobicy.com/jobs/153817-inside-solar-energy-consultant",
       "tag": "Job",
       "source": "Jobicy"
     },
