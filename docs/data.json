@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:45:03.998221+00:00",
+  "generated_at": "2026-09-22T11:03:43.646359+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -85,11 +85,11 @@
   ],
   "internships": [
     {
-      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
-      "org": "Autarcenergy",
+      "title": "Software Test (QA) Automation Engineer - Mandatory Internship (Unpaid)",
+      "org": "IndieKidz GmbH",
       "location": "Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-98083",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/software-test-qa-automation-engineer-mandatory-internship-unpaid-berlin-403562",
       "tag": "Internship",
       "source": "Arbeitnow"
     }
@@ -258,49 +258,40 @@
       "source": "Remotive"
     },
     {
-      "title": "Advanced Packaging Electrical / Signal Integrity Architect (f/m/d)",
-      "org": "Black Semiconductor GmbH",
-      "location": "Aachen, Germany",
+      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
+      "org": "METYCLE",
+      "location": "Cologne (GER)",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/advanced-packaging-electrical-signal-integrity-architect-aachen-88687",
+      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-250986",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "SMTS - Process Engineer CMP (f/m/d)",
-      "org": "Black Semiconductor GmbH",
-      "location": "Aachen, Germany",
+      "title": "Senior Sales Engineer - AI Agents (Poland, CEE)",
+      "org": "nice",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/smts-process-engineer-cmp-aachen-171286",
+      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-sales-engineer-ai-agents-poland-cee-465888",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Power Systems Engineer",
-      "org": "Hypersonica",
-      "location": "Munich",
+      "title": "Staff Engineer (IT Automation & AI-native Transformation)",
+      "org": "SoSafe",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/hypersonica/senior-power-systems-engineer-munich-242004",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/staff-engineer-it-automation-ai-native-transformation-london-142370",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Corporate Development Manager (m/w/d)",
-      "org": "Thermondo",
-      "location": "Berlin (Zentrale)",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-corporate-development-manager-berlin-zentrale-285909",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Inside Solar Energy Consultant",
-      "org": "Goodleap",
+      "title": "Controls Engineer II",
+      "org": "ICON plc",
       "location": "USA",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/153817-inside-solar-energy-consultant",
+      "url": "https://jobicy.com/jobs/151368-controls-engineer-ii",
       "tag": "Job",
       "source": "Jobicy"
     },
