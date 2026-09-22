@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:03:43.646359+00:00",
+  "generated_at": "2026-09-22T20:56:58.836345+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -83,17 +83,7 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Software Test (QA) Automation Engineer - Mandatory Internship (Unpaid)",
-      "org": "IndieKidz GmbH",
-      "location": "Berlin",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/software-test-qa-automation-engineer-mandatory-internship-unpaid-berlin-403562",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Frontend Web Application Developer",
@@ -258,42 +248,31 @@
       "source": "Remotive"
     },
     {
-      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
-      "org": "METYCLE",
-      "location": "Cologne (GER)",
+      "title": "Sr. Advisor AI Transformation & Automation (w/m/d) E-Commerce",
+      "org": "IONOS SE",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-250986",
+      "url": "https://www.arbeitnow.com/jobs/companies/ionos-se/sr-advisor-ai-transformation-automation-e-commerce-berlin-307570",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Sales Engineer - AI Agents (Poland, CEE)",
-      "org": "nice",
-      "location": "Remote",
+      "title": "Sr. Advisor AI Transformation & Automation (w/m/d) E-Commerce",
+      "org": "IONOS SE",
+      "location": "Karlsruhe",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-sales-engineer-ai-agents-poland-cee-465888",
+      "url": "https://www.arbeitnow.com/jobs/companies/ionos-se/sr-advisor-ai-transformation-automation-e-commerce-karlsruhe-103003",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Staff Engineer (IT Automation & AI-native Transformation)",
-      "org": "SoSafe",
-      "location": "London",
+      "title": "Post-doctorante ou Post-doctorant en transmission et d\u00e9tection sur fibres \u00e0 c\u0153urs creux - CDD de 18 mois",
+      "org": "Institut Mines-T\u00e9l\u00e9com",
+      "location": "Palaiseau, \u00cele-de-France, France",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/staff-engineer-it-automation-ai-native-transformation-london-142370",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-ou-post-doctorant-en-transmission-et-detection-sur-fibres-a-coeurs-creux-cdd-de-18-mois-palaiseau-333356",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Controls Engineer II",
-      "org": "ICON plc",
-      "location": "USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/151368-controls-engineer-ii",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
