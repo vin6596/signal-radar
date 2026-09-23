@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:56:58.836345+00:00",
+  "generated_at": "2026-09-23T10:53:28.505318+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -248,20 +248,11 @@
       "source": "Remotive"
     },
     {
-      "title": "Sr. Advisor AI Transformation & Automation (w/m/d) E-Commerce",
-      "org": "IONOS SE",
-      "location": "Berlin",
+      "title": "Operations & Maintenance Engineer (m/f/d) part time",
+      "org": "ANGEHEUERT GmbH",
+      "location": "Hamburg, Hamburg, Deutschland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ionos-se/sr-advisor-ai-transformation-automation-e-commerce-berlin-307570",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Sr. Advisor AI Transformation & Automation (w/m/d) E-Commerce",
-      "org": "IONOS SE",
-      "location": "Karlsruhe",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ionos-se/sr-advisor-ai-transformation-automation-e-commerce-karlsruhe-103003",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/operations-maintenance-engineer-part-time-hamburg-115384",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -273,6 +264,39 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-ou-post-doctorant-en-transmission-et-detection-sur-fibres-a-coeurs-creux-cdd-de-18-mois-palaiseau-333356",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Embedded Linux Field Engineer for Devices/IoT",
+      "org": "Canonical",
+      "location": "Anywhere",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Cloud Field Engineer",
+      "org": "Canonical",
+      "location": "Anywhere",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Alliances Field Engineer",
+      "org": "Canonical",
+      "location": "Anywhere",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/149534-alliances-field-engineer",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
