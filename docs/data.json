@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:53:28.505318+00:00",
+  "generated_at": "2026-09-23T21:09:49.686132+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -85,6 +85,15 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Content Reviewer - United States",
+      "org": "TELUS Digital",
+      "location": "USA",
+      "type": "part_time",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Frontend Web Application Developer",
       "org": "KoboToolbox",
@@ -248,55 +257,22 @@
       "source": "Remotive"
     },
     {
-      "title": "Operations & Maintenance Engineer (m/f/d) part time",
-      "org": "ANGEHEUERT GmbH",
-      "location": "Hamburg, Hamburg, Deutschland",
+      "title": "Senior Electrical Engineer (m/f/d)",
+      "org": "Dornier MedTech GmbH",
+      "location": "DMT-Germany - Wessling",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/operations-maintenance-engineer-part-time-hamburg-115384",
+      "url": "https://www.arbeitnow.com/jobs/companies/dornier-medtech-gmbh/senior-electrical-engineer-dmt-germany-wessling-106741",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Post-doctorante ou Post-doctorant en transmission et d\u00e9tection sur fibres \u00e0 c\u0153urs creux - CDD de 18 mois",
-      "org": "Institut Mines-T\u00e9l\u00e9com",
-      "location": "Palaiseau, \u00cele-de-France, France",
+      "title": "Field Service Engineer (ESS / PV) - France (South)",
+      "org": "Sungrow Europe - Welcome traveler!",
+      "location": "France - remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-ou-post-doctorant-en-transmission-et-detection-sur-fibres-a-coeurs-creux-cdd-de-18-mois-palaiseau-333356",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sungrow-europe-welcome-traveler/remote-field-service-engineer-ess-pv-france-south-22671",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Embedded Linux Field Engineer for Devices/IoT",
-      "org": "Canonical",
-      "location": "Anywhere",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Cloud Field Engineer",
-      "org": "Canonical",
-      "location": "Anywhere",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Alliances Field Engineer",
-      "org": "Canonical",
-      "location": "Anywhere",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/149534-alliances-field-engineer",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
