@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:09:49.686132+00:00",
+  "generated_at": "2026-09-24T11:12:38.025151+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -257,22 +257,33 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Electrical Engineer (m/f/d)",
-      "org": "Dornier MedTech GmbH",
-      "location": "DMT-Germany - Wessling",
+      "title": "Senior AI Software Engineer",
+      "org": "nice",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/dornier-medtech-gmbh/senior-electrical-engineer-dmt-germany-wessling-106741",
+      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-ai-software-engineer-157985",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Field Service Engineer (ESS / PV) - France (South)",
-      "org": "Sungrow Europe - Welcome traveler!",
-      "location": "France - remote",
+      "title": "Working Student \u2013 Release Support and Automation",
+      "org": "Snke",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sungrow-europe-welcome-traveler/remote-field-service-engineer-ess-pv-france-south-22671",
+      "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-release-support-and-automation-munchen-131509",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "SDET \u2013 Regression Automation Engineer",
+      "org": "Oowlish Technology",
+      "location": "Argentina,  Brazil,  Mexico",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/151503-sdet-regression-automation-engineer",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
