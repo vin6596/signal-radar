@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:12:38.025151+00:00",
+  "generated_at": "2026-09-24T21:12:29.534387+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Working Student | Accounting & Finance (m/f/d)",
+      "org": "TWAICE",
+      "location": "Munich, Hybrid",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/twaice/working-student-accounting-finance-munich-hybrid-134301",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Content Reviewer - United States",
@@ -257,31 +267,31 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior AI Software Engineer",
-      "org": "nice",
-      "location": "Remote",
+      "title": "Junior Product Manager \u2013 MarTech",
+      "org": "Justwatch",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-ai-software-engineer-157985",
+      "url": "https://www.arbeitnow.com/jobs/companies/justwatch/junior-product-manager-martech-berlin-241710",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Working Student \u2013 Release Support and Automation",
-      "org": "Snke",
-      "location": "M\u00fcnchen",
+      "title": "[ VO2 FORCE ] -  QA Automation - Senior",
+      "org": "VO2 Group",
+      "location": "Paris, France",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-release-support-and-automation-munchen-131509",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-force-qa-automation-senior-paris-france-110974",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "SDET \u2013 Regression Automation Engineer",
-      "org": "Oowlish Technology",
-      "location": "Argentina,  Brazil,  Mexico",
+      "title": "Lead Automation Engineer",
+      "org": "Capital on Tap",
+      "location": "Portugal",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/151503-sdet-regression-automation-engineer",
+      "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
       "tag": "Job",
       "source": "Jobicy"
     },
