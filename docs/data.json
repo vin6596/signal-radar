@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:12:29.534387+00:00",
+  "generated_at": "2026-09-25T11:17:46.981565+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -74,26 +74,16 @@
       "source": "Devpost"
     },
     {
-      "title": "MLAI Hackathon 2026",
+      "title": "Build With AI: Basics",
       "org": "Devpost",
       "location": "Online",
-      "type": "Databases",
-      "url": "https://mlai-hackathon.devpost.com/",
+      "type": "Machine Learning/AI",
+      "url": "https://learn-ai-basics.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Working Student | Accounting & Finance (m/f/d)",
-      "org": "TWAICE",
-      "location": "Munich, Hybrid",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/twaice/working-student-accounting-finance-munich-hybrid-134301",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Content Reviewer - United States",
@@ -267,11 +257,56 @@
       "source": "Remotive"
     },
     {
-      "title": "Junior Product Manager \u2013 MarTech",
-      "org": "Justwatch",
-      "location": "Berlin",
+      "title": "DevOps Engineer Application Management Services (m/w/d)",
+      "org": "European IT Consultancy EITCO GmbH",
+      "location": "Berlin/Bonn/Essen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/justwatch/junior-product-manager-martech-berlin-241710",
+      "url": "https://www.arbeitnow.com/jobs/companies/european-it-consultancy-eitco-gmbh/devops-engineer-application-management-services-berlin-bonn-essen-209728",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Integration & Automation Engineer (m/w/d) GER",
+      "org": "Customs Support Group",
+      "location": "Remote job",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-32348",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Mobile Engineer - Instrumentation SDK (iOS) | UK | Remote",
+      "org": "grafanalabs",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-mobile-engineer-instrumentation-sdk-ios-uk-remote-495557",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer (Brighter Foods) | THG Manufacturing",
+      "org": "Thehutgroup",
+      "location": "Tywyn",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/automation-engineer-brighter-foods-thg-manufacturing-tywyn-34863",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior/ Principal Engineer - Electrical Building Services (Contract)",
+      "org": "Bakerhicks",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bakerhicks/senior-principal-engineer-electrical-building-services-contract-367366",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Principal / Lead Primary Engineer - HV Substations",
+      "org": "Bakerhicks",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bakerhicks/principal-lead-primary-engineer-hv-substations-62322",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -283,17 +318,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-force-qa-automation-senior-paris-france-110974",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Lead Automation Engineer",
-      "org": "Capital on Tap",
-      "location": "Portugal",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
