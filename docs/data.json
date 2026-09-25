@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:17:46.981565+00:00",
+  "generated_at": "2026-09-25T21:09:49.159271+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -47,6 +47,15 @@
       "source": "Devpost"
     },
     {
+      "title": "Build With AI: Basics",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://learn-ai-basics.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -70,15 +79,6 @@
       "location": "Online",
       "type": "Health",
       "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Build With AI: Basics",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://learn-ai-basics.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -257,65 +257,38 @@
       "source": "Remotive"
     },
     {
-      "title": "DevOps Engineer Application Management Services (m/w/d)",
-      "org": "European IT Consultancy EITCO GmbH",
-      "location": "Berlin/Bonn/Essen",
+      "title": "Software Provisioning Technician (m/f/d) - UGV",
+      "org": "Quantum-Systems GmbH",
+      "location": "G\u00f6ppingen, Baden-W\u00fcrttemberg, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/european-it-consultancy-eitco-gmbh/devops-engineer-application-management-services-berlin-bonn-essen-209728",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-technician-ugv-goppingen-361171",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "AI Integration & Automation Engineer (m/w/d) GER",
-      "org": "Customs Support Group",
-      "location": "Remote job",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-32348",
+      "title": "Werkstudent (m/w/d) Digital Experience \u2013 Growth, Brand & New Business",
+      "org": "Lemundo",
+      "location": "Hamburg",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/lemundo/werkstudent-digital-experience-growth-brand-new-business-hamburg-193591",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Mobile Engineer - Instrumentation SDK (iOS) | UK | Remote",
-      "org": "grafanalabs",
-      "location": "Remote",
+      "title": "Electrical Engineer (Launcher)",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-mobile-engineer-instrumentation-sdk-ios-uk-remote-495557",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-launcher-paris-144408",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Engineer (Brighter Foods) | THG Manufacturing",
-      "org": "Thehutgroup",
-      "location": "Tywyn",
+      "title": "Electrical Engineer (Electronic Warfare)",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/automation-engineer-brighter-foods-thg-manufacturing-tywyn-34863",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior/ Principal Engineer - Electrical Building Services (Contract)",
-      "org": "Bakerhicks",
-      "location": "Remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bakerhicks/senior-principal-engineer-electrical-building-services-contract-367366",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Principal / Lead Primary Engineer - HV Substations",
-      "org": "Bakerhicks",
-      "location": "Remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bakerhicks/principal-lead-primary-engineer-hv-substations-62322",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "[ VO2 FORCE ] -  QA Automation - Senior",
-      "org": "VO2 Group",
-      "location": "Paris, France",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-force-qa-automation-senior-paris-france-110974",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-electronic-warfare-paris-303251",
       "tag": "Job",
       "source": "Arbeitnow"
     },
