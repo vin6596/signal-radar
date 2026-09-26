@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:54:35.759474+00:00",
+  "generated_at": "2026-09-26T20:42:33.438946+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -248,47 +248,47 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior DevOps Engineer",
-      "org": "Lemon.io",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Electrical Engineer (Integrations)",
-      "org": "Kraken",
-      "location": "Berlin, Germany",
+      "title": "Senior Mechanical Engineer - Robotic Systems",
+      "org": "Agilerobotsse",
+      "location": "Munich, Bavaria",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/kraken/senior-electrical-engineer-integrations-berlin-50908",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-mechanical-engineer-robotic-systems-munich-bavaria-408006",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "(Senior) CRM Manager \u2013 Analytics & Automation (all genders)",
-      "org": "Sunday Natural",
-      "location": "Berlin",
+      "title": "Forward Deployed AI Engineer",
+      "org": "Agilerobotsse",
+      "location": "Munich, Bavaria",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/senior-crm-manager-analytics-automation-all-genders-berlin-190973",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/forward-deployed-ai-engineer-munich-bavaria-383839",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Network Engineer (all genders)",
-      "org": "Contabo",
-      "location": "Remote (Germany)",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-464933",
+      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
+      "org": "METYCLE",
+      "location": "Cologne (GER)",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-380072",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Supplier Engineering Manager [Electrical]",
-      "org": "Andurilindustries",
-      "location": "Sydney, Australia",
+      "title": "SCADA Engineering Manager (m/f/d) \u2013 Utility Scale PV & BESS",
+      "org": "Greencells Gmbh",
+      "location": "Saarbr\u00fccken",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/supplier-engineering-manager-electrical-sydney-australia-229907",
+      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-422415",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Techniker / Ingenieur in der Chemie- und Pharmaproduktion (m/w/d)",
+      "org": "UNA-Synth GmbH",
+      "location": "Kaltenkirchen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/una-synth-gmbh/techniker-ingenieur-in-der-chemie-und-pharmaproduktion-kaltenkirchen-237219",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -316,6 +316,15 @@
       "location": "Paris",
       "type": "On-site",
       "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-electronic-warfare-paris-303251",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "QA Software Test Automation Engineers (Java)",
+      "org": "Xm",
+      "location": "Remote",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-466766",
       "tag": "Job",
       "source": "Arbeitnow"
     },
