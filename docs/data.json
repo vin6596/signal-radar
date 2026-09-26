@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:09:49.159271+00:00",
+  "generated_at": "2026-09-26T10:54:35.759474+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -257,20 +257,47 @@
       "source": "Remotive"
     },
     {
-      "title": "Software Provisioning Technician (m/f/d) - UGV",
-      "org": "Quantum-Systems GmbH",
-      "location": "G\u00f6ppingen, Baden-W\u00fcrttemberg, Germany",
+      "title": "Senior Electrical Engineer (Integrations)",
+      "org": "Kraken",
+      "location": "Berlin, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-technician-ugv-goppingen-361171",
+      "url": "https://www.arbeitnow.com/jobs/companies/kraken/senior-electrical-engineer-integrations-berlin-50908",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Werkstudent (m/w/d) Digital Experience \u2013 Growth, Brand & New Business",
-      "org": "Lemundo",
-      "location": "Hamburg",
+      "title": "(Senior) CRM Manager \u2013 Analytics & Automation (all genders)",
+      "org": "Sunday Natural",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/lemundo/werkstudent-digital-experience-growth-brand-new-business-hamburg-193591",
+      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/senior-crm-manager-analytics-automation-all-genders-berlin-190973",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Network Engineer (all genders)",
+      "org": "Contabo",
+      "location": "Remote (Germany)",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-464933",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Supplier Engineering Manager [Electrical]",
+      "org": "Andurilindustries",
+      "location": "Sydney, Australia",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/supplier-engineering-manager-electrical-sydney-australia-229907",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI & Automation Engineer / Sales Focus",
+      "org": "Malt",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/malt/ai-automation-engineer-sales-focus-paris-40335",
       "tag": "Job",
       "source": "Arbeitnow"
     },
