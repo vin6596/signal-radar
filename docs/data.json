@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T11:30:51.640400+00:00",
+  "generated_at": "2026-09-27T20:58:08.322850+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -239,6 +239,15 @@
       "source": "Remotive"
     },
     {
+      "title": "HR AI and Automation Lead (all genders)",
+      "org": "Stark",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/hr-ai-and-automation-lead-all-genders-berlin-221535",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Flight Control Automation Engineer (m/f/d)",
       "org": "Quantum-Systems GmbH",
       "location": "Gilching, Bayern, Germany",
@@ -248,139 +257,42 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Fullstack Developer \u2013 Business Automation (m/w/d)",
-      "org": "Metergrid",
-      "location": "Hamburg",
+      "title": "CX AI & Automation Lead",
+      "org": "remotecom",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/senior-fullstack-developer-business-automation-hamburg-451040",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/remotecom/cx-ai-automation-lead-350049",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Analyst - CX Automation Intelligence & Insights",
-      "org": "hellofresh",
-      "location": "Berlin, Berlin",
+      "title": "Senior Grid Connnection Engineer",
+      "org": "Akayshaenergy",
+      "location": "Sydney, Australia",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-analyst-cx-automation-intelligence-insights-berlin-berlin-89080",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/akayshaenergy/senior-grid-connnection-engineer-sydney-australia-284483",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Electrical Characterisation Engineer",
-      "org": "Quantum Motion Technologies - Personio",
-      "location": "London, UK",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/senior-electrical-characterisation-engineer-london-uk-441418",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Engineer II (Integrations)",
-      "org": "Kraken",
-      "location": "Manchester, UK",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/electrical-engineer-ii-integrations-manchester-260447",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Electrical Engineer (Integrations)",
-      "org": "Kraken",
-      "location": "Manchester, UK",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-electrical-engineer-integrations-manchester-143920",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Embedded Electrical Engineer - SoM",
-      "org": "Harmattan Ai",
+      "title": "CAD/PLM Automation Software Engineer (Forward Deployed)",
+      "org": "Neuralconcept",
       "location": "Lausanne",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/embedded-electrical-engineer-som-lausanne-284716",
+      "url": "https://www.arbeitnow.ch/jobs/companies/neuralconcept/cad-plm-automation-software-engineer-forward-deployed-lausanne-300883",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Embedded Electrical Engineer - SoM",
-      "org": "Harmattan Ai",
-      "location": "Zurich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/embedded-electrical-engineer-som-zurich-395035",
+      "title": "Manager, Field Engineering - Strategic Digital Native Business",
+      "org": "Databricks",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/154099-manager-field-engineering-strategic-digital-native-business",
       "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Electrical Engineer",
-      "org": "Harmattan Ai",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/senior-electrical-engineer-lausanne-493346",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Field Engineer (Z\u00fcrich, 100%)",
-      "org": "Loki",
-      "location": "Z\u00fcrich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/loki/field-engineer-zurich-100-215404",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Engineer (HV + LV)",
-      "org": "Eh Group",
-      "location": "Nyon",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/electrical-engineer-hv-lv-nyon-92783",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Engineer",
-      "org": "Eh Group",
-      "location": "Nyon",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/electrical-engineer-nyon-487159",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Industrial Engineer",
-      "org": "Eh Group",
-      "location": "Nyon",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/industrial-engineer-nyon-259928",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Engineer",
-      "org": "Enactintelligence",
-      "location": "Z\u00fcrich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/electrical-engineer-zurich-223748",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Robotic Controls Engineer",
-      "org": "Enactintelligence",
-      "location": "Z\u00fcrich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/robotic-controls-engineer-zurich-107920",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Mechatronics Engineer",
-      "org": "Enactintelligence",
-      "location": "Z\u00fcrich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/mechatronics-engineer-zurich-413238",
-      "tag": "Job",
-      "source": "Arbeitnow"
+      "source": "Jobicy"
     },
     {
       "title": "Senior, Business Risk & AI Automation",
