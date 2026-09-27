@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:42:33.438946+00:00",
+  "generated_at": "2026-09-27T11:30:51.640400+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -38,20 +38,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Global Innovation Build Challenge V2",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://gibc-v2.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Build With AI: Basics",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://learn-ai-basics.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Global Innovation Build Challenge V2",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://gibc-v2.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -239,94 +239,170 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior QA Engineer",
-      "org": "Lemon.io",
-      "location": "Europe",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Mechanical Engineer - Robotic Systems",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
+      "title": "Flight Control Automation Engineer (m/f/d)",
+      "org": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-mechanical-engineer-robotic-systems-munich-bavaria-408006",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/flight-control-automation-engineer-gilching-62862",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Forward Deployed AI Engineer",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
+      "title": "Senior Fullstack Developer \u2013 Business Automation (m/w/d)",
+      "org": "Metergrid",
+      "location": "Hamburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/forward-deployed-ai-engineer-munich-bavaria-383839",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/senior-fullstack-developer-business-automation-hamburg-451040",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
-      "org": "METYCLE",
-      "location": "Cologne (GER)",
+      "title": "Senior Analyst - CX Automation Intelligence & Insights",
+      "org": "hellofresh",
+      "location": "Berlin, Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-380072",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-analyst-cx-automation-intelligence-insights-berlin-berlin-89080",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "SCADA Engineering Manager (m/f/d) \u2013 Utility Scale PV & BESS",
-      "org": "Greencells Gmbh",
-      "location": "Saarbr\u00fccken",
+      "title": "Senior Electrical Characterisation Engineer",
+      "org": "Quantum Motion Technologies - Personio",
+      "location": "London, UK",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-422415",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/senior-electrical-characterisation-engineer-london-uk-441418",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Techniker / Ingenieur in der Chemie- und Pharmaproduktion (m/w/d)",
-      "org": "UNA-Synth GmbH",
-      "location": "Kaltenkirchen",
+      "title": "Electrical Engineer II (Integrations)",
+      "org": "Kraken",
+      "location": "Manchester, UK",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/una-synth-gmbh/techniker-ingenieur-in-der-chemie-und-pharmaproduktion-kaltenkirchen-237219",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/electrical-engineer-ii-integrations-manchester-260447",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "AI & Automation Engineer / Sales Focus",
-      "org": "Malt",
-      "location": "Paris",
+      "title": "Senior Electrical Engineer (Integrations)",
+      "org": "Kraken",
+      "location": "Manchester, UK",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/malt/ai-automation-engineer-sales-focus-paris-40335",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-electrical-engineer-integrations-manchester-143920",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Electrical Engineer (Launcher)",
-      "org": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
+      "title": "Embedded Electrical Engineer - SoM",
+      "org": "Harmattan Ai",
+      "location": "Lausanne",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-launcher-paris-144408",
+      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/embedded-electrical-engineer-som-lausanne-284716",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Electrical Engineer (Electronic Warfare)",
-      "org": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
+      "title": "Embedded Electrical Engineer - SoM",
+      "org": "Harmattan Ai",
+      "location": "Zurich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-electronic-warfare-paris-303251",
+      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/embedded-electrical-engineer-som-zurich-395035",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "QA Software Test Automation Engineers (Java)",
-      "org": "Xm",
-      "location": "Remote",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-466766",
+      "title": "Senior Electrical Engineer",
+      "org": "Harmattan Ai",
+      "location": "Lausanne",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/senior-electrical-engineer-lausanne-493346",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Field Engineer (Z\u00fcrich, 100%)",
+      "org": "Loki",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/loki/field-engineer-zurich-100-215404",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Electrical Engineer (HV + LV)",
+      "org": "Eh Group",
+      "location": "Nyon",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/electrical-engineer-hv-lv-nyon-92783",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Electrical Engineer",
+      "org": "Eh Group",
+      "location": "Nyon",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/electrical-engineer-nyon-487159",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Industrial Engineer",
+      "org": "Eh Group",
+      "location": "Nyon",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/industrial-engineer-nyon-259928",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Electrical Engineer",
+      "org": "Enactintelligence",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/electrical-engineer-zurich-223748",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Robotic Controls Engineer",
+      "org": "Enactintelligence",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/robotic-controls-engineer-zurich-107920",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Mechatronics Engineer",
+      "org": "Enactintelligence",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/mechatronics-engineer-zurich-413238",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior, Business Risk & AI Automation",
+      "org": "Reddit",
+      "location": "Canada",
+      "type": [
+        "Contract"
+      ],
+      "url": "https://jobicy.com/jobs/151849-senior-business-risk-ai-automation",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Lifecycle Marketing Automation Specialist",
+      "org": "PadSplit",
+      "location": "LATAM",
+      "type": [
+        "Contract"
+      ],
+      "url": "https://jobicy.com/jobs/151881-lifecycle-marketing-automation-specialist",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
