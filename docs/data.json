@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T20:58:08.322850+00:00",
+  "generated_at": "2026-09-28T13:04:18.750073+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -56,6 +56,15 @@
       "source": "Devpost"
     },
     {
+      "title": "Meta VR Start Developer Competition 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "AR/VR",
+      "url": "https://start-developer-competition-26.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -72,18 +81,19 @@
       "url": "https://firstcommit.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
-    },
-    {
-      "title": "OneAquaHealth IEEE Global Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Health",
-      "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Praktikant Business Building & AI Automation (m/w/d) \u2013 Digital Education mit Impact",
+      "org": "Talentspring Academy",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/praktikant-business-building-ai-automation-digital-education-mit-impact-berlin-327491",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Content Reviewer - United States",
@@ -230,29 +240,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior React Full-stack Developer",
-      "org": "Lemon.io",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "HR AI and Automation Lead (all genders)",
-      "org": "Stark",
-      "location": "Berlin",
+      "title": "Verfahrensmechaniker f\u00fcr Kunststoff- und Kautschuktechnik / Kunststofftechnologe (m/w/d)",
+      "org": "Busch PROtective Germany GmbH & Co. KG",
+      "location": "G\u00fctersloh",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/hr-ai-and-automation-lead-all-genders-berlin-221535",
+      "url": "https://www.arbeitnow.com/jobs/companies/busch-protective-germany-gmbh-co-kg/verfahrensmechaniker-fur-kunststoff-und-kautschuktechnik-kunststofftechnologe-gutersloh-499920",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Flight Control Automation Engineer (m/f/d)",
-      "org": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
+      "title": "Head of Technical Operations & Automation (m/w/d)  - GreenTech/Recycling (Teilzeit 32h, Remote m\u00f6glich)",
+      "org": "ecosistant",
+      "location": "Berlin",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecosistant/head-of-technical-operations-automation-greentech-recycling-teilzeit-32h-remote-moglich-berlin-267477",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+      "org": "databricks",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/flight-control-automation-engineer-gilching-62862",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/lead-solutions-architect-generative-ai-emea-emerging-dnb-210255",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -275,46 +285,76 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "CAD/PLM Automation Software Engineer (Forward Deployed)",
-      "org": "Neuralconcept",
-      "location": "Lausanne",
+      "title": "Field Service Engineer (ESS / PV) - France (South)",
+      "org": "Sungrow Europe - Welcome traveler!",
+      "location": "France - remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/neuralconcept/cad-plm-automation-software-engineer-forward-deployed-lausanne-300883",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sungrow-europe-welcome-traveler/remote-field-service-engineer-ess-pv-france-south-467419",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Manager, Field Engineering - Strategic Digital Native Business",
-      "org": "Databricks",
-      "location": "USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/154099-manager-field-engineering-strategic-digital-native-business",
+      "title": "Electrical Engineer (Gimbal)",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-gimbal-paris-239074",
       "tag": "Job",
-      "source": "Jobicy"
+      "source": "Arbeitnow"
     },
     {
-      "title": "Senior, Business Risk & AI Automation",
-      "org": "Reddit",
-      "location": "Canada",
-      "type": [
-        "Contract"
-      ],
-      "url": "https://jobicy.com/jobs/151849-senior-business-risk-ai-automation",
+      "title": "Electrical Engineer (Tooling)",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-tooling-paris-197270",
       "tag": "Job",
-      "source": "Jobicy"
+      "source": "Arbeitnow"
     },
     {
-      "title": "Lifecycle Marketing Automation Specialist",
-      "org": "PadSplit",
-      "location": "LATAM",
-      "type": [
-        "Contract"
-      ],
-      "url": "https://jobicy.com/jobs/151881-lifecycle-marketing-automation-specialist",
+      "title": "Electrical Engineer (Ground Control System)",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-ground-control-system-paris-206218",
       "tag": "Job",
-      "source": "Jobicy"
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Embedded Electrical Engineer - SoM",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/embedded-electrical-engineer-som-paris-376101",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Solutions Architect - CPG and Manufacturing",
+      "org": "databricks",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/solutions-architect-cpg-and-manufacturing-zurich-79219",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Manager, Field Engineering - Polish speaker",
+      "org": "databricks",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/manager-field-engineering-polish-speaker-zurich-419286",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Ing\u00e9nieur Automation",
+      "org": "cross-ING AG",
+      "location": "Yverdon-les-Bains, Waadt, Schweiz",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/ingenieur-automation-yverdon-les-bains-343787",
+      "tag": "Job",
+      "source": "Arbeitnow"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
