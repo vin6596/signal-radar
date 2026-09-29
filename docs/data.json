@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:15:11.455411+00:00",
+  "generated_at": "2026-09-29T21:57:00.805966+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -230,92 +230,56 @@
       "source": "Remotive"
     },
     {
-      "title": "Applikationsingenieur:in (all genders)",
-      "org": "Connectima GmbH",
-      "location": "Hamburg",
+      "title": "Supply Chain Manager*in (m/w/d)",
+      "org": "Memodo Gmbh",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/connectima-gmbh/applikationsingenieurin-all-genders-hamburg-57125",
+      "url": "https://www.arbeitnow.com/jobs/companies/memodo-gmbh/supply-chain-managerin-munchen-451016",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Sales Consultant Smart Grids (all genders)",
-      "org": "Envelio",
-      "location": "Cologne / Remote from Germany",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/envelio/remote-senior-sales-consultant-smart-grids-all-genders-343876",
+      "title": "Senior Communications Manager",
+      "org": "Skeletontech",
+      "location": "Germany",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/skeletontech/remote-senior-communications-manager-germany-25167",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Infrastructure & Network Engineer - Germany",
-      "org": "Sungrow Europe - Welcome traveler!",
-      "location": "Germany - Munich",
+      "title": "Automation & AI Operations Engineer (m/w/d)",
+      "org": "ECOZA GmbH",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/sungrow-europe-welcome-traveler/senior-infrastructure-network-engineer-germany-germany-munich-405535",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecoza-gmbh/automation-ai-operations-engineer-munchen-249301",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Technischer Systemplaner Geb\u00e4udeautomation / MSR-Technik (m/w/d)",
-      "org": "ISG - automation GmbH",
-      "location": "Rostock",
+      "title": "AI Automation Engineer (m/w/d)",
+      "org": "ECOZA GmbH",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/isg-automation-gmbh/technischer-systemplaner-gebaudeautomation-msr-technik-rostock-411041",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecoza-gmbh/ai-automation-engineer-munchen-361040",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Servicetechniker Dosiertechnik & Sondermaschinenbau (m/w/d)",
-      "org": "Walther Systemtechnik GmbH",
-      "location": "Germersheim",
+      "title": "Operations & Automation Associate",
+      "org": "Nous",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/walther-systemtechnik-gmbh/servicetechniker-dosiertechnik-sondermaschinenbau-germersheim-382570",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nous/operations-automation-associate-london-255095",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Field Service Engineer (ESS / PV) - France (South)",
-      "org": "Sungrow Europe - Welcome traveler!",
-      "location": "France - remote",
+      "title": "Electrical Integration Engineer",
+      "org": "Hive Autonomy",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sungrow-europe-welcome-traveler/remote-field-service-engineer-ess-pv-france-south-467419",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Engineer (Gimbal)",
-      "org": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-gimbal-paris-239074",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Engineer (Tooling)",
-      "org": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-tooling-paris-197270",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Engineer (Ground Control System)",
-      "org": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-ground-control-system-paris-206218",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Embedded Electrical Engineer - SoM",
-      "org": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/embedded-electrical-engineer-som-paris-376101",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hive-autonomy/electrical-integration-engineer-london-178722",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -325,15 +289,6 @@
       "location": "Z\u00fcrich",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/databricks/solutions-architect-cpg-and-manufacturing-zurich-79219",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Manager, Field Engineering - Polish speaker",
-      "org": "databricks",
-      "location": "Z\u00fcrich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/manager-field-engineering-polish-speaker-zurich-419286",
       "tag": "Job",
       "source": "Arbeitnow"
     },
