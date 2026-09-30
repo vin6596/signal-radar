@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T21:57:00.805966+00:00",
+  "generated_at": "2026-09-30T12:00:38.981730+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -230,65 +230,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Supply Chain Manager*in (m/w/d)",
-      "org": "Memodo Gmbh",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/memodo-gmbh/supply-chain-managerin-munchen-451016",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Communications Manager",
-      "org": "Skeletontech",
-      "location": "Germany",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/skeletontech/remote-senior-communications-manager-germany-25167",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Automation & AI Operations Engineer (m/w/d)",
-      "org": "ECOZA GmbH",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecoza-gmbh/automation-ai-operations-engineer-munchen-249301",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AI Automation Engineer (m/w/d)",
-      "org": "ECOZA GmbH",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecoza-gmbh/ai-automation-engineer-munchen-361040",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Operations & Automation Associate",
-      "org": "Nous",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nous/operations-automation-associate-london-255095",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Integration Engineer",
-      "org": "Hive Autonomy",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hive-autonomy/electrical-integration-engineer-london-178722",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Solutions Architect - CPG and Manufacturing",
+      "title": "Sr. Solutions Architect",
       "org": "databricks",
-      "location": "Z\u00fcrich",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/solutions-architect-cpg-and-manufacturing-zurich-79219",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-architect-london-292548",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Specialist Solutions Architect (SSA) (Cloud Infrastructure)",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/specialist-solutions-architect-ssa-cloud-infrastructure-london-232129",
       "tag": "Job",
       "source": "Arbeitnow"
     },
