@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:00:38.981730+00:00",
+  "generated_at": "2026-09-30T21:55:30.097506+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -74,16 +74,26 @@
       "source": "Devpost"
     },
     {
-      "title": "Beginner's Paradise - FirstCommit",
+      "title": "Multimodal AI Hackathon 2026",
       "org": "Devpost",
       "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://firstcommit.devpost.com/",
+      "type": "Machine Learning/AI",
+      "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "(Unpaid) Mandatory Internship : Software Test (QA) Automation Engineer",
+      "org": "IndieKidz GmbH",
+      "location": "Berlin",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/unpaid-mandatory-internship-software-test-qa-automation-engineer-berlin-320686",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Content Reviewer - United States",
@@ -230,20 +240,65 @@
       "source": "Remotive"
     },
     {
-      "title": "Sr. Solutions Architect",
-      "org": "databricks",
-      "location": "London",
+      "title": "C++ Software Engineer (m/f/d) Platform Infrastructure",
+      "org": "Agilerobotsse",
+      "location": "Munich, Bavaria",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-architect-london-292548",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/c-software-engineer-platform-infrastructure-munich-bavaria-329628",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Specialist Solutions Architect (SSA) (Cloud Infrastructure)",
-      "org": "databricks",
-      "location": "London",
+      "title": "Senior Network Engineer (all genders)",
+      "org": "Contabo",
+      "location": "Remote (Germany)",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-456157",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Corporate Development Manager (m/w/d)",
+      "org": "Thermondo",
+      "location": "Berlin (Zentrale)",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/specialist-solutions-architect-ssa-cloud-infrastructure-london-232129",
+      "url": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-corporate-development-manager-berlin-zentrale-34533",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Marketing Manager - KI & Automation (m/w/d)",
+      "org": "Omnora GmbH",
+      "location": "Frankfurt am Main",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/omnora-gmbh/marketing-manager-ki-automation-frankfurt-am-main-4109",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Business Analyst (m/w/d) \u2013 Agentisierung & AI Automation",
+      "org": "Omnora GmbH",
+      "location": "Frankfurt am Main",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/omnora-gmbh/business-analyst-agentisierung-ai-automation-frankfurt-am-main-140549",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Electrical Engineer",
+      "org": "Andurilindustries",
+      "location": "Sydney, Australia",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-electrical-engineer-sydney-australia-389291",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Manufacturing Test Automation Engineer",
+      "org": "Andurilindustries",
+      "location": "Sydney, Australia",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/manufacturing-test-automation-engineer-sydney-australia-291923",
       "tag": "Job",
       "source": "Arbeitnow"
     },
