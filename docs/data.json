@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:52:48.679227+00:00",
+  "generated_at": "2026-10-03T11:12:11.650892+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -16,6 +16,15 @@
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://nebiusglobalaihackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "PayPal AI Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Low/No Code",
+      "url": "https://paypalaihackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -47,15 +56,6 @@
       "source": "Devpost"
     },
     {
-      "title": "PayPal AI Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Low/No Code",
-      "url": "https://paypalaihackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Multimodal AI Hackathon 2026",
       "org": "Devpost",
       "location": "Online",
@@ -83,17 +83,7 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Intern (m/f/d) Software Test Automation",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/intern-software-test-automation-munich-bavaria-68883",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Senior back-end Engineer",
@@ -240,56 +230,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Freelance Copywriter",
-      "org": "Coalition Technologies ",
-      "location": "Worldwide",
-      "type": "freelance",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Software Engineer (m/f/d) Industrial Robot Control",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
+      "title": "Verfahrensingenieur / Prozessingenieur f\u00fcr Wasseraufbereitungs- und Dosiertechnik (m/w/d)",
+      "org": "Dr. Herbert Executive Consultants",
+      "location": "W\u00fcrzburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/software-engineer-industrial-robot-control-munich-bavaria-17126",
+      "url": "https://www.arbeitnow.com/jobs/companies/dr-herbert-executive-consultants/verfahrensingenieur-prozessingenieur-fur-wasseraufbereitungs-und-dosiertechnik-wurzburg-475525",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "(Senior) Electronics Engineer (m/f/d)",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
+      "title": "Verfahrensingenieur - Wasseraufbereitung und Dosieranlagen (m/w/d)",
+      "org": "Dr. Herbert Executive Consultants",
+      "location": "W\u00fcrzburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-electronics-engineer-munich-bavaria-42800",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Mechatronics and Hardware Test Engineer (m/f/d)",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/mechatronics-and-hardware-test-engineer-munich-bavaria-120242",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Staff Engineer for IT Automation & AI transformation (Remote)",
-      "org": "SoSafe",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/staff-engineer-for-it-automation-ai-transformation-remote-london-461734",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Electrical Characterisation Engineer",
-      "org": "Quantum Motion Technologies - Personio",
-      "location": "London, UK",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/senior-electrical-characterisation-engineer-london-uk-133731",
+      "url": "https://www.arbeitnow.com/jobs/companies/dr-herbert-executive-consultants/verfahrensingenieur-wasseraufbereitung-und-dosieranlagen-wurzburg-217165",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -299,42 +253,6 @@
       "location": "France - remote",
       "type": "On-site",
       "url": "https://www.arbeitnow.fr/jobs/companies/sungrow-europe-welcome-traveler/remote-field-service-engineer-ess-pv-france-south-483664",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Growth Operations & Automation Specialist",
-      "org": "Pennylane SAS",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-operations-automation-specialist-paris-307338",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Industrial Vision & Automation Engineer",
-      "org": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Orly",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/industrial-vision-automation-engineer-orly-386329",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Embedded Electrical Engineer - SoM",
-      "org": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/embedded-electrical-engineer-som-paris-292702",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Software Engineer AI & Automation (d/m/w)",
-      "org": "Listan Gmbh",
-      "location": "Hybrid",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/listan-gmbh/senior-software-engineer-ai-automation-hybrid-476748",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -375,24 +293,13 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "AI Automation Engineer",
-      "org": "Airtm",
-      "location": "LATAM",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/154409-ai-automation-engineer-2",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Automation Engineer (Customer Service)",
+      "title": "Electrical Engineer- Data Centers",
       "org": "Nebius",
       "location": "Europe",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/154401-automation-engineer-customer-service",
+      "url": "https://jobicy.com/jobs/149947-electrical-engineer-data-centers",
       "tag": "Job",
       "source": "Jobicy"
     },
