@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T11:12:11.650892+00:00",
+  "generated_at": "2026-10-03T20:39:35.858247+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -230,33 +230,6 @@
       "source": "Remotive"
     },
     {
-      "title": "Verfahrensingenieur / Prozessingenieur f\u00fcr Wasseraufbereitungs- und Dosiertechnik (m/w/d)",
-      "org": "Dr. Herbert Executive Consultants",
-      "location": "W\u00fcrzburg",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/dr-herbert-executive-consultants/verfahrensingenieur-prozessingenieur-fur-wasseraufbereitungs-und-dosiertechnik-wurzburg-475525",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Verfahrensingenieur - Wasseraufbereitung und Dosieranlagen (m/w/d)",
-      "org": "Dr. Herbert Executive Consultants",
-      "location": "W\u00fcrzburg",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/dr-herbert-executive-consultants/verfahrensingenieur-wasseraufbereitung-und-dosieranlagen-wurzburg-217165",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Field Service Engineer (ESS / PV) - France (South)",
-      "org": "Sungrow Europe - Welcome traveler!",
-      "location": "France - remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sungrow-europe-welcome-traveler/remote-field-service-engineer-ess-pv-france-south-483664",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Senior Automation & OT Engineer e/v/e/r/y/o/n/e",
       "org": "ten23 health AG",
       "location": "Visp",
@@ -264,44 +237,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/ten23-health-ag/senior-automation-ot-engineer-n-e-visp-395941",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Electrical Engineer",
-      "org": "Harmattan Ai",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/senior-electrical-engineer-lausanne-338812",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Embedded Electrical Engineer - SoM",
-      "org": "Harmattan Ai",
-      "location": "Zurich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/embedded-electrical-engineer-som-zurich-371833",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Embedded Electrical Engineer - SoM",
-      "org": "Harmattan Ai",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/embedded-electrical-engineer-som-lausanne-470046",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Engineer- Data Centers",
-      "org": "Nebius",
-      "location": "Europe",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/149947-electrical-engineer-data-centers",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
