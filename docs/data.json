@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:39:35.858247+00:00",
+  "generated_at": "2026-10-04T11:51:42.698451+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -85,6 +85,24 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Freelance Copywriter",
+      "org": "Coalition Technologies ",
+      "location": "Worldwide",
+      "type": "freelance",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior React Full-stack Developer",
+      "org": "Lemon.io",
+      "location": "Europe, USA, Canada, APAC",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Senior back-end Engineer",
       "org": "Lemon.io",
@@ -228,6 +246,96 @@
       "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
       "tag": "Job",
       "source": "Remotive"
+    },
+    {
+      "title": "Remote Maintenance Engineer",
+      "org": "Personal data collected as part of the application process",
+      "location": "Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/personal-data-collected-as-part-of-the-application-process/remote-maintenance-engineer-munich-387906",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Customer Success Associate - Renewable Energy",
+      "org": "trawa",
+      "location": "Berlin HQ",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/trawa/customer-success-associate-renewable-energy-berlin-133516",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Werkstudent*In (M/W/D) Data & Automation",
+      "org": "Ramp106 Gmbh",
+      "location": "Hamburg",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/werkstudentin-data-automation-hamburg-23469",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Praktikant*In (M/W/D) Business Automation & Analytics",
+      "org": "Ramp106 Gmbh",
+      "location": "Hamburg",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/praktikantin-business-automation-analytics-hamburg-60941",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "DATA ENGINEER*IN (m/w/d)",
+      "org": "Ramp106 Gmbh",
+      "location": "Hamburg",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-26838",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Ai & Process Automation Lead (M/W/D)",
+      "org": "Ramp106 Gmbh",
+      "location": "Hamburg",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/ai-process-automation-lead-hamburg-24615",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Working Student \u2013 Control System Support (f/m/d)",
+      "org": "Focused",
+      "location": "Darmstadt, DE",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/focused/working-student-control-system-support-darmstadt-55664",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Supply Chain Manager (m/w/d)",
+      "org": "Memodo Gmbh",
+      "location": "M\u00fcnchen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/memodo-gmbh/supply-chain-manager-munchen-145070",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Werkstudent Projektmanagement f\u00fcr Industrieprojekte (m/w/d)",
+      "org": "Newboxes",
+      "location": "M\u00fcnchen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/newboxes/werkstudent-projektmanagement-fur-industrieprojekte-munchen-465674",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Lead",
+      "org": "Orakl Oncology",
+      "location": "Villejuif",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/automation-lead-villejuif-208586",
+      "tag": "Job",
+      "source": "Arbeitnow"
     },
     {
       "title": "Senior Automation & OT Engineer e/v/e/r/y/o/n/e",
