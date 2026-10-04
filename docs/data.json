@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:51:42.698451+00:00",
+  "generated_at": "2026-10-04T20:55:29.768106+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -248,6 +248,33 @@
       "source": "Remotive"
     },
     {
+      "title": "Team Lead AI Process Automation (m/f/d)",
+      "org": "DocuWare",
+      "location": "Germering / Germany",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/docuware/team-lead-ai-process-automation-germering-germany-142587",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Werkstudent:in AI & Automation (m/w/d)",
+      "org": "Smartvillage",
+      "location": "M\u00fcnchen Headquarter",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/smartvillage/werkstudentin-ai-automation-munchen-headquarter-361844",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Werkstudent (m/w/d) Digital Experience \u2013 Growth, Brand & New Business",
+      "org": "Lemundo",
+      "location": "Hamburg",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/lemundo/werkstudent-digital-experience-growth-brand-new-business-hamburg-79113",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Remote Maintenance Engineer",
       "org": "Personal data collected as part of the application process",
       "location": "Munich",
@@ -257,74 +284,11 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Customer Success Associate - Renewable Energy",
-      "org": "trawa",
-      "location": "Berlin HQ",
+      "title": "Key Account Manager Automotive France (m/f/d)",
+      "org": "Hongfa Europe Gmbh",
+      "location": "FR",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/trawa/customer-success-associate-renewable-energy-berlin-133516",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Werkstudent*In (M/W/D) Data & Automation",
-      "org": "Ramp106 Gmbh",
-      "location": "Hamburg",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/werkstudentin-data-automation-hamburg-23469",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Praktikant*In (M/W/D) Business Automation & Analytics",
-      "org": "Ramp106 Gmbh",
-      "location": "Hamburg",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/praktikantin-business-automation-analytics-hamburg-60941",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "DATA ENGINEER*IN (m/w/d)",
-      "org": "Ramp106 Gmbh",
-      "location": "Hamburg",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-26838",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Ai & Process Automation Lead (M/W/D)",
-      "org": "Ramp106 Gmbh",
-      "location": "Hamburg",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/ai-process-automation-lead-hamburg-24615",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Working Student \u2013 Control System Support (f/m/d)",
-      "org": "Focused",
-      "location": "Darmstadt, DE",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/focused/working-student-control-system-support-darmstadt-55664",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Supply Chain Manager (m/w/d)",
-      "org": "Memodo Gmbh",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/memodo-gmbh/supply-chain-manager-munchen-145070",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Werkstudent Projektmanagement f\u00fcr Industrieprojekte (m/w/d)",
-      "org": "Newboxes",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/newboxes/werkstudent-projektmanagement-fur-industrieprojekte-munchen-465674",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hongfa-europe-gmbh/key-account-manager-automotive-france-329137",
       "tag": "Job",
       "source": "Arbeitnow"
     },
