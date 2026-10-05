@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T13:46:29.817246+00:00",
+  "generated_at": "2026-10-05T23:48:05.508337+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+      "title": "Life After Code",
       "org": "Devpost",
       "location": "Online",
-      "type": "Communication",
-      "url": "https://aws-cds-partner.devpost.com/",
+      "type": "DevOps",
+      "url": "https://gitlab-transcend.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -239,20 +239,20 @@
       "source": "Remotive"
     },
     {
-      "title": "AI Transformation & Automation Lead (m/w/d)",
-      "org": "CKM Group",
-      "location": "Berlin",
+      "title": "Werkstudent KI & Automation (m/w/d)",
+      "org": "The Marketer",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ckm-group/ai-transformation-automation-lead-berlin-366607",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-marketer/werkstudent-ki-automation-munich-338897",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Vertriebsmitarbeiter (m/w/d) im Innendienst",
-      "org": "ETT Verpackungstechnik GmbH",
-      "location": "Moringen",
+      "title": "Team Lead SAP Retail Fuel & Network Operations (RFNO) (m/w/d)",
+      "org": "Implico Gmbh",
+      "location": "Hamburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ett-verpackungstechnik-gmbh/vertriebsmitarbeiter-im-innendienst-moringen-356045",
+      "url": "https://www.arbeitnow.com/jobs/companies/implico-gmbh/team-lead-sap-retail-fuel-network-operations-rfno-hamburg-142021",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -262,15 +262,6 @@
       "location": "FR",
       "type": "On-site",
       "url": "https://www.arbeitnow.fr/jobs/companies/hongfa-europe-gmbh/key-account-manager-automotive-france-329137",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Automation Lead",
-      "org": "Orakl Oncology",
-      "location": "Villejuif",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/automation-lead-villejuif-208586",
       "tag": "Job",
       "source": "Arbeitnow"
     },
