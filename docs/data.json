@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T20:55:29.768106+00:00",
+  "generated_at": "2026-10-05T13:46:29.817246+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -65,20 +65,20 @@
       "source": "Devpost"
     },
     {
-      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Communication",
-      "url": "https://aws-cds-partner.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "WarriorHacks 2.0",
       "org": "Devpost",
       "location": "Online",
       "type": "Beginner Friendly",
       "url": "https://warriorhacks-2-0.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Communication",
+      "url": "https://aws-cds-partner.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -239,47 +239,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Freelance Writer",
-      "org": "IAPWE",
-      "location": "Worldwide",
-      "type": "freelance",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Team Lead AI Process Automation (m/f/d)",
-      "org": "DocuWare",
-      "location": "Germering / Germany",
+      "title": "AI Transformation & Automation Lead (m/w/d)",
+      "org": "CKM Group",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/docuware/team-lead-ai-process-automation-germering-germany-142587",
+      "url": "https://www.arbeitnow.com/jobs/companies/ckm-group/ai-transformation-automation-lead-berlin-366607",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Werkstudent:in AI & Automation (m/w/d)",
-      "org": "Smartvillage",
-      "location": "M\u00fcnchen Headquarter",
+      "title": "Vertriebsmitarbeiter (m/w/d) im Innendienst",
+      "org": "ETT Verpackungstechnik GmbH",
+      "location": "Moringen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/smartvillage/werkstudentin-ai-automation-munchen-headquarter-361844",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Werkstudent (m/w/d) Digital Experience \u2013 Growth, Brand & New Business",
-      "org": "Lemundo",
-      "location": "Hamburg",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/lemundo/werkstudent-digital-experience-growth-brand-new-business-hamburg-79113",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Remote Maintenance Engineer",
-      "org": "Personal data collected as part of the application process",
-      "location": "Munich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/personal-data-collected-as-part-of-the-application-process/remote-maintenance-engineer-munich-387906",
+      "url": "https://www.arbeitnow.com/jobs/companies/ett-verpackungstechnik-gmbh/vertriebsmitarbeiter-im-innendienst-moringen-356045",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -298,15 +271,6 @@
       "location": "Villejuif",
       "type": "On-site",
       "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/automation-lead-villejuif-208586",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Automation & OT Engineer e/v/e/r/y/o/n/e",
-      "org": "ten23 health AG",
-      "location": "Visp",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/ten23-health-ag/senior-automation-ot-engineer-n-e-visp-395941",
       "tag": "Job",
       "source": "Arbeitnow"
     },
