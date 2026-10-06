@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:48:05.508337+00:00",
+  "generated_at": "2026-10-06T12:51:50.414584+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -85,6 +85,15 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
+      "org": "CodeForAI",
+      "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
+      "type": "contract",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Freelance Copywriter",
       "org": "Coalition Technologies ",
@@ -239,20 +248,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Werkstudent KI & Automation (m/w/d)",
-      "org": "The Marketer",
-      "location": "Munich",
+      "title": "Field Engineer",
+      "org": "Wayve",
+      "location": "Leonberg, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-marketer/werkstudent-ki-automation-munich-338897",
+      "url": "https://www.arbeitnow.com/jobs/companies/wayve/field-engineer-leonberg-germany-358930",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Team Lead SAP Retail Fuel & Network Operations (RFNO) (m/w/d)",
-      "org": "Implico Gmbh",
-      "location": "Hamburg",
+      "title": "System Test Automation Engineer",
+      "org": "Wayve",
+      "location": "Leonberg, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/implico-gmbh/team-lead-sap-retail-fuel-network-operations-rfno-hamburg-142021",
+      "url": "https://www.arbeitnow.com/jobs/companies/wayve/system-test-automation-engineer-leonberg-germany-102280",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Electrical Engineer",
+      "org": "Microagi",
+      "location": "Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/microagi/electrical-engineer-munich-446611",
       "tag": "Job",
       "source": "Arbeitnow"
     },
