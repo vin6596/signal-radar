@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:45:40.378625+00:00",
+  "generated_at": "2026-10-07T22:48:41.550102+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -83,17 +83,7 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Praktikant Business Building & AI Automation (m/w/d) \u2013 Digital Education mit Impact",
-      "org": "Talentspring Academy",
-      "location": "Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/praktikant-business-building-ai-automation-digital-education-mit-impact-berlin-25695",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -249,56 +239,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Werkstudent Data Analyst & Automation Engineer (m/w/d) | 100 % remote",
-      "org": "hey contact heroes GmbH",
-      "location": "Hamburg",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/werkstudent-data-analyst-automation-engineer-100-remote-hamburg-111403",
+      "title": "Operations & Automation Engineer \u2013 Renewable Energy",
+      "org": "trawa",
+      "location": "Berlin HQ",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/trawa/operations-automation-engineer-renewable-energy-berlin-24542",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Werkstudent Business Operations \u2013 Automation & AI (m/w/d)",
-      "org": "Talentspring Academy",
+      "title": "AI & Automation Engineer (m/w/d)",
+      "org": "Yoursquares",
       "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/werkstudent-business-operations-automation-ai-berlin-462966",
+      "url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-182579",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Data Analyst & Automation Engineer (m/w/d) | 100 % remote",
-      "org": "hey contact heroes GmbH",
-      "location": "Hamburg",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/data-analyst-automation-engineer-100-remote-hamburg-331696",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Maintenance Engineer (m/f/d)",
-      "org": "Teampicnic",
-      "location": "Falkensee, Brandenburg",
+      "title": "Senior DevOps / Systemintegration Engineer (m/w/d) - Cloud, Automation, Hybrid Infrastructure, Stuttgart",
+      "org": "Asellerate Gmbh",
+      "location": "Hybrid, Stuttgart",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/maintenance-engineer-falkensee-brandenburg-393729",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AI Field Engineer, EMEA",
-      "org": "Fireworks",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fireworks/ai-field-engineer-emea-london-380485",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Software Engineer AI & Automation (d/m/w)",
-      "org": "Listan Gmbh",
-      "location": "Hybrid",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/listan-gmbh/senior-software-engineer-ai-automation-hybrid-367222",
+      "url": "https://www.arbeitnow.fr/jobs/companies/asellerate-gmbh/senior-devops-systemintegration-engineer-cloud-automation-hybrid-infrastructure-stuttgart-hybrid-stuttgart-50746",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -310,17 +273,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/ten23-health-ag/senior-automation-ot-engineer-n-e-visp-10834",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Automations Engineer, Post Sales Systems",
-      "org": "ClickUp",
-      "location": "USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/152650-automations-engineer-post-sales-systems",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
