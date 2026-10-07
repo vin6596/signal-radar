@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:23:48.472695+00:00",
+  "generated_at": "2026-10-07T12:45:40.378625+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Praktikant Business Building & AI Automation (m/w/d) \u2013 Digital Education mit Impact",
+      "org": "Talentspring Academy",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/praktikant-business-building-ai-automation-digital-education-mit-impact-berlin-25695",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -239,47 +249,56 @@
       "source": "Remotive"
     },
     {
-      "title": "Tier III Service Desk Engineer",
-      "org": "Unio Digital",
-      "location": "Worldwide",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "(Senior) HR Tech Business Analyst \u2014 Automation & AI (m/f/d)",
-      "org": "Flix",
-      "location": "Munich, Bavaria, Germany",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-hr-tech-business-analyst-automation-ai-munich-457331",
+      "title": "Werkstudent Data Analyst & Automation Engineer (m/w/d) | 100 % remote",
+      "org": "hey contact heroes GmbH",
+      "location": "Hamburg",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/werkstudent-data-analyst-automation-engineer-100-remote-hamburg-111403",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "(Senior) HR Tech Business Analyst \u2014 Automation & AI (m/f/d)",
-      "org": "Flix",
-      "location": "Berlin, Berlin, Germany",
+      "title": "Werkstudent Business Operations \u2013 Automation & AI (m/w/d)",
+      "org": "Talentspring Academy",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-hr-tech-business-analyst-automation-ai-berlin-133635",
+      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/werkstudent-business-operations-automation-ai-berlin-462966",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Compliance Automation Analyst",
-      "org": "Superhuman",
-      "location": "Hub - Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/superhuman/compliance-automation-analyst-berlin-239012",
+      "title": "Data Analyst & Automation Engineer (m/w/d) | 100 % remote",
+      "org": "hey contact heroes GmbH",
+      "location": "Hamburg",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/data-analyst-automation-engineer-100-remote-hamburg-331696",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Manager - Automation & Controls",
-      "org": "Stack Infrastructure Emea",
-      "location": "London Office",
+      "title": "Maintenance Engineer (m/f/d)",
+      "org": "Teampicnic",
+      "location": "Falkensee, Brandenburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/stack-infrastructure-emea/senior-manager-automation-controls-london-176082",
+      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/maintenance-engineer-falkensee-brandenburg-393729",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Field Engineer, EMEA",
+      "org": "Fireworks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fireworks/ai-field-engineer-emea-london-380485",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Software Engineer AI & Automation (d/m/w)",
+      "org": "Listan Gmbh",
+      "location": "Hybrid",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/listan-gmbh/senior-software-engineer-ai-automation-hybrid-367222",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -291,6 +310,17 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/ten23-health-ag/senior-automation-ot-engineer-n-e-visp-10834",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Automations Engineer, Post Sales Systems",
+      "org": "ClickUp",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/152650-automations-engineer-post-sales-systems",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
