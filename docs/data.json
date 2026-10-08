@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:48:41.550102+00:00",
+  "generated_at": "2026-10-08T12:54:48.837431+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -65,6 +65,15 @@
       "source": "Devpost"
     },
     {
+      "title": "ForgeHacks Online 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly",
+      "url": "https://forgehacks-2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "Life After Code",
       "org": "Devpost",
       "location": "Online",
@@ -72,25 +81,34 @@
       "url": "https://gitlab-transcend.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
-    },
-    {
-      "title": "WarriorHacks 2.0",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://warriorhacks-2-0.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
     }
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Tier III Service Desk Engineer",
+      "org": "Unio Digital",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
       "org": "CodeForAI",
       "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
       "type": "contract",
       "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Freelance Writer",
+      "org": "IAPWE",
+      "location": "Worldwide",
+      "type": "freelance",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
       "tag": "Job",
       "source": "Remotive"
     },
@@ -239,20 +257,56 @@
       "source": "Remotive"
     },
     {
-      "title": "Operations & Automation Engineer \u2013 Renewable Energy",
-      "org": "trawa",
-      "location": "Berlin HQ",
+      "title": "Finance Manager (Finance, Data & Automation) (gn) @ Atlantic, Berlin",
+      "org": "atlantic.vc",
+      "location": "Berlin, Berlin, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/trawa/operations-automation-engineer-renewable-energy-berlin-24542",
+      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/finance-manager-finance-data-automation-gn-at-atlantic-berlin-62980",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "AI & Automation Engineer (m/w/d)",
-      "org": "Yoursquares",
-      "location": "Berlin",
+      "title": "Semiconductor Packaging Engineer / Process Engineer Advanced Packaging (m/f/d)",
+      "org": "Swissbit",
+      "location": "DE-Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-182579",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/semiconductor-packaging-engineer-process-engineer-advanced-packaging-de-berlin-263930",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Production Test Engineer (m/f/d)",
+      "org": "Swissbit",
+      "location": "DE-Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/production-test-engineer-de-berlin-231244",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Process Development Engineer \u2013 Semiconductor Packaging (m/f/d)",
+      "org": "Swissbit",
+      "location": "DE-Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/process-development-engineer-semiconductor-packaging-de-berlin-247937",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Customer Operations AI & Automation Manager (f/m/d)",
+      "org": "Zeal Network",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/customer-operations-ai-automation-manager-london-452799",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Poseur\u00b7euse de panneaux photovolta\u00efques H/F",
+      "org": "Octopus Energy Group",
+      "location": "Ile-de-France (FR)",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/poseureuse-de-panneaux-photovoltaiques-h-f-ile-de-france-fr-298613",
       "tag": "Job",
       "source": "Arbeitnow"
     },
