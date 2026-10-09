@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:59:27.223051+00:00",
+  "generated_at": "2026-10-09T12:40:39.057790+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -167,15 +167,6 @@
       "source": "Remotive"
     },
     {
-      "title": "\ud83c\udde9\ud83c\uddea Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
-      "org": "hey contact heroes GmbH",
-      "location": "Europe",
-      "type": "freelance",
-      "url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
       "title": "Senior AI Engineer",
       "org": "Lemon.io",
       "location": "Northern America, LATAM, Europe, APAC",
@@ -248,76 +239,118 @@
       "source": "Remotive"
     },
     {
-      "title": "Inside Sales Contractor",
-      "org": "Credit Wellness, LLC",
-      "location": "Worldwide",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Project Manager",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
+      "title": "(Junior) Operations Manager \u2013 Process Excellence & Automation (w/m/d)",
+      "org": "Enpal",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-project-manager-munich-bavaria-327976",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/junior-operations-manager-process-excellence-automation-berlin-333778",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior C++ Performance Engineer",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-c-performance-engineer-munich-bavaria-300535",
+      "title": "Senior Network Engineer (all genders)",
+      "org": "Contabo",
+      "location": "Remote (Germany)",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-116100",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Praktikant*In (M/W/D) Business Automation & Analytics",
-      "org": "Ramp106 Gmbh",
-      "location": "Hamburg",
+      "title": "Senior Solutions Architect (Transport)",
+      "org": "databricks",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/praktikantin-business-automation-analytics-hamburg-15354",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-transport-london-221800",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "DATA ENGINEER*IN (m/w/d)",
-      "org": "Ramp106 Gmbh",
-      "location": "Hamburg",
+      "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+      "org": "databricks",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-129224",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-london-126629",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Ai & Process Automation Lead (M/W/D)",
-      "org": "Ramp106 Gmbh",
-      "location": "Hamburg",
+      "title": "Senior Robotics Automation Engineer",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Orly",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/ai-process-automation-lead-hamburg-335742",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/senior-robotics-automation-engineer-orly-273423",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Fire Alarm Service and Maintenance Engineer - Brighton & Hove",
-      "org": "Helix International Group",
-      "location": "Brighton and Hove, England, United Kingdom",
+      "title": "Electrical Design Engineer & Machine Safety Specialist (M/F)",
+      "org": "One Mobility",
+      "location": "Masevaux-Niederbruck , Grand-Est, France",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/helix-international-group/fire-alarm-service-and-maintenance-engineer-brighton-hove-brighton-and-hove-451251",
+      "url": "https://www.arbeitnow.fr/jobs/companies/one-mobility/electrical-design-engineer-machine-safety-specialist-m-f-masevaux-niederbruck-396307",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Automation & OT Engineer e/v/e/r/y/o/n/e",
-      "org": "ten23 health AG",
-      "location": "Visp",
+      "title": "Senior OT / SCADA & Automation Engineer (80\u2013100%)",
+      "org": "cross-ING AG",
+      "location": "Villigen, Aargau, Schweiz",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/ten23-health-ag/senior-automation-ot-engineer-n-e-visp-10834",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/senior-ot-scada-automation-engineer-80-100-villigen-186123",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Sr. Delivery Solutions Architect",
+      "org": "databricks",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-delivery-solutions-architect-zurich-376814",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Delivery Solutions Architect",
+      "org": "databricks",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/delivery-solutions-architect-zurich-441047",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Accounting Automation Engineer",
+      "org": "Ruby Labs",
+      "location": "Europe",
+      "type": [
+        "Contract"
+      ],
+      "url": "https://jobicy.com/jobs/154905-accounting-automation-engineer",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Principal Security Field Engineer",
+      "org": "Databricks",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/154895-principal-security-field-engineer",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Manager, Field Engineering - Global Telecommunications",
+      "org": "Databricks",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/154891-manager-field-engineering-global-telecommunications",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
