@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:20:38.645549+00:00",
+  "generated_at": "2026-10-10T11:59:47.746492+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -85,6 +85,15 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Inside Sales Contractor",
+      "org": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Tier III Service Desk Engineer",
       "org": "Unio Digital",
@@ -239,11 +248,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Principle Control Systems Engineer (f/m/d)",
-      "org": "Focused",
-      "location": "Darmstadt, DE",
+      "title": "Senior Fullstack Developer \u2013 Business Automation (m/w/d)",
+      "org": "Metergrid",
+      "location": "Hamburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/focused/principle-control-systems-engineer-darmstadt-208161",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/senior-fullstack-developer-business-automation-hamburg-150533",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Team Lead SAP Retail Fuel & Network Operations (RFNO) (m/w/d)",
+      "org": "Implico Gmbh",
+      "location": "Hamburg",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/implico-gmbh/team-lead-sap-retail-fuel-network-operations-rfno-hamburg-427177",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Technical Director (m/f/d) \u2013 Renewable Energy",
+      "org": "Tion Services GmbH",
+      "location": "Frankfurt am Main, Hessen, Germany",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/tion-services-gmbh/technical-director-renewable-energy-frankfurt-am-main-139263",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -282,17 +309,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/databricks/delivery-solutions-architect-zurich-441047",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Accounting Automation Engineer",
-      "org": "Ruby Labs",
-      "location": "Europe",
-      "type": [
-        "Contract"
-      ],
-      "url": "https://jobicy.com/jobs/154905-accounting-automation-engineer",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
