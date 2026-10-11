@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T21:14:06.389674+00:00",
+  "generated_at": "2026-10-11T12:12:26.062671+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -248,20 +248,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior AI Evangelist & Developer Advocate, Agentic AI",
-      "org": "nice",
-      "location": "Remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-ai-evangelist-developer-advocate-agentic-ai-318072",
+      "title": "AI Automation Engineer",
+      "org": "JH Automations",
+      "location": "Hannover",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/jh-automations/ai-automation-engineer-hannover-137973",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Principal Electrical Engineer",
-      "org": "Envipco",
-      "location": "Osnabr\u00fcck, Niedersachsen, Germany",
+      "title": "Solutions Architect",
+      "org": "databricks",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/envipco/principal-electrical-engineer-osnabruck-94996",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-munich-353219",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -309,6 +309,17 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/databricks/delivery-solutions-architect-zurich-441047",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Director of IT & Automation - Appen",
+      "org": "Appen",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/155007-director-of-it-automation-appen",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
