@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T12:12:26.062671+00:00",
+  "generated_at": "2026-10-11T21:34:17.721948+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Praktikant Business Building & AI Automation (m/w/d) \u2013 Digital Education mit Impact",
+      "org": "Talentspring Academy",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/praktikant-business-building-ai-automation-digital-education-mit-impact-berlin-259416",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Inside Sales Contractor",
@@ -248,20 +258,101 @@
       "source": "Remotive"
     },
     {
-      "title": "AI Automation Engineer",
-      "org": "JH Automations",
-      "location": "Hannover",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/jh-automations/ai-automation-engineer-hannover-137973",
+      "title": "Werkstudent:in AI & Business Automation (m/w/ d)",
+      "org": "Talentspring Academy",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/werkstudentin-ai-business-automation-m-w-d-berlin-495259",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Solutions Architect",
-      "org": "databricks",
-      "location": "Munich",
+      "title": "Werkstudent Business Operations \u2013 Automation & AI (m/w/d)",
+      "org": "Talentspring Academy",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-munich-353219",
+      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/werkstudent-business-operations-automation-ai-berlin-170975",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer (m/w/d), n8n und Integrationen",
+      "org": "JH Automations",
+      "location": "Hannover",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/jh-automations/automation-engineer-n8n-und-integrationen-hannover-344526",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Working Student - Electrical Engineering (All Genders)",
+      "org": "Skdse",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/working-student-electrical-engineering-all-genders-477174",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Team Lead Operations Automation & AI (All genders)",
+      "org": "Skdse",
+      "location": "Munich, Bavaria",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/team-lead-operations-automation-ai-all-genders-munich-bavaria-183739",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "HR AI and Automation Lead (All Genders)",
+      "org": "Skdse",
+      "location": "Berlin; Munich, Bavaria",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/hr-ai-and-automation-lead-all-genders-berlin-munich-bavaria-277475",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer (All Genders)",
+      "org": "Skdse",
+      "location": "Munich, Bavaria",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/automation-engineer-all-genders-munich-bavaria-59281",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Solutions Engineer (Presales, Technical, Data and AI)",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-engineer-presales-technical-data-and-ai-london-179805",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer",
+      "org": "Gymshark",
+      "location": "Solihull",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gymshark/automation-engineer-solihull-315390",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Pricing Data Science & Automation Manager",
+      "org": "Castrol",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/castrol/pricing-data-science-automation-manager-64228",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Software Engineer AI & Automation (d/m/w)",
+      "org": "Listan Gmbh",
+      "location": "Hybrid",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/listan-gmbh/senior-software-engineer-ai-automation-hybrid-117253",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -280,33 +371,6 @@
       "location": "Altendorf, Schwyz, Schweiz",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-183153",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior OT / SCADA & Automation Engineer (80\u2013100%)",
-      "org": "cross-ING AG",
-      "location": "Villigen, Aargau, Schweiz",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/senior-ot-scada-automation-engineer-80-100-villigen-186123",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Sr. Delivery Solutions Architect",
-      "org": "databricks",
-      "location": "Z\u00fcrich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-delivery-solutions-architect-zurich-376814",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Delivery Solutions Architect",
-      "org": "databricks",
-      "location": "Z\u00fcrich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/delivery-solutions-architect-zurich-441047",
       "tag": "Job",
       "source": "Arbeitnow"
     },
