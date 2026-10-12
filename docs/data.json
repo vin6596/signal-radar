@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:34:17.721948+00:00",
+  "generated_at": "2026-10-12T14:35:09.031674+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -85,11 +85,11 @@
   ],
   "internships": [
     {
-      "title": "Praktikant Business Building & AI Automation (m/w/d) \u2013 Digital Education mit Impact",
-      "org": "Talentspring Academy",
-      "location": "Berlin",
+      "title": "Automation Engineer (m/f/d)",
+      "org": "Quantum-Systems GmbH",
+      "location": "Rostock",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/praktikant-business-building-ai-automation-digital-education-mit-impact-berlin-259416",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/automation-engineer-rostock-472491",
       "tag": "Internship",
       "source": "Arbeitnow"
     }
@@ -168,15 +168,6 @@
       "source": "Remotive"
     },
     {
-      "title": "Frontend Web Application Developer",
-      "org": "KoboToolbox",
-      "location": "USA, Canada, Argentina, Mexico, Peru",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
       "title": "Senior Shopify Developer",
       "org": "Sanctuary Computer Inc",
       "location": "Worldwide",
@@ -240,83 +231,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Remote Office Assistant",
-      "org": "Coalition Technologies ",
-      "location": "Worldwide",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "AI Response Evaluator",
-      "org": "iMerit Technology",
-      "location": "France, Japan, Turkey, Vietnam, Mexico, Norway",
-      "type": "freelance",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Werkstudent:in AI & Business Automation (m/w/ d)",
-      "org": "Talentspring Academy",
-      "location": "Berlin",
+      "title": "Elektroniker Automatisierungstechnik MSR (m/w/d)",
+      "org": "Franke + Pahl Fachkr\u00e4fte GmbH",
+      "location": "Hamburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/werkstudentin-ai-business-automation-m-w-d-berlin-495259",
+      "url": "https://www.arbeitnow.com/jobs/companies/franke-pahl-fachkrafte-gmbh/elektroniker-automatisierungstechnik-msr-hamburg-180617",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Werkstudent Business Operations \u2013 Automation & AI (m/w/d)",
-      "org": "Talentspring Academy",
-      "location": "Berlin",
+      "title": "Junior Process Automation Engineer",
+      "org": "Hornetsecurity",
+      "location": "Hanover",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/werkstudent-business-operations-automation-ai-berlin-170975",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Automation Engineer (m/w/d), n8n und Integrationen",
-      "org": "JH Automations",
-      "location": "Hannover",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/jh-automations/automation-engineer-n8n-und-integrationen-hannover-344526",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Working Student - Electrical Engineering (All Genders)",
-      "org": "Skdse",
-      "location": "Remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/working-student-electrical-engineering-all-genders-477174",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Team Lead Operations Automation & AI (All genders)",
-      "org": "Skdse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/team-lead-operations-automation-ai-all-genders-munich-bavaria-183739",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "HR AI and Automation Lead (All Genders)",
-      "org": "Skdse",
-      "location": "Berlin; Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/hr-ai-and-automation-lead-all-genders-berlin-munich-bavaria-277475",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Automation Engineer (All Genders)",
-      "org": "Skdse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/automation-engineer-all-genders-munich-bavaria-59281",
+      "url": "https://www.arbeitnow.com/jobs/companies/hornetsecurity/junior-process-automation-engineer-hanover-316214",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -339,11 +267,11 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Pricing Data Science & Automation Manager",
-      "org": "Castrol",
-      "location": "Remote",
+      "title": "Senior DevOps / Systemintegration Engineer (m/w/d) - Cloud, Automation, Hybrid Infrastructure, Stuttgart",
+      "org": "Asellerate Gmbh",
+      "location": "Hybrid, Stuttgart",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/castrol/pricing-data-science-automation-manager-64228",
+      "url": "https://www.arbeitnow.fr/jobs/companies/asellerate-gmbh/senior-devops-systemintegration-engineer-cloud-automation-hybrid-infrastructure-stuttgart-hybrid-stuttgart-375744",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -373,17 +301,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-183153",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Director of IT & Automation - Appen",
-      "org": "Appen",
-      "location": "USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/155007-director-of-it-automation-appen",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
