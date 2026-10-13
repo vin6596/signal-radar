@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T14:35:09.031674+00:00",
+  "generated_at": "2026-10-13T00:12:51.737007+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -85,11 +85,11 @@
   ],
   "internships": [
     {
-      "title": "Automation Engineer (m/f/d)",
-      "org": "Quantum-Systems GmbH",
-      "location": "Rostock",
+      "title": "Business Automation & AI Intern/Working Student (f/m/d)",
+      "org": "Liqid Lig",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/automation-engineer-rostock-472491",
+      "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/business-automation-ai-intern-working-student-berlin-6500",
       "tag": "Internship",
       "source": "Arbeitnow"
     }
@@ -231,38 +231,47 @@
       "source": "Remotive"
     },
     {
-      "title": "Elektroniker Automatisierungstechnik MSR (m/w/d)",
-      "org": "Franke + Pahl Fachkr\u00e4fte GmbH",
-      "location": "Hamburg",
+      "title": "Account Executive - DACH",
+      "org": "nice",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/franke-pahl-fachkrafte-gmbh/elektroniker-automatisierungstechnik-msr-hamburg-180617",
+      "url": "https://www.arbeitnow.com/jobs/companies/nice/account-executive-dach-209874",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Junior Process Automation Engineer",
-      "org": "Hornetsecurity",
-      "location": "Hanover",
+      "title": "Supply Chain Manager (m/w/d)",
+      "org": "Memodo Gmbh",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/hornetsecurity/junior-process-automation-engineer-hanover-316214",
+      "url": "https://www.arbeitnow.com/jobs/companies/memodo-gmbh/supply-chain-manager-munchen-342351",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Solutions Engineer (Presales, Technical, Data and AI)",
-      "org": "databricks",
-      "location": "London",
+      "title": "Werkstudent Projektmanagement f\u00fcr Industrieprojekte (m/w/d)",
+      "org": "Newboxes",
+      "location": "M\u00fcnchen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-engineer-presales-technical-data-and-ai-london-179805",
+      "url": "https://www.arbeitnow.com/jobs/companies/newboxes/werkstudent-projektmanagement-fur-industrieprojekte-munchen-48636",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Engineer",
-      "org": "Gymshark",
-      "location": "Solihull",
+      "title": "Semiconductor Packaging Engineer / Process Engineer Advanced Packaging (m/f/d)",
+      "org": "Swissbit",
+      "location": "DE-Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gymshark/automation-engineer-solihull-315390",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/semiconductor-packaging-engineer-process-engineer-advanced-packaging-de-berlin-336690",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Production Test Engineer (m/f/d)",
+      "org": "Swissbit",
+      "location": "DE-Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/production-test-engineer-de-berlin-68027",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -281,15 +290,6 @@
       "location": "Hybrid",
       "type": "On-site",
       "url": "https://www.arbeitnow.fr/jobs/companies/listan-gmbh/senior-software-engineer-ai-automation-hybrid-117253",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Solutions Architect Greenfield Enterprise France",
-      "org": "databricks",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/solutions-architect-greenfield-enterprise-france-paris-368148",
       "tag": "Job",
       "source": "Arbeitnow"
     },
