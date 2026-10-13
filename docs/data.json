@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:12:51.737007+00:00",
+  "generated_at": "2026-10-13T13:40:21.535017+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -83,18 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Business Automation & AI Intern/Working Student (f/m/d)",
-      "org": "Liqid Lig",
-      "location": "Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/business-automation-ai-intern-working-student-berlin-6500",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
+    {
+      "title": "Remote Office Assistant",
+      "org": "Coalition Technologies ",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Inside Sales Contractor",
       "org": "Credit Wellness, LLC",
@@ -231,76 +230,33 @@
       "source": "Remotive"
     },
     {
-      "title": "Account Executive - DACH",
-      "org": "nice",
-      "location": "Remote",
+      "title": "Werkstudent:in AI & Automation (m/w/d)",
+      "org": "Smartvillage",
+      "location": "M\u00fcnchen Headquarter",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/account-executive-dach-209874",
+      "url": "https://www.arbeitnow.com/jobs/companies/smartvillage/werkstudentin-ai-automation-munchen-headquarter-475430",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Supply Chain Manager (m/w/d)",
-      "org": "Memodo Gmbh",
-      "location": "M\u00fcnchen",
+      "title": "Electrical Engineer",
+      "org": "Microagi",
+      "location": "Z\u00fcrich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/memodo-gmbh/supply-chain-manager-munchen-342351",
+      "url": "https://www.arbeitnow.ch/jobs/companies/microagi/electrical-engineer-zurich-313880",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Werkstudent Projektmanagement f\u00fcr Industrieprojekte (m/w/d)",
-      "org": "Newboxes",
-      "location": "M\u00fcnchen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/newboxes/werkstudent-projektmanagement-fur-industrieprojekte-munchen-48636",
+      "title": "QA Automation Lead [gn] Data Intelligence",
+      "org": "Actian",
+      "location": "Europe",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
       "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Semiconductor Packaging Engineer / Process Engineer Advanced Packaging (m/f/d)",
-      "org": "Swissbit",
-      "location": "DE-Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/semiconductor-packaging-engineer-process-engineer-advanced-packaging-de-berlin-336690",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Production Test Engineer (m/f/d)",
-      "org": "Swissbit",
-      "location": "DE-Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/production-test-engineer-de-berlin-68027",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior DevOps / Systemintegration Engineer (m/w/d) - Cloud, Automation, Hybrid Infrastructure, Stuttgart",
-      "org": "Asellerate Gmbh",
-      "location": "Hybrid, Stuttgart",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/asellerate-gmbh/senior-devops-systemintegration-engineer-cloud-automation-hybrid-infrastructure-stuttgart-hybrid-stuttgart-375744",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Software Engineer AI & Automation (d/m/w)",
-      "org": "Listan Gmbh",
-      "location": "Hybrid",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/listan-gmbh/senior-software-engineer-ai-automation-hybrid-117253",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Field Engineer (m/w/x)",
-      "org": "Rotzinger Group",
-      "location": "Altendorf, Schwyz, Schweiz",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-183153",
-      "tag": "Job",
-      "source": "Arbeitnow"
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
