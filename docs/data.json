@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:19:22.357472+00:00",
+  "generated_at": "2026-10-14T21:19:40.577535+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+      "title": "Qloo Agentic Hackathon",
       "org": "Devpost",
       "location": "Online",
-      "type": "Communication",
-      "url": "https://aws-cds-partner.devpost.com/",
+      "type": "Machine Learning/AI",
+      "url": "https://qloo.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -221,6 +221,15 @@
       "source": "Remotive"
     },
     {
+      "title": "Technical Lead (m/f/d), Robotics & AI Software",
+      "org": "Agilerobotsse",
+      "location": "Munich, Bavaria",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/technical-lead-robotics-ai-software-munich-bavaria-402648",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Field Engineer (m/w/x)",
       "org": "Rotzinger Group",
       "location": "Altendorf, Schwyz, Schweiz",
@@ -253,6 +262,15 @@
       "location": "Switzerland",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/cynlr/solution-architect-robotics-automation-switzerland-409625",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Specialist Solutions Architect - Data Engineering",
+      "org": "databricks",
+      "location": "Amsterdam",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/databricks/specialist-solutions-architect-data-engineering-amsterdam-293185",
       "tag": "Job",
       "source": "Arbeitnow"
     },
