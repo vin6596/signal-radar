@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:20:44.331536+00:00",
+  "generated_at": "2026-10-14T11:19:22.357472+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "WarriorHacks 2.0",
+      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
       "org": "Devpost",
       "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://warriorhacks-2-0.devpost.com/",
+      "type": "Communication",
+      "url": "https://aws-cds-partner.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -109,15 +109,6 @@
       "location": "Worldwide",
       "type": "full_time",
       "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
-      "org": "CodeForAI",
-      "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
-      "type": "contract",
-      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
       "tag": "Job",
       "source": "Remotive"
     },
@@ -230,29 +221,11 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Network Engineer (all genders)",
-      "org": "Contabo",
-      "location": "Remote (Germany)",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-71807",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Equipment Engineer - Automation",
-      "org": "Vinteden",
-      "location": "Vaires-sur-Marne",
+      "title": "Field Engineer (m/w/x)",
+      "org": "Rotzinger Group",
+      "location": "Altendorf, Schwyz, Schweiz",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vinteden/equipment-engineer-automation-vaires-sur-marne-112724",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Process Engineer - Ultra sonic welding (m/f/d)",
-      "org": "One Mobility",
-      "location": "Masevaux-Niederbruck , Grand-Est, France",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/one-mobility/process-engineer-ultra-sonic-welding-masevaux-niederbruck-476470",
+      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-362728",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -280,24 +253,6 @@
       "location": "Switzerland",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/cynlr/solution-architect-robotics-automation-switzerland-409625",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Engineer",
-      "org": "Microagi",
-      "location": "Z\u00fcrich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/microagi/electrical-engineer-zurich-313880",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Mechatronics Engineer",
-      "org": "Aim Solutions",
-      "location": "Headquarter",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/aim-solutions/mechatronics-engineer-eindhoven-399822",
       "tag": "Job",
       "source": "Arbeitnow"
     },
