@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:56:59.905920+00:00",
+  "generated_at": "2026-10-15T21:00:10.481852+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -29,20 +29,20 @@
       "source": "Devpost"
     },
     {
-      "title": "OpenCV AI Competition 2026, powered by AWS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "IoT",
-      "url": "https://opencv26.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Build With AI: Basics",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://learn-ai-basics.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "OpenCV AI Competition 2026, powered by AWS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "IoT",
+      "url": "https://opencv26.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -212,29 +212,83 @@
       "source": "Remotive"
     },
     {
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "org": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Field Engineer (m/w/x)",
-      "org": "Rotzinger Group",
-      "location": "Altendorf, Schwyz, Schweiz",
+      "title": "Industrial Controls Engineer",
+      "org": "Proxima Fusion GmbH",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-362728",
+      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/industrial-controls-engineer-munich-85416",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Lead Electrical Engineer (100%)",
-      "org": "Climeworks",
-      "location": "Zurich, Z\u00fcrich, Switzerland",
+      "title": "Visiting Analyst - Investments & Automation",
+      "org": "YZR Capital",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/climeworks/lead-electrical-engineer-100-zurich-460857",
+      "url": "https://www.arbeitnow.com/jobs/companies/yzr-capital/visiting-analyst-investments-automation-munich-86638",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "org": "MY Humancapital GmbH",
+      "location": "Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-330528",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Platform Engineer - GitLab & Automation (m/w/d)",
+      "org": "CPU Consulting & Software GmbH",
+      "location": "Berlin",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/platform-engineer-gitlab-automation-berlin-178094",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Director, Market Growth Strategy, Molecule to Market (Lab Automation)",
+      "org": "Dotmatics",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/director-market-growth-strategy-molecule-to-market-lab-automation-51549",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Ing\u00e9nieur Terrain / Field Engineer F/H/X",
+      "org": "Genetec Inc",
+      "location": "France",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/genetec-inc/remote-ingenieur-terrain-field-engineer-france-307115",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Lead Automation & Controls Engineer (Siemens TIA)",
+      "org": "Eh Group",
+      "location": "Nyon",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/lead-automation-controls-engineer-siemens-tia-nyon-459980",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Siemens PLC / TIA Portal Engineer",
+      "org": "Eh Group",
+      "location": "Nyon",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/senior-siemens-plc-tia-portal-engineer-nyon-268487",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer",
+      "org": "Schubergphilis",
+      "location": "Schiphol-Rijk",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/schubergphilis/automation-engineer-schiphol-rijk-458941",
       "tag": "Job",
       "source": "Arbeitnow"
     },
