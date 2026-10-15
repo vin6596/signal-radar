@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:19:40.577535+00:00",
+  "generated_at": "2026-10-15T10:56:59.905920+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -47,15 +47,6 @@
       "source": "Devpost"
     },
     {
-      "title": "Multimodal AI Hackathon 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Meta VR Start Developer Competition 2026",
       "org": "Devpost",
       "location": "Online",
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://qloo.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Communication",
+      "url": "https://aws-cds-partner.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -221,15 +221,6 @@
       "source": "Remotive"
     },
     {
-      "title": "Technical Lead (m/f/d), Robotics & AI Software",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/technical-lead-robotics-ai-software-munich-bavaria-402648",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Field Engineer (m/w/x)",
       "org": "Rotzinger Group",
       "location": "Altendorf, Schwyz, Schweiz",
@@ -248,29 +239,29 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation & Instrumentation Engineer | Switzerland",
-      "org": "Cynlr",
-      "location": "Switzerland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/cynlr/automation-instrumentation-engineer-switzerland-27904",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Solution Architect - Robotics & Automation | Switzerland",
-      "org": "Cynlr",
-      "location": "Switzerland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/cynlr/solution-architect-robotics-automation-switzerland-409625",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Specialist Solutions Architect - Data Engineering",
-      "org": "databricks",
+      "title": "Director - Power Systems and Grid Transformation",
+      "org": "Systemiq",
       "location": "Amsterdam",
       "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/databricks/specialist-solutions-architect-data-engineering-amsterdam-293185",
+      "url": "https://www.arbeitnow.nl/jobs/companies/systemiq/director-power-systems-and-grid-transformation-amsterdam-1539",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Business Consultant - Marketing Automation",
+      "org": "Vmlenterprisesolutions",
+      "location": "Amsterdam",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/vmlenterprisesolutions/senior-business-consultant-marketing-automation-amsterdam-340082",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Process Automation Engineer",
+      "org": "NX Filtration",
+      "location": "Hengelo, Overijssel, Nederland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/nx-filtration/process-automation-engineer-hengelo-111299",
       "tag": "Job",
       "source": "Arbeitnow"
     },
