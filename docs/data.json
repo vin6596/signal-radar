@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:00:10.481852+00:00",
+  "generated_at": "2026-10-16T10:49:40.879671+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -212,56 +212,38 @@
       "source": "Remotive"
     },
     {
-      "title": "Industrial Controls Engineer",
-      "org": "Proxima Fusion GmbH",
-      "location": "Munich",
+      "title": "E-Commerce Developer \u2013 AI & Automation",
+      "org": "Kijimea",
+      "location": "Gr\u00e4felfing/Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/industrial-controls-engineer-munich-85416",
+      "url": "https://www.arbeitnow.com/jobs/companies/kijimea/e-commerce-developer-ai-automation-grafelfing-76405",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Visiting Analyst - Investments & Automation",
-      "org": "YZR Capital",
-      "location": "Munich",
+      "title": "Teaching Assistant Operations & AI Automation - Werkstudent (m/w/d)",
+      "org": "Digitale Leute School",
+      "location": "Cologne",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/yzr-capital/visiting-analyst-investments-automation-munich-86638",
+      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/teaching-assistant-operations-ai-automation-werkstudent-cologne-291213",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
-      "org": "MY Humancapital GmbH",
-      "location": "Munich",
+      "title": "Senior Consultant, Technical Advisory - Electrical T&D Expert",
+      "org": "Baringa",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-330528",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-consultant-technical-advisory-electrical-td-expert-london-179219",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Platform Engineer - GitLab & Automation (m/w/d)",
-      "org": "CPU Consulting & Software GmbH",
-      "location": "Berlin",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/platform-engineer-gitlab-automation-berlin-178094",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Director, Market Growth Strategy, Molecule to Market (Lab Automation)",
-      "org": "Dotmatics",
-      "location": "Remote",
+      "title": "Junior Data & Automation Engineer",
+      "org": "Pigment",
+      "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/director-market-growth-strategy-molecule-to-market-lab-automation-51549",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Ing\u00e9nieur Terrain / Field Engineer F/H/X",
-      "org": "Genetec Inc",
-      "location": "France",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/genetec-inc/remote-ingenieur-terrain-field-engineer-france-307115",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pigment/junior-data-automation-engineer-paris-238273",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -280,6 +262,15 @@
       "location": "Nyon",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/senior-siemens-plc-tia-portal-engineer-nyon-268487",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "SecDevOps Engineer \u2013 Infrastructure Automation (Candidates Based in the Netherlands)",
+      "org": "Wypoon",
+      "location": "Amsterdam",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/secdevops-engineer-infrastructure-automation-candidates-based-in-the-netherlands-amsterdam-249732",
       "tag": "Job",
       "source": "Arbeitnow"
     },
