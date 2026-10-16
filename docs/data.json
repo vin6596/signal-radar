@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:49:40.879671+00:00",
+  "generated_at": "2026-10-16T20:34:16.236830+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -85,6 +85,15 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "org": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Remote Office Assistant",
       "org": "Coalition Technologies ",
@@ -212,38 +221,65 @@
       "source": "Remotive"
     },
     {
-      "title": "E-Commerce Developer \u2013 AI & Automation",
-      "org": "Kijimea",
-      "location": "Gr\u00e4felfing/Munich",
+      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+      "org": "databricks",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/kijimea/e-commerce-developer-ai-automation-grafelfing-76405",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/lead-solutions-architect-generative-ai-emea-emerging-dnb-171985",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Teaching Assistant Operations & AI Automation - Werkstudent (m/w/d)",
-      "org": "Digitale Leute School",
-      "location": "Cologne",
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "org": "MY Humancapital GmbH",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/teaching-assistant-operations-ai-automation-werkstudent-cologne-291213",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-264656",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Consultant, Technical Advisory - Electrical T&D Expert",
-      "org": "Baringa",
+      "title": "Senior Specialist Solutions Architect (AI/ML)",
+      "org": "databricks",
       "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-consultant-technical-advisory-electrical-td-expert-london-179219",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-specialist-solutions-architect-ai-ml-london-354907",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Junior Data & Automation Engineer",
-      "org": "Pigment",
+      "title": "Sr. Solutions Architect France",
+      "org": "databricks",
       "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pigment/junior-data-automation-engineer-paris-238273",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-solutions-architect-france-paris-125535",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Solutions Architect Greenfield Enterprise France",
+      "org": "databricks",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/solutions-architect-greenfield-enterprise-france-paris-341133",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+      "org": "databricks",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/lead-solutions-architect-generative-ai-emea-emerging-dnb-420027",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Solutions Architect",
+      "org": "databricks",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/solutions-architect-zurich-303054",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -266,6 +302,15 @@
       "source": "Arbeitnow"
     },
     {
+      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+      "org": "databricks",
+      "location": "Amsterdam",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/databricks/lead-solutions-architect-generative-ai-emea-emerging-dnb-amsterdam-234185",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "SecDevOps Engineer \u2013 Infrastructure Automation (Candidates Based in the Netherlands)",
       "org": "Wypoon",
       "location": "Amsterdam",
@@ -280,33 +325,6 @@
       "location": "Schiphol-Rijk",
       "type": "On-site",
       "url": "https://www.arbeitnow.nl/jobs/companies/schubergphilis/automation-engineer-schiphol-rijk-458941",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Director - Power Systems and Grid Transformation",
-      "org": "Systemiq",
-      "location": "Amsterdam",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/systemiq/director-power-systems-and-grid-transformation-amsterdam-1539",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Business Consultant - Marketing Automation",
-      "org": "Vmlenterprisesolutions",
-      "location": "Amsterdam",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/vmlenterprisesolutions/senior-business-consultant-marketing-automation-amsterdam-340082",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Process Automation Engineer",
-      "org": "NX Filtration",
-      "location": "Hengelo, Overijssel, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/nx-filtration/process-automation-engineer-hengelo-111299",
       "tag": "Job",
       "source": "Arbeitnow"
     },
