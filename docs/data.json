@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:34:16.236830+00:00",
+  "generated_at": "2026-10-17T10:14:07.871890+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -203,22 +203,13 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Independent Software Developer",
-      "org": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "type": "contract",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
+      "title": "Senior Test Automation Engineer",
+      "org": "Keyfactorinc",
+      "location": "Aachen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/keyfactorinc/senior-test-automation-engineer-aachen-266252",
       "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Independent AI Engineer / Architect",
-      "org": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "type": "contract",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "tag": "Job",
-      "source": "Remotive"
+      "source": "Arbeitnow"
     },
     {
       "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
@@ -226,24 +217,6 @@
       "location": "Remote",
       "type": "On-site",
       "url": "https://www.arbeitnow.com/jobs/companies/databricks/lead-solutions-architect-generative-ai-emea-emerging-dnb-171985",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
-      "org": "MY Humancapital GmbH",
-      "location": "Munich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-264656",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Specialist Solutions Architect (AI/ML)",
-      "org": "databricks",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-specialist-solutions-architect-ai-ml-london-354907",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -320,13 +293,15 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Engineer",
-      "org": "Schubergphilis",
-      "location": "Schiphol-Rijk",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/schubergphilis/automation-engineer-schiphol-rijk-458941",
+      "title": "Senior QA Automation Engineer - Product (LATAM)",
+      "org": "Upgrade",
+      "location": "Argentina,  Brazil",
+      "type": [
+        "Contract"
+      ],
+      "url": "https://jobicy.com/jobs/153469-senior-qa-automation-engineer-product-latam",
       "tag": "Job",
-      "source": "Arbeitnow"
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
