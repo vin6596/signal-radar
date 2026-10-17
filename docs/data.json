@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:14:07.871890+00:00",
+  "generated_at": "2026-10-17T20:12:50.102971+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -212,15 +212,6 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
-      "org": "databricks",
-      "location": "Remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/lead-solutions-architect-generative-ai-emea-emerging-dnb-171985",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Sr. Solutions Architect France",
       "org": "databricks",
       "location": "Paris",
@@ -291,17 +282,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/secdevops-engineer-infrastructure-automation-candidates-based-in-the-netherlands-amsterdam-249732",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior QA Automation Engineer - Product (LATAM)",
-      "org": "Upgrade",
-      "location": "Argentina,  Brazil",
-      "type": [
-        "Contract"
-      ],
-      "url": "https://jobicy.com/jobs/153469-senior-qa-automation-engineer-product-latam",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
