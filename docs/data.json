@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:29:44.165029+00:00",
+  "generated_at": "2026-10-18T20:10:35.539733+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -83,17 +83,7 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Software Engineer \u2013 Internal Tools & Automation (m/w/d)",
-      "org": "Wattfox",
-      "location": "Freiburg",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-freiburg-147596",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Tech Lead Full-Stack Rails Engineer",
@@ -204,20 +194,38 @@
       "source": "Remotive"
     },
     {
-      "title": "Field Engineer (m/w/x)",
-      "org": "Rotzinger Group",
-      "location": "Altendorf, Schwyz, Schweiz",
+      "title": "Sr. Solutions Architect - FSI",
+      "org": "databricks",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-266720",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-fsi-munich-363180",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Solutions Architect",
-      "org": "databricks",
+      "title": "Data & MarTech Manager | Analytics, Automation & CRM",
+      "org": "ofinto ag",
       "location": "Z\u00fcrich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/solutions-architect-zurich-303054",
+      "url": "https://www.arbeitnow.ch/jobs/companies/ofinto-ag/data-martech-manager-analytics-automation-crm-zurich-188897",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Praktikum Data & KI-Automation",
+      "org": "ofinto ag",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/ofinto-ag/praktikum-data-ki-automation-zurich-101558",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Electrical Engineer",
+      "org": "Deerns Groep BV",
+      "location": "Den Haag, Zuid-Holland, Netherlands",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/deerns-groep-bv/senior-electrical-engineer-den-haag-280436",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -229,17 +237,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/fastned/working-student-solar-regulation-permitting-contracts-amsterdam-240727",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Principal Product Manager, Accounts & Automation",
-      "org": "PolicyMe",
-      "location": "Canada",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/150899-principal-product-manager-accounts-automation",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
