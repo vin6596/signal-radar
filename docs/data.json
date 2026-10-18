@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:12:50.102971+00:00",
+  "generated_at": "2026-10-18T10:29:44.165029+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Software Engineer \u2013 Internal Tools & Automation (m/w/d)",
+      "org": "Wattfox",
+      "location": "Freiburg",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-freiburg-147596",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Tech Lead Full-Stack Rails Engineer",
@@ -194,47 +204,11 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Data Scientist",
-      "org": "Lemon.io",
-      "location": "Northern America, LATAM, Europe, APAC",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Test Automation Engineer",
-      "org": "Keyfactorinc",
-      "location": "Aachen",
+      "title": "Field Engineer (m/w/x)",
+      "org": "Rotzinger Group",
+      "location": "Altendorf, Schwyz, Schweiz",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/keyfactorinc/senior-test-automation-engineer-aachen-266252",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Sr. Solutions Architect France",
-      "org": "databricks",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-solutions-architect-france-paris-125535",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Solutions Architect Greenfield Enterprise France",
-      "org": "databricks",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/solutions-architect-greenfield-enterprise-france-paris-341133",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
-      "org": "databricks",
-      "location": "Remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/lead-solutions-architect-generative-ai-emea-emerging-dnb-420027",
+      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-266720",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -248,40 +222,24 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Lead Automation & Controls Engineer (Siemens TIA)",
-      "org": "Eh Group",
-      "location": "Nyon",
+      "title": "Working Student, Solar Regulation, Permitting & Contracts",
+      "org": "Fastned",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/lead-automation-controls-engineer-siemens-tia-nyon-459980",
+      "url": "https://www.arbeitnow.nl/jobs/companies/fastned/working-student-solar-regulation-permitting-contracts-amsterdam-240727",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Siemens PLC / TIA Portal Engineer",
-      "org": "Eh Group",
-      "location": "Nyon",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/senior-siemens-plc-tia-portal-engineer-nyon-268487",
+      "title": "Principal Product Manager, Accounts & Automation",
+      "org": "PolicyMe",
+      "location": "Canada",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/150899-principal-product-manager-accounts-automation",
       "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
-      "org": "databricks",
-      "location": "Amsterdam",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/databricks/lead-solutions-architect-generative-ai-emea-emerging-dnb-amsterdam-234185",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "SecDevOps Engineer \u2013 Infrastructure Automation (Candidates Based in the Netherlands)",
-      "org": "Wypoon",
-      "location": "Amsterdam",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/secdevops-engineer-infrastructure-automation-candidates-based-in-the-netherlands-amsterdam-249732",
-      "tag": "Job",
-      "source": "Arbeitnow"
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
