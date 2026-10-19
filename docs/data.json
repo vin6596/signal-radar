@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:18:30.779793+00:00",
+  "generated_at": "2026-10-19T22:02:55.632650+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -29,20 +29,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Build With AI: Basics",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://learn-ai-basics.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "OpenCV AI Competition 2026, powered by AWS",
       "org": "Devpost",
       "location": "Online",
       "type": "IoT",
       "url": "https://opencv26.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Build With AI: Basics",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://learn-ai-basics.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -194,56 +194,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Growth Engineer \u2013 Outbound & Data Automation (m/w/d)",
-      "org": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
+      "title": "Werkstudent Geb\u00e4udeautomation (m/w/d)",
+      "org": "BuildlinX",
+      "location": "Hamburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-113356",
+      "url": "https://www.arbeitnow.com/jobs/companies/buildlinx/werkstudent-gebaudeautomation-hamburg-88966",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "IT Deployment & Automation Engineer (m/w/d) \u2013 Refurbishment / Windows / Treiber",
-      "org": "Hanitel GmbH",
-      "location": "Berlin",
+      "title": "Leiter/in Technik und Unterhalt (Schwerpunkt Elektro-/Steuerungstechnik/Automatisierung)",
+      "org": "ProPers Vermittlungen AG",
+      "location": "Saanen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/hanitel-gmbh/it-deployment-automation-engineer-refurbishment-windows-treiber-berlin-306239",
+      "url": "https://www.arbeitnow.ch/jobs/companies/propers-vermittlungen-ag/leiter-in-technik-und-unterhalt-schwerpunkt-elektro-steuerungstechnik-automatisierung-saanen-434401",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Softwarearchitekt \u2013 HMI / Automatisierungstechnik (w/m/d)",
-      "org": "Right Search",
-      "location": "Bern",
+      "title": "Stage AI & Automation",
+      "org": "P1 Travel",
+      "location": "Leiden, Zuid-Holland, Nederland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/right-search/softwarearchitekt-hmi-automatisierungstechnik-bern-353062",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Automation Engineer / Elektrotechniker Anlagenbau (100%) Nr. MW",
-      "org": "Excellent Go4",
-      "location": "Altdorf",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/automation-engineer-elektrotechniker-anlagenbau-100-nr-mw-altdorf-230943",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Automationsingenieur Codesys (m/w/d) Nr. MW",
-      "org": "Excellent Go4",
-      "location": "Emmen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/automationsingenieur-codesys-nr-mw-emmen-189123",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "SPS-Programmierer Automation & Anlagenbau (m/w/d) Nr. MW",
-      "org": "Excellent Go4",
-      "location": "Oberb\u00fcren",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/sps-programmierer-automation-anlagenbau-nr-mw-oberburen-377128",
+      "url": "https://www.arbeitnow.nl/jobs/companies/p1-travel/stage-ai-automation-leiden-141316",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -257,22 +230,24 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Electrical Engineer",
-      "org": "Deerns Groep BV",
-      "location": "Den Haag, Zuid-Holland, Netherlands",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/deerns-groep-bv/senior-electrical-engineer-den-haag-280436",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Electrical Engineer",
-      "org": "Lunar Energy",
-      "location": "UK",
+      "title": "Binance Accelerator Program - QA Automation",
+      "org": "Binance",
+      "location": "Singapore",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/153551-senior-electrical-engineer",
+      "url": "https://jobicy.com/jobs/155925-binance-accelerator-program-qa-automation",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "QA Automation Engineer - Digital Media & Advertising - Brazil",
+      "org": "Truelogic",
+      "location": "Brazil",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/155927-qa-automation-engineer-digital-media-advertising-brazil",
       "tag": "Job",
       "source": "Jobicy"
     },
