@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:10:35.539733+00:00",
+  "generated_at": "2026-10-19T12:18:30.779793+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -85,6 +85,15 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Software Engineer, AI Coding Tasks",
+      "org": "Askable",
+      "location": "Worldwide",
+      "type": "contract",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Tech Lead Full-Stack Rails Engineer",
       "org": "Mitre Media",
@@ -185,38 +194,65 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior .NET Full-stack Developer",
-      "org": "Lemon.io",
-      "location": "Northern America, LATAM, Europe, APAC",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Sr. Solutions Architect - FSI",
-      "org": "databricks",
-      "location": "Munich",
+      "title": "Growth Engineer \u2013 Outbound & Data Automation (m/w/d)",
+      "org": "eFLY Marketplace Services GmbH",
+      "location": "Stuttgart",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-fsi-munich-363180",
+      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-113356",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Data & MarTech Manager | Analytics, Automation & CRM",
-      "org": "ofinto ag",
-      "location": "Z\u00fcrich",
+      "title": "IT Deployment & Automation Engineer (m/w/d) \u2013 Refurbishment / Windows / Treiber",
+      "org": "Hanitel GmbH",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/ofinto-ag/data-martech-manager-analytics-automation-crm-zurich-188897",
+      "url": "https://www.arbeitnow.com/jobs/companies/hanitel-gmbh/it-deployment-automation-engineer-refurbishment-windows-treiber-berlin-306239",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Praktikum Data & KI-Automation",
-      "org": "ofinto ag",
-      "location": "Z\u00fcrich",
+      "title": "Softwarearchitekt \u2013 HMI / Automatisierungstechnik (w/m/d)",
+      "org": "Right Search",
+      "location": "Bern",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/ofinto-ag/praktikum-data-ki-automation-zurich-101558",
+      "url": "https://www.arbeitnow.ch/jobs/companies/right-search/softwarearchitekt-hmi-automatisierungstechnik-bern-353062",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer / Elektrotechniker Anlagenbau (100%) Nr. MW",
+      "org": "Excellent Go4",
+      "location": "Altdorf",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/automation-engineer-elektrotechniker-anlagenbau-100-nr-mw-altdorf-230943",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automationsingenieur Codesys (m/w/d) Nr. MW",
+      "org": "Excellent Go4",
+      "location": "Emmen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/automationsingenieur-codesys-nr-mw-emmen-189123",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "SPS-Programmierer Automation & Anlagenbau (m/w/d) Nr. MW",
+      "org": "Excellent Go4",
+      "location": "Oberb\u00fcren",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/sps-programmierer-automation-anlagenbau-nr-mw-oberburen-377128",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Controls Engineer",
+      "org": "AMF Bakery Systems B.V.",
+      "location": "Gorinchem, Zuid-Holland, Nederland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-488892",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -230,13 +266,15 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Working Student, Solar Regulation, Permitting & Contracts",
-      "org": "Fastned",
-      "location": "Amsterdam, Noord-Holland, Netherlands",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/fastned/working-student-solar-regulation-permitting-contracts-amsterdam-240727",
+      "title": "Senior Electrical Engineer",
+      "org": "Lunar Energy",
+      "location": "UK",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/153551-senior-electrical-engineer",
       "tag": "Job",
-      "source": "Arbeitnow"
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
