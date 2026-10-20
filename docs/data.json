@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:59:58.500759+00:00",
+  "generated_at": "2026-10-20T21:18:59.016905+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Lab Automation Internship",
+      "org": "Adaptyv",
+      "location": "Lausanne",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/lab-automation-internship-lausanne-360538",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Software Engineer, AI Coding Tasks",
@@ -176,74 +186,65 @@
       "source": "Remotive"
     },
     {
-      "title": "(Senior) Flight Control System Engineer (m/f/d)",
-      "org": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
+      "title": "Senior Control Systems Engineer",
+      "org": "Fusionality",
+      "location": "Lausanne",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-flight-control-system-engineer-gilching-114548",
+      "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/senior-control-systems-engineer-lausanne-423621",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Product Marketing & Exhibitions Specialist",
-      "org": "Secheron S Dot A",
-      "location": "Frankfurt am Main, Germany",
+      "title": "Software Engineer, Lab Automation",
+      "org": "Adaptyv",
+      "location": "Lausanne",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/secheron-s-dot-a/senior-product-marketing-exhibitions-specialist-frankfurt-am-main-124245",
+      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/software-engineer-lab-automation-lausanne-308317",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Werkstudent (m/w/d) Robotik-Projektmanagement & Implementierung",
-      "org": "Dr. Sasse Gruppe",
-      "location": "Munich",
+      "title": "Lab Automation Engineer",
+      "org": "Adaptyv",
+      "location": "Lausanne",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/dr-sasse-gruppe/werkstudent-robotik-projektmanagement-implementierung-munich-10580",
+      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/lab-automation-engineer-lausanne-372707",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Data Engineer",
-      "org": "ocadogroup",
-      "location": "Hatfield",
+      "title": "Mechanical / Mechatronics Engineer (Early Career), Hardware",
+      "org": "Adaptyv",
+      "location": "Lausanne",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/data-engineer-hatfield-359118",
+      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/mechanical-mechatronics-engineer-early-career-hardware-lausanne-18679",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Channel Solutions Engineer",
-      "org": "Algolia",
-      "location": "London",
+      "title": "Synthesis Instrumentation Engineer",
+      "org": "Adaptyv",
+      "location": "Lausanne",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/algolia/channel-solutions-engineer-london-198065",
+      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/synthesis-instrumentation-engineer-lausanne-104877",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Product Marketing & Exhibitions Specialist",
-      "org": "Secheron S Dot A",
-      "location": "Bern, Switzerland",
+      "title": "Reliability & Maintenance Engineer | DSL-01",
+      "org": "Skynrg",
+      "location": "Delfzijl",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/senior-product-marketing-exhibitions-specialist-bern-342129",
+      "url": "https://www.arbeitnow.nl/jobs/companies/skynrg/reliability-maintenance-engineer-dsl-01-delfzijl-121614",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Product Marketing & Exhibitions Specialist",
-      "org": "Secheron S Dot A",
-      "location": "Satigny, Switzerland",
+      "title": "Lead Solutions Architect \u2013 MedTech (Strategic Account)",
+      "org": "databricks",
+      "location": "Amsterdam",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/senior-product-marketing-exhibitions-specialist-satigny-213532",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Leiter/in Technik und Unterhalt (Schwerpunkt Elektro-/Steuerungstechnik/Automatisierung)",
-      "org": "ProPers Vermittlungen AG",
-      "location": "Saanen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/propers-vermittlungen-ag/leiter-in-technik-und-unterhalt-schwerpunkt-elektro-steuerungstechnik-automatisierung-saanen-434401",
+      "url": "https://www.arbeitnow.nl/jobs/companies/databricks/lead-solutions-architect-medtech-strategic-account-amsterdam-206298",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -264,6 +265,17 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/p1-travel/stage-ai-automation-leiden-141316",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Electrical Delivery Engineer",
+      "org": "Lambda",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/155997-senior-electrical-delivery-engineer",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
