@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:02:55.632650+00:00",
+  "generated_at": "2026-10-20T10:59:58.500759+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -176,29 +176,65 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Shopify Developer",
-      "org": "Sanctuary Computer Inc",
-      "location": "Worldwide",
-      "type": "contract",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior AI Engineer",
-      "org": "Lemon.io",
-      "location": "Northern America, LATAM, Europe, APAC",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Werkstudent Geb\u00e4udeautomation (m/w/d)",
-      "org": "BuildlinX",
-      "location": "Hamburg",
+      "title": "(Senior) Flight Control System Engineer (m/f/d)",
+      "org": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/buildlinx/werkstudent-gebaudeautomation-hamburg-88966",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-flight-control-system-engineer-gilching-114548",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Product Marketing & Exhibitions Specialist",
+      "org": "Secheron S Dot A",
+      "location": "Frankfurt am Main, Germany",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/secheron-s-dot-a/senior-product-marketing-exhibitions-specialist-frankfurt-am-main-124245",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Werkstudent (m/w/d) Robotik-Projektmanagement & Implementierung",
+      "org": "Dr. Sasse Gruppe",
+      "location": "Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/dr-sasse-gruppe/werkstudent-robotik-projektmanagement-implementierung-munich-10580",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Data Engineer",
+      "org": "ocadogroup",
+      "location": "Hatfield",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/data-engineer-hatfield-359118",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Channel Solutions Engineer",
+      "org": "Algolia",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/algolia/channel-solutions-engineer-london-198065",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Product Marketing & Exhibitions Specialist",
+      "org": "Secheron S Dot A",
+      "location": "Bern, Switzerland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/senior-product-marketing-exhibitions-specialist-bern-342129",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Product Marketing & Exhibitions Specialist",
+      "org": "Secheron S Dot A",
+      "location": "Satigny, Switzerland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/senior-product-marketing-exhibitions-specialist-satigny-213532",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -212,6 +248,15 @@
       "source": "Arbeitnow"
     },
     {
+      "title": "PLC Software Engineer - The Netherlands",
+      "org": "HoSt Group Bioenergy Systems",
+      "location": "Enschede, Overijssel, Netherlands",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/host-group-bioenergy-systems/plc-software-engineer-the-netherlands-enschede-370473",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Stage AI & Automation",
       "org": "P1 Travel",
       "location": "Leiden, Zuid-Holland, Nederland",
@@ -219,37 +264,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/p1-travel/stage-ai-automation-leiden-141316",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Controls Engineer",
-      "org": "AMF Bakery Systems B.V.",
-      "location": "Gorinchem, Zuid-Holland, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-488892",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Binance Accelerator Program - QA Automation",
-      "org": "Binance",
-      "location": "Singapore",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/155925-binance-accelerator-program-qa-automation",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "QA Automation Engineer - Digital Media & Advertising - Brazil",
-      "org": "Truelogic",
-      "location": "Brazil",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/155927-qa-automation-engineer-digital-media-advertising-brazil",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
