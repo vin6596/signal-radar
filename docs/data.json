@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:18:59.016905+00:00",
+  "generated_at": "2026-10-21T11:16:52.481014+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -186,6 +186,33 @@
       "source": "Remotive"
     },
     {
+      "title": "IT & Automation Specialist (m/w/d)",
+      "org": "EVEREST GmbH",
+      "location": "Hamburg",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/everest-gmbh/it-automation-specialist-hamburg-363418",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer (m/w/d) 100% Remote \u2013 n8n & KI",
+      "org": "Martic Solutions",
+      "location": "Berlin",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/martic-solutions/automation-engineer-100-remote-n8n-ki-berlin-291379",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Specialist Field Engineer - Networking",
+      "org": "Coreweave",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/senior-specialist-field-engineer-networking-london-462869",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Senior Control Systems Engineer",
       "org": "Fusionality",
       "location": "Lausanne",
@@ -200,33 +227,6 @@
       "location": "Lausanne",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/software-engineer-lab-automation-lausanne-308317",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Lab Automation Engineer",
-      "org": "Adaptyv",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/lab-automation-engineer-lausanne-372707",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Mechanical / Mechatronics Engineer (Early Career), Hardware",
-      "org": "Adaptyv",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/mechanical-mechatronics-engineer-early-career-hardware-lausanne-18679",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Synthesis Instrumentation Engineer",
-      "org": "Adaptyv",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/synthesis-instrumentation-engineer-lausanne-104877",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -256,26 +256,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/host-group-bioenergy-systems/plc-software-engineer-the-netherlands-enschede-370473",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Stage AI & Automation",
-      "org": "P1 Travel",
-      "location": "Leiden, Zuid-Holland, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/p1-travel/stage-ai-automation-leiden-141316",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Electrical Delivery Engineer",
-      "org": "Lambda",
-      "location": "USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/155997-senior-electrical-delivery-engineer",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
