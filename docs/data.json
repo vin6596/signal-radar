@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:16:52.481014+00:00",
+  "generated_at": "2026-10-21T21:18:41.569139+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -83,17 +83,7 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Lab Automation Internship",
-      "org": "Adaptyv",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/lab-automation-internship-lausanne-360538",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Software Engineer, AI Coding Tasks",
@@ -186,29 +176,38 @@
       "source": "Remotive"
     },
     {
-      "title": "IT & Automation Specialist (m/w/d)",
-      "org": "EVEREST GmbH",
+      "title": "Ingenieur (m/w/d) Mechatronik f\u00fcr Inbetriebnahme und Automatisierung",
+      "org": "Personalized Nutrition Systems GmbH",
+      "location": "Bornheim",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/personalized-nutrition-systems-gmbh/ingenieur-mechatronik-fur-inbetriebnahme-und-automatisierung-bornheim-134680",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Entwicklungsingenieur Pr\u00fcftechnik \u2013 LabVIEW (m/w/d)",
+      "org": "Personalica GmbH",
       "location": "Hamburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/everest-gmbh/it-automation-specialist-hamburg-363418",
+      "url": "https://www.arbeitnow.com/jobs/companies/personalica-gmbh/entwicklungsingenieur-pruftechnik-labview-hamburg-113337",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Engineer (m/w/d) 100% Remote \u2013 n8n & KI",
-      "org": "Martic Solutions",
-      "location": "Berlin",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/martic-solutions/automation-engineer-100-remote-n8n-ki-berlin-291379",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Specialist Field Engineer - Networking",
-      "org": "Coreweave",
-      "location": "London",
+      "title": "(Senior) HR Tech Business Analyst \u2014 Automation & AI (m/f/d)",
+      "org": "Flix",
+      "location": "Berlin, Berlin, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/senior-specialist-field-engineer-networking-london-462869",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-hr-tech-business-analyst-automation-ai-berlin-23802",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Electrical Technician",
+      "org": "The Exploration Company",
+      "location": "Bordeaux, France",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/electrical-technician-bordeaux-125904",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -218,15 +217,6 @@
       "location": "Lausanne",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/senior-control-systems-engineer-lausanne-423621",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Software Engineer, Lab Automation",
-      "org": "Adaptyv",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/software-engineer-lab-automation-lausanne-308317",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -256,6 +246,17 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/host-group-bioenergy-systems/plc-software-engineer-the-netherlands-enschede-370473",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Automation Manager",
+      "org": "Acquia, Inc.",
+      "location": "Costa Rica",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/156234-ai-automation-manager",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
