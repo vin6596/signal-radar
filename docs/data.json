@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:18:41.569139+00:00",
+  "generated_at": "2026-10-22T11:15:24.065080+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -176,29 +176,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Ingenieur (m/w/d) Mechatronik f\u00fcr Inbetriebnahme und Automatisierung",
-      "org": "Personalized Nutrition Systems GmbH",
-      "location": "Bornheim",
+      "title": "Senior Forward Deployed Engineer (all genders)",
+      "org": "Agilerobotsse",
+      "location": "Munich, Bavaria",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/personalized-nutrition-systems-gmbh/ingenieur-mechatronik-fur-inbetriebnahme-und-automatisierung-bornheim-134680",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-forward-deployed-engineer-all-genders-munich-bavaria-44708",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Entwicklungsingenieur Pr\u00fcftechnik \u2013 LabVIEW (m/w/d)",
-      "org": "Personalica GmbH",
-      "location": "Hamburg",
+      "title": "Senior C++ Performance Engineer (all genders)",
+      "org": "Agilerobotsse",
+      "location": "Munich, Bavaria",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/personalica-gmbh/entwicklungsingenieur-pruftechnik-labview-hamburg-113337",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "(Senior) HR Tech Business Analyst \u2014 Automation & AI (m/f/d)",
-      "org": "Flix",
-      "location": "Berlin, Berlin, Germany",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-hr-tech-business-analyst-automation-ai-berlin-23802",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-c-performance-engineer-all-genders-munich-bavaria-418975",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -212,51 +203,13 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Control Systems Engineer",
-      "org": "Fusionality",
-      "location": "Lausanne",
+      "title": "Robot Pilot",
+      "org": "nu glass",
+      "location": "Spiez",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/senior-control-systems-engineer-lausanne-423621",
+      "url": "https://www.arbeitnow.ch/jobs/companies/nu-glass/robot-pilot-spiez-149435",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Reliability & Maintenance Engineer | DSL-01",
-      "org": "Skynrg",
-      "location": "Delfzijl",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/skynrg/reliability-maintenance-engineer-dsl-01-delfzijl-121614",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Lead Solutions Architect \u2013 MedTech (Strategic Account)",
-      "org": "databricks",
-      "location": "Amsterdam",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/databricks/lead-solutions-architect-medtech-strategic-account-amsterdam-206298",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "PLC Software Engineer - The Netherlands",
-      "org": "HoSt Group Bioenergy Systems",
-      "location": "Enschede, Overijssel, Netherlands",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/host-group-bioenergy-systems/plc-software-engineer-the-netherlands-enschede-370473",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AI Automation Manager",
-      "org": "Acquia, Inc.",
-      "location": "Costa Rica",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/156234-ai-automation-manager",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
