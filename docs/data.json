@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:15:24.065080+00:00",
+  "generated_at": "2026-10-22T21:14:43.590051+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -176,29 +176,11 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Forward Deployed Engineer (all genders)",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
+      "title": "Head of Engineering (m/w/d) - Packaging Automation",
+      "org": "OPITZ Packaging Systems GmbH",
+      "location": "Northeim",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-forward-deployed-engineer-all-genders-munich-bavaria-44708",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior C++ Performance Engineer (all genders)",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-c-performance-engineer-all-genders-munich-bavaria-418975",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Technician",
-      "org": "The Exploration Company",
-      "location": "Bordeaux, France",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/electrical-technician-bordeaux-125904",
+      "url": "https://www.arbeitnow.com/jobs/companies/opitz-packaging-systems-gmbh/head-of-engineering-packaging-automation-northeim-201820",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -208,6 +190,51 @@
       "location": "Spiez",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/nu-glass/robot-pilot-spiez-149435",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Operational Technology Architect",
+      "org": "GradeMatch",
+      "location": "Rotterdam-Rijnmond, Zuid-Holland, Nederland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/operational-technology-architect-rotterdam-rijnmond-450968",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer",
+      "org": "GradeMatch",
+      "location": "Weert, Limburg, Nederland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/automation-engineer-weert-293161",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "PLC Software Engineer",
+      "org": "GradeMatch",
+      "location": "Helmond, Noord-Brabant, Nederland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/plc-software-engineer-helmond-114608",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Lead Software Engineer PLC & Industry",
+      "org": "GradeMatch",
+      "location": "Helmond, Noord-Brabant, Nederland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/lead-software-engineer-plc-industry-helmond-351592",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Design Engineer Electrical",
+      "org": "Benchmark",
+      "location": "Almelo, Overijssel, Nederland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/senior-design-engineer-electrical-almelo-59630",
       "tag": "Job",
       "source": "Arbeitnow"
     },
