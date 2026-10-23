@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:14:43.590051+00:00",
+  "generated_at": "2026-10-23T11:06:50.220711+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -167,20 +167,47 @@
       "source": "Remotive"
     },
     {
-      "title": "Content Reviewer - United States",
-      "org": "TELUS Digital",
-      "location": "USA",
-      "type": "part_time",
-      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
+      "title": "Senior CRM (HubSpot) & Marketing Automation Expert (m/f/d)",
+      "org": "Quantum-Systems GmbH",
+      "location": "Gilching",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-crm-hubspot-marketing-automation-expert-gilching-324128",
       "tag": "Job",
-      "source": "Remotive"
+      "source": "Arbeitnow"
     },
     {
-      "title": "Head of Engineering (m/w/d) - Packaging Automation",
-      "org": "OPITZ Packaging Systems GmbH",
-      "location": "Northeim",
+      "title": "AI Automation Engineer (d/m/f)",
+      "org": "Scout24",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/opitz-packaging-systems-gmbh/head-of-engineering-packaging-automation-northeim-201820",
+      "url": "https://www.arbeitnow.com/jobs/companies/scout24/ai-automation-engineer-berlin-239926",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Commercial Graduate Trainee",
+      "org": "Flexport",
+      "location": "Frankfurt; Hamburg",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/flexport/commercial-graduate-trainee-frankfurt-hamburg-100324",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Software Engineer - Alerting Platform Automation",
+      "org": "Datadog",
+      "location": "Nantes; Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-alerting-platform-automation-nantes-paris-99101",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Field Engineer (m/w/x)",
+      "org": "Rotzinger Group",
+      "location": "Altendorf, Schwyz, Schweiz",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-73906",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -190,51 +217,6 @@
       "location": "Spiez",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/nu-glass/robot-pilot-spiez-149435",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Operational Technology Architect",
-      "org": "GradeMatch",
-      "location": "Rotterdam-Rijnmond, Zuid-Holland, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/operational-technology-architect-rotterdam-rijnmond-450968",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Automation Engineer",
-      "org": "GradeMatch",
-      "location": "Weert, Limburg, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/automation-engineer-weert-293161",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "PLC Software Engineer",
-      "org": "GradeMatch",
-      "location": "Helmond, Noord-Brabant, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/plc-software-engineer-helmond-114608",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Lead Software Engineer PLC & Industry",
-      "org": "GradeMatch",
-      "location": "Helmond, Noord-Brabant, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/lead-software-engineer-plc-industry-helmond-351592",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Design Engineer Electrical",
-      "org": "Benchmark",
-      "location": "Almelo, Overijssel, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/senior-design-engineer-electrical-almelo-59630",
       "tag": "Job",
       "source": "Arbeitnow"
     },
