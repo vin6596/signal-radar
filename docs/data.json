@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:23:30.369234+00:00",
+  "generated_at": "2026-10-24T20:19:27.171396+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -176,6 +176,24 @@
       "source": "Remotive"
     },
     {
+      "title": "Founding Lead Engineer \u2014 AI & Workflow Automation",
+      "org": "Founders Factory",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/founders-factory/founding-lead-engineer-ai-workflow-automation-berlin-289939",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Werkstudent:in AI & Automation - Energy (m/w/d)",
+      "org": "1KOMMA5\u02da",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-ai-automation-energy-berlin-339347",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Senior Development Engineer Mechatronics (m/w/x)",
       "org": "Thorlabs",
       "location": "Bergkirchen, Germany",
@@ -221,15 +239,6 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Operations & Automation Associate",
-      "org": "Nous",
-      "location": "Nous HQ",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nous/operations-automation-associate-london-185747",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Sr. Specialist Solutions Architect - Platform Security and Cloud Infrastructure",
       "org": "databricks",
       "location": "Remote",
@@ -266,15 +275,6 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Test Automation Engineer",
-      "org": "European Dynamics",
-      "location": "Strasbourg, France",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/remote-test-automation-engineer-strasbourg-449366",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Field Engineer (m/w/x)",
       "org": "Rotzinger Group",
       "location": "Altendorf, Schwyz, Schweiz",
@@ -291,28 +291,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-37451",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Cloud Field Engineer",
-      "org": "Canonical",
-      "location": "Anywhere",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Embedded Linux Field Engineer for Devices/IoT",
-      "org": "Canonical",
-      "location": "Anywhere",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
