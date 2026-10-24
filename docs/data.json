@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:03:44.909630+00:00",
+  "generated_at": "2026-10-24T10:23:30.369234+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -86,6 +86,15 @@
   "internships": [],
   "jobs": [
     {
+      "title": "AI Trainer - Video Annotation",
+      "org": "iMerit Technology",
+      "location": "Worldwide",
+      "type": "freelance",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
       "title": "Software Engineer, AI Coding Tasks",
       "org": "Askable",
       "location": "Worldwide",
@@ -167,29 +176,92 @@
       "source": "Remotive"
     },
     {
-      "title": "Robotics Engineer - Integration & Control (m/f/d)",
-      "org": "Prefiro GmbH",
-      "location": "Karlsruhe",
+      "title": "Senior Development Engineer Mechatronics (m/w/x)",
+      "org": "Thorlabs",
+      "location": "Bergkirchen, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/prefiro-gmbh/robotics-engineer-integration-control-karlsruhe-186076",
+      "url": "https://www.arbeitnow.com/jobs/companies/thorlabs/senior-development-engineer-mechatronics-bergkirchen-223891",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
-      "org": "MY Humancapital GmbH",
-      "location": "Munich",
+      "title": "Mechatronics Test Engineer (m/f/d)",
+      "org": "Agilerobotsse",
+      "location": "Munich, Bavaria",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-242896",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/mechatronics-test-engineer-munich-bavaria-451948",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Growth Engineer \u2013 Outbound & Data Automation (m/w/d)",
-      "org": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
+      "title": "Senior CRM (HubSpot) & Marketing Automation Expert (m/f/d)",
+      "org": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-49654",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-crm-hubspot-marketing-automation-expert-gilching-88884",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Solutions Architect (Media, Entertainment and Agencies)",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-media-entertainment-and-agencies-london-409667",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Solutions Architect (Digital Native Business)",
+      "org": "databricks",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-digital-native-business-london-220996",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Operations & Automation Associate",
+      "org": "Nous",
+      "location": "Nous HQ",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nous/operations-automation-associate-london-185747",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Sr. Specialist Solutions Architect - Platform Security and Cloud Infrastructure",
+      "org": "databricks",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-specialist-solutions-architect-platform-security-and-cloud-infrastructure-232808",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Amazon Performance (PPC) & Automation Manager",
+      "org": "Ledger",
+      "location": "Paris, France",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ledger/amazon-performance-ppc-automation-manager-paris-48766",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Ing\u00e9nieur Conception & Instrumentation - \u00c9quipements et bancs d\u2019essais (H/F)",
+      "org": "Inautalent",
+      "location": "Lyon, France",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/inautalent/ingenieur-conception-instrumentation-equipements-et-bancs-dessais-h-f-lyon-294146",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Ing\u00e9nieur Conception & Instrumentation - \u00c9quipements et bancs d\u2019essais (H/F)",
+      "org": "Inautalent",
+      "location": "Neuville-sur-Sa\u00f4ne, France",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/inautalent/ingenieur-conception-instrumentation-equipements-et-bancs-dessais-h-f-neuville-sur-saone-58474",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -210,6 +282,37 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-73906",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Controls Engineer",
+      "org": "AMF Bakery Systems B.V.",
+      "location": "Gorinchem, Zuid-Holland, Nederland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-37451",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Cloud Field Engineer",
+      "org": "Canonical",
+      "location": "Anywhere",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Embedded Linux Field Engineer for Devices/IoT",
+      "org": "Canonical",
+      "location": "Anywhere",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
