@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:19:27.171396+00:00",
+  "generated_at": "2026-10-25T10:51:08.498421+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
+      "title": "Cal Hacks 13.0",
       "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR",
-      "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
+      "location": "Palace of Fine Arts",
+      "type": "Beginner Friendly",
+      "url": "https://cal-hacks-13-0.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -176,121 +176,51 @@
       "source": "Remotive"
     },
     {
-      "title": "Founding Lead Engineer \u2014 AI & Workflow Automation",
-      "org": "Founders Factory",
-      "location": "Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/founders-factory/founding-lead-engineer-ai-workflow-automation-berlin-289939",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Werkstudent:in AI & Automation - Energy (m/w/d)",
-      "org": "1KOMMA5\u02da",
-      "location": "Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-ai-automation-energy-berlin-339347",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Development Engineer Mechatronics (m/w/x)",
-      "org": "Thorlabs",
-      "location": "Bergkirchen, Germany",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/thorlabs/senior-development-engineer-mechatronics-bergkirchen-223891",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Mechatronics Test Engineer (m/f/d)",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/mechatronics-test-engineer-munich-bavaria-451948",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior CRM (HubSpot) & Marketing Automation Expert (m/f/d)",
+      "title": "Test Automation Engineer (m/f/d)",
       "org": "Quantum-Systems GmbH",
       "location": "Gilching, Bayern, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-crm-hubspot-marketing-automation-expert-gilching-88884",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/test-automation-engineer-gilching-9716",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Solutions Architect (Media, Entertainment and Agencies)",
-      "org": "databricks",
-      "location": "London",
+      "title": "Senior AV Field Engineer (m/w/d)",
+      "org": "Mobileye",
+      "location": "Stuttgart, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-media-entertainment-and-agencies-london-409667",
+      "url": "https://www.arbeitnow.com/jobs/companies/mobileye/senior-av-field-engineer-stuttgart-germany-153472",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Solutions Architect (Digital Native Business)",
-      "org": "databricks",
-      "location": "London",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) \u2013 Marketing Automation (all genders)",
+      "org": "Foodji GmbH",
+      "location": "M\u00fcnchen, Bayern, Deutschland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-digital-native-business-london-220996",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-310180",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Sr. Specialist Solutions Architect - Platform Security and Cloud Infrastructure",
-      "org": "databricks",
-      "location": "Remote",
+      "title": "Mechanisch monteur",
+      "org": "Technison",
+      "location": "Berkel en Rodenrijs",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-specialist-solutions-architect-platform-security-and-cloud-infrastructure-232808",
+      "url": "https://www.arbeitnow.nl/jobs/companies/technison/mechanisch-monteur-berkel-en-rodenrijs-32220",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Amazon Performance (PPC) & Automation Manager",
-      "org": "Ledger",
-      "location": "Paris, France",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ledger/amazon-performance-ppc-automation-manager-paris-48766",
+      "title": "Lead Automation Engineer",
+      "org": "Capital on Tap",
+      "location": "Portugal",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
       "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Ing\u00e9nieur Conception & Instrumentation - \u00c9quipements et bancs d\u2019essais (H/F)",
-      "org": "Inautalent",
-      "location": "Lyon, France",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/inautalent/ingenieur-conception-instrumentation-equipements-et-bancs-dessais-h-f-lyon-294146",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Ing\u00e9nieur Conception & Instrumentation - \u00c9quipements et bancs d\u2019essais (H/F)",
-      "org": "Inautalent",
-      "location": "Neuville-sur-Sa\u00f4ne, France",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/inautalent/ingenieur-conception-instrumentation-equipements-et-bancs-dessais-h-f-neuville-sur-saone-58474",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Field Engineer (m/w/x)",
-      "org": "Rotzinger Group",
-      "location": "Altendorf, Schwyz, Schweiz",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-73906",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Controls Engineer",
-      "org": "AMF Bakery Systems B.V.",
-      "location": "Gorinchem, Zuid-Holland, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-37451",
-      "tag": "Job",
-      "source": "Arbeitnow"
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
