@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:51:08.498421+00:00",
+  "generated_at": "2026-10-25T20:26:44.267885+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "Cal Hacks 13.0",
+      "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
       "org": "Devpost",
-      "location": "Palace of Fine Arts",
-      "type": "Beginner Friendly",
-      "url": "https://cal-hacks-13-0.devpost.com/",
+      "location": "Online",
+      "type": "AR/VR",
+      "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -212,13 +212,24 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Lead Automation Engineer",
-      "org": "Capital on Tap",
-      "location": "Portugal",
+      "title": "IoT Field Engineer - China & Region",
+      "org": "Canonical",
+      "location": "China",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
+      "url": "https://jobicy.com/jobs/156996-iot-field-engineer-china-region",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Automation & Process Specialist",
+      "org": "Thumbtack",
+      "location": "Philippines",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/156966-senior-automation-process-specialist",
       "tag": "Job",
       "source": "Jobicy"
     },
