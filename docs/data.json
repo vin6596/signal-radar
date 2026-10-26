@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:21:36.149466+00:00",
+  "generated_at": "2026-10-26T22:21:09.586317+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -25,15 +25,6 @@
       "location": "Online",
       "type": "IoT",
       "url": "https://opencv26.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Build With AI: Basics",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://learn-ai-basics.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -65,11 +56,11 @@
       "source": "Devpost"
     },
     {
-      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+      "title": "Codex x TwitchCon Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Communication",
-      "url": "https://aws-cds-partner.devpost.com/",
+      "url": "https://twitchcon-codex.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "AR/VR",
       "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Communication",
+      "url": "https://aws-cds-partner.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -176,11 +176,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Automation & Safety Software Engineer (f/m/d)",
-      "org": "Magazino GmbH",
-      "location": "Munich",
+      "title": "Junior Engine Control System & Monitoring Engineer",
+      "org": "The Exploration Company",
+      "location": "Munich, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/magazino-gmbh/automation-safety-software-engineer-munich-478804",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/junior-engine-control-system-monitoring-engineer-munich-361342",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior GTM Systems AI and Automation Engineer",
+      "org": "Camunda",
+      "location": "Remote",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-436740",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Growth Engineer \u2013 Outbound & Data Automation (m/w/d)",
+      "org": "eFLY Marketplace Services GmbH",
+      "location": "Stuttgart",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-59266",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -194,29 +212,29 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Solutions Architect, EMEA Startups \u2014 France",
-      "org": "databricks",
-      "location": "Paris",
+      "title": "AIT Electrical Engineer",
+      "org": "The Exploration Company",
+      "location": "Bordeaux, France",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/solutions-architect-emea-startups-france-paris-297503",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/ait-electrical-engineer-bordeaux-176451",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-      "org": "databricks",
+      "title": "Software Engineer Network Automation, WAN & Edge",
+      "org": "Mistral.ai",
       "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-paris-57396",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-network-automation-wan-edge-paris-306705",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Manager, Field Engineering France  - Specialist Solutions Architects",
-      "org": "databricks",
-      "location": "Paris",
+      "title": "OT Engineer",
+      "org": "Bell Food Group",
+      "location": "Basel",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/manager-field-engineering-france-specialist-solutions-architects-paris-373527",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bell-food-group/ot-engineer-basel-393706",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -239,13 +257,13 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior IT Automation Engineer",
-      "org": "Huntress",
-      "location": "USA",
+      "title": "Technical Sales Specialist (Electrical Market)",
+      "org": "Ajax Systems",
+      "location": "France",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/157074-senior-it-automation-engineer",
+      "url": "https://jobicy.com/jobs/157256-technical-sales-specialist-electrical-market",
       "tag": "Job",
       "source": "Jobicy"
     },
