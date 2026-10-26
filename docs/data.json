@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:26:44.267885+00:00",
+  "generated_at": "2026-10-26T12:21:36.149466+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -176,29 +176,56 @@
       "source": "Remotive"
     },
     {
-      "title": "Test Automation Engineer (m/f/d)",
-      "org": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
+      "title": "Automation & Safety Software Engineer (f/m/d)",
+      "org": "Magazino GmbH",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/test-automation-engineer-gilching-9716",
+      "url": "https://www.arbeitnow.com/jobs/companies/magazino-gmbh/automation-safety-software-engineer-munich-478804",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior AV Field Engineer (m/w/d)",
-      "org": "Mobileye",
-      "location": "Stuttgart, Germany",
+      "title": "Senior Process & Production Engineer",
+      "org": "AMC Group",
+      "location": "Stoke-on-Trent",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/mobileye/senior-av-field-engineer-stuttgart-germany-153472",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/amc-group/senior-process-production-engineer-stoke-on-trent-332490",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior CRM & Lifecycle Analyst (B2C) \u2013 Marketing Automation (all genders)",
-      "org": "Foodji GmbH",
-      "location": "M\u00fcnchen, Bayern, Deutschland",
+      "title": "Solutions Architect, EMEA Startups \u2014 France",
+      "org": "databricks",
+      "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-310180",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/solutions-architect-emea-startups-france-paris-297503",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+      "org": "databricks",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-paris-57396",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Manager, Field Engineering France  - Specialist Solutions Architects",
+      "org": "databricks",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/manager-field-engineering-france-specialist-solutions-architects-paris-373527",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Instandhaltungsspezialist/Automatiker (m/w/d) Roche Diagnostics",
+      "org": "We make it GmbH",
+      "location": "Rotkreuz",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/we-make-it-gmbh/instandhaltungsspezialist-automatiker-roche-diagnostics-rotkreuz-358045",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -212,24 +239,13 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "IoT Field Engineer - China & Region",
-      "org": "Canonical",
-      "location": "China",
+      "title": "Senior IT Automation Engineer",
+      "org": "Huntress",
+      "location": "USA",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/156996-iot-field-engineer-china-region",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Senior Automation & Process Specialist",
-      "org": "Thumbtack",
-      "location": "Philippines",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/156966-senior-automation-process-specialist",
+      "url": "https://jobicy.com/jobs/157074-senior-it-automation-engineer",
       "tag": "Job",
       "source": "Jobicy"
     },
