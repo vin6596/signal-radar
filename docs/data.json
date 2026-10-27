@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:41:23.107563+00:00",
+  "generated_at": "2026-10-27T21:52:05.120602+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -25,15 +25,6 @@
       "location": "Online",
       "type": "AR/VR",
       "url": "https://start-developer-competition-26.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Life After Code",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "DevOps",
-      "url": "https://gitlab-transcend.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "AR/VR",
       "url": "https://learn-specs.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "UGREEN Hackathon 2026 on AI NAS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Lifehacks",
+      "url": "https://ugreenhackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -176,20 +176,56 @@
       "source": "Remotive"
     },
     {
-      "title": "Manufacturing Process Engineer",
-      "org": "Olix",
-      "location": "London, UK",
+      "title": "Elektroniker / Automatisierungstechniker (m/w/d) f\u00fcr Inbetriebnahme",
+      "org": "Personalized Nutrition Systems GmbH",
+      "location": "Bornheim",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/olix/manufacturing-process-engineer-london-471251",
+      "url": "https://www.arbeitnow.com/jobs/companies/personalized-nutrition-systems-gmbh/elektroniker-automatisierungstechniker-fur-inbetriebnahme-bornheim-431689",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Customs AI Integration & Automation Engineer (France)",
-      "org": "Customs Support Group",
-      "location": "Remote job",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/customs-support-group/remote-customs-ai-integration-automation-engineer-france-lyon-474730",
+      "title": "Senior AI Software Engineer",
+      "org": "nice",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-ai-software-engineer-368837",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Electrical Product Engineer - Maritime Engineering",
+      "org": "Andurilindustries",
+      "location": "Sydney, Australia",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-electrical-product-engineer-maritime-engineering-sydney-australia-430192",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Solutions Engineer - Italian Speaking",
+      "org": "Algolia",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/algolia/solutions-engineer-italian-speaking-paris-137353",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Facility Maintenance Engineer H/F",
+      "org": "Is@talent",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/is-at-talent/facility-maintenance-engineer-h-f-paris-10115",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Leittechnik-/OT-Systemingenieur ABB 800xA (m/w/d)",
+      "org": "TopTeam Engineering GmbH",
+      "location": "Baden",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/topteam-engineering-gmbh/leittechnik-ot-systemingenieur-abb-800xa-baden-19664",
       "tag": "Job",
       "source": "Arbeitnow"
     },
