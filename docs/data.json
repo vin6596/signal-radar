@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:21:09.586317+00:00",
+  "generated_at": "2026-10-27T11:41:23.107563+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -16,15 +16,6 @@
       "location": "Online",
       "type": "Low/No Code",
       "url": "https://paypalaihackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "OpenCV AI Competition 2026, powered by AWS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "IoT",
-      "url": "https://opencv26.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Communication",
       "url": "https://aws-cds-partner.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Learn AR with SPECS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "AR/VR",
+      "url": "https://learn-specs.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -176,56 +176,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Junior Engine Control System & Monitoring Engineer",
-      "org": "The Exploration Company",
-      "location": "Munich, Germany",
+      "title": "Manufacturing Process Engineer",
+      "org": "Olix",
+      "location": "London, UK",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/junior-engine-control-system-monitoring-engineer-munich-361342",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/olix/manufacturing-process-engineer-london-471251",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior GTM Systems AI and Automation Engineer",
-      "org": "Camunda",
-      "location": "Remote",
+      "title": "Customs AI Integration & Automation Engineer (France)",
+      "org": "Customs Support Group",
+      "location": "Remote job",
       "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-436740",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Growth Engineer \u2013 Outbound & Data Automation (m/w/d)",
-      "org": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-59266",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Process & Production Engineer",
-      "org": "AMC Group",
-      "location": "Stoke-on-Trent",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/amc-group/senior-process-production-engineer-stoke-on-trent-332490",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AIT Electrical Engineer",
-      "org": "The Exploration Company",
-      "location": "Bordeaux, France",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/ait-electrical-engineer-bordeaux-176451",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Software Engineer Network Automation, WAN & Edge",
-      "org": "Mistral.ai",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-network-automation-wan-edge-paris-306705",
+      "url": "https://www.arbeitnow.fr/jobs/companies/customs-support-group/remote-customs-ai-integration-automation-engineer-france-lyon-474730",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -252,20 +216,9 @@
       "org": "Technison",
       "location": "Berkel en Rodenrijs",
       "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/technison/mechanisch-monteur-berkel-en-rodenrijs-32220",
+      "url": "https://www.arbeitnow.nl/jobs/companies/technison/mechanisch-monteur-berkel-en-rodenrijs-66320",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Technical Sales Specialist (Electrical Market)",
-      "org": "Ajax Systems",
-      "location": "France",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/157256-technical-sales-specialist-electrical-market",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
