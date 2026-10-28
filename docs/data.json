@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:13:23.279222+00:00",
+  "generated_at": "2026-10-28T22:15:49.354240+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -56,15 +56,6 @@
       "source": "Devpost"
     },
     {
-      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Communication",
-      "url": "https://aws-cds-partner.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Learn AR with SPECS",
       "org": "Devpost",
       "location": "Online",
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Lifehacks",
       "url": "https://ugreenhackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "DSH Hacks V2 ($100k+ in prizes!)",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly",
+      "url": "https://dsh-hacks-v2.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -185,20 +185,38 @@
       "source": "Remotive"
     },
     {
-      "title": "UAV / Robotics Integration Field Engineer - Hardware",
-      "org": "Se3",
-      "location": "Undisclosed test site 35km from Munich",
+      "title": "VC AI & Automation Manager (Part-time / Freelance, with Full-time Opportunity) (m/f/d)",
+      "org": "Ananda Ventures GmbH",
+      "location": "Munich, Bayern, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/se3/uav-robotics-integration-field-engineer-hardware-erding-153900",
+      "url": "https://www.arbeitnow.com/jobs/companies/ananda-ventures-gmbh/vc-ai-automation-manager-part-time-freelance-with-full-time-opportunity-munich-159868",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior EMEA AI Solutions Architect",
-      "org": "databricks",
-      "location": "London",
+      "title": "Techniker / Mechatroniker \u2013 Robotik & Anwendungstechnik (m/w/d)",
+      "org": "SoftGripping GmbH",
+      "location": "Hanover",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-emea-ai-solutions-architect-london-321494",
+      "url": "https://www.arbeitnow.com/jobs/companies/softgripping-gmbh/techniker-mechatroniker-robotik-anwendungstechnik-hanover-301900",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Robotics Autonomy Engineer - Planning, Decision & Intercept",
+      "org": "Promethion Industries",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/promethion-industries/senior-robotics-autonomy-engineer-planning-decision-intercept-berlin-297694",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Solutions Engineer - Warehouse Automation",
+      "org": "Thgingenuity",
+      "location": "Manchester",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/solutions-engineer-warehouse-automation-manchester-288746",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -221,29 +239,11 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Leittechnik-/OT-Systemingenieur ABB 800xA (m/w/d)",
-      "org": "TopTeam Engineering GmbH",
-      "location": "Baden",
+      "title": "Engineering Director - Building Automation",
+      "org": "Priva",
+      "location": "De Lier, Zuid-Holland, Netherlands",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/topteam-engineering-gmbh/leittechnik-ot-systemingenieur-abb-800xa-baden-19664",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "OT Engineer",
-      "org": "Bell Food Group",
-      "location": "Basel",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bell-food-group/ot-engineer-basel-393706",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Instandhaltungsspezialist/Automatiker (m/w/d) Roche Diagnostics",
-      "org": "We make it GmbH",
-      "location": "Rotkreuz",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/we-make-it-gmbh/instandhaltungsspezialist-automatiker-roche-diagnostics-rotkreuz-358045",
+      "url": "https://www.arbeitnow.nl/jobs/companies/priva/engineering-director-building-automation-de-lier-312369",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -255,28 +255,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/storiogroup/reliability-engineer-ypenburg-nederlands-116427",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Lifecycle Marketing Automation Specialist",
-      "org": "PadSplit",
-      "location": "LATAM",
-      "type": [
-        "Contract"
-      ],
-      "url": "https://jobicy.com/jobs/151881-lifecycle-marketing-automation-specialist",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Senior, Business Risk & AI Automation",
-      "org": "Reddit",
-      "location": "Canada",
-      "type": [
-        "Contract"
-      ],
-      "url": "https://jobicy.com/jobs/151849-senior-business-risk-ai-automation",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
