@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:52:05.120602+00:00",
+  "generated_at": "2026-10-28T12:13:23.279222+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -85,6 +85,15 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Head of Engineering",
+      "org": "Lemon.io",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "AI Trainer - Video Annotation",
       "org": "iMerit Technology",
@@ -176,47 +185,38 @@
       "source": "Remotive"
     },
     {
-      "title": "Elektroniker / Automatisierungstechniker (m/w/d) f\u00fcr Inbetriebnahme",
-      "org": "Personalized Nutrition Systems GmbH",
-      "location": "Bornheim",
+      "title": "UAV / Robotics Integration Field Engineer - Hardware",
+      "org": "Se3",
+      "location": "Undisclosed test site 35km from Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/personalized-nutrition-systems-gmbh/elektroniker-automatisierungstechniker-fur-inbetriebnahme-bornheim-431689",
+      "url": "https://www.arbeitnow.com/jobs/companies/se3/uav-robotics-integration-field-engineer-hardware-erding-153900",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior AI Software Engineer",
-      "org": "nice",
-      "location": "Remote",
+      "title": "Senior EMEA AI Solutions Architect",
+      "org": "databricks",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-ai-software-engineer-368837",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-emea-ai-solutions-architect-london-321494",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Electrical Product Engineer - Maritime Engineering",
-      "org": "Andurilindustries",
-      "location": "Sydney, Australia",
+      "title": "Field Engineer (m/w/x)",
+      "org": "Rotzinger Group",
+      "location": "Altendorf, Schwyz, Schweiz",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-electrical-product-engineer-maritime-engineering-sydney-australia-430192",
+      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-230096",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Solutions Engineer - Italian Speaking",
-      "org": "Algolia",
-      "location": "Paris",
+      "title": "Senior Technical Architect & Developer \u2013 Marketing Automation",
+      "org": "Sonarsource",
+      "location": "Geneva",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/algolia/solutions-engineer-italian-speaking-paris-137353",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Facility Maintenance Engineer H/F",
-      "org": "Is@talent",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/is-at-talent/facility-maintenance-engineer-h-f-paris-10115",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/senior-technical-architect-developer-marketing-automation-geneva-350884",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -248,13 +248,35 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Mechanisch monteur",
-      "org": "Technison",
-      "location": "Berkel en Rodenrijs",
+      "title": "Reliability Engineer",
+      "org": "Storiogroup",
+      "location": "Ypenburg, Nederlands",
       "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/technison/mechanisch-monteur-berkel-en-rodenrijs-66320",
+      "url": "https://www.arbeitnow.nl/jobs/companies/storiogroup/reliability-engineer-ypenburg-nederlands-116427",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Lifecycle Marketing Automation Specialist",
+      "org": "PadSplit",
+      "location": "LATAM",
+      "type": [
+        "Contract"
+      ],
+      "url": "https://jobicy.com/jobs/151881-lifecycle-marketing-automation-specialist",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior, Business Risk & AI Automation",
+      "org": "Reddit",
+      "location": "Canada",
+      "type": [
+        "Contract"
+      ],
+      "url": "https://jobicy.com/jobs/151849-senior-business-risk-ai-automation",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
