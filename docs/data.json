@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:15:49.354240+00:00",
+  "generated_at": "2026-10-29T12:23:24.954364+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -83,8 +83,27 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "AI Automation Intern (Sustainability)",
+      "org": "Prosus",
+      "location": "Amsterdam",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/prosus/ai-automation-intern-sustainability-amsterdam-334804",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
+    {
+      "title": "Senior Back-end Developer",
+      "org": "Lemon.io",
+      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Head of Engineering",
       "org": "Lemon.io",
@@ -185,38 +204,47 @@
       "source": "Remotive"
     },
     {
-      "title": "VC AI & Automation Manager (Part-time / Freelance, with Full-time Opportunity) (m/f/d)",
-      "org": "Ananda Ventures GmbH",
-      "location": "Munich, Bayern, Germany",
+      "title": "(Senior) Consultant Business & Process Engineering (m/w/d)",
+      "org": "GCG Unternehmensberatung GmbH & Co. KG",
+      "location": "Karlsruhe",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ananda-ventures-gmbh/vc-ai-automation-manager-part-time-freelance-with-full-time-opportunity-munich-159868",
+      "url": "https://www.arbeitnow.com/jobs/companies/gcg-unternehmensberatung-gmbh-co-kg/senior-consultant-business-process-engineering-karlsruhe-121754",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Techniker / Mechatroniker \u2013 Robotik & Anwendungstechnik (m/w/d)",
-      "org": "SoftGripping GmbH",
-      "location": "Hanover",
+      "title": "(Senior) Consultant Business & Process Engineering (m/w/d)",
+      "org": "GCG Unternehmensberatung GmbH & Co. KG",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/softgripping-gmbh/techniker-mechatroniker-robotik-anwendungstechnik-hanover-301900",
+      "url": "https://www.arbeitnow.com/jobs/companies/gcg-unternehmensberatung-gmbh-co-kg/senior-consultant-business-process-engineering-munich-499372",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Robotics Autonomy Engineer - Planning, Decision & Intercept",
-      "org": "Promethion Industries",
-      "location": "Berlin",
+      "title": "Elektroniker / Automatisierungstechniker (m/w/d)",
+      "org": "TD-BW Automatisierungstechnik GmbH",
+      "location": "Bitterfeld-Wolfen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/promethion-industries/senior-robotics-autonomy-engineer-planning-decision-intercept-berlin-297694",
+      "url": "https://www.arbeitnow.com/jobs/companies/td-bw-automatisierungstechnik-gmbh/elektroniker-automatisierungstechniker-bitterfeld-wolfen-224115",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Solutions Engineer - Warehouse Automation",
-      "org": "Thgingenuity",
-      "location": "Manchester",
+      "title": "QA Automation Engineer - AI",
+      "org": "Anaplan",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/solutions-engineer-warehouse-automation-manchester-288746",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/qa-automation-engineer-ai-london-276846",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AMR Pre-Sales Solution Engineer \u2013 French & Mandarin Speaking",
+      "org": "Hikrobot Europe",
+      "location": "Hikrobot Europe B.V. (France)",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hikrobot-europe/amr-pre-sales-solution-engineer-french-mandarin-speaking-hikrobot-europe-bv-france-425198",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -235,6 +263,15 @@
       "location": "Geneva",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/senior-technical-architect-developer-marketing-automation-geneva-350884",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Controls Engineer",
+      "org": "AMF Bakery Systems B.V.",
+      "location": "Gorinchem, Zuid-Holland, Nederland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-388596",
       "tag": "Job",
       "source": "Arbeitnow"
     },
