@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:23:24.954364+00:00",
+  "generated_at": "2026-10-29T22:29:07.184017+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "DSH Hacks V2 ($100k+ in prizes!)",
+      "title": "Codegeist 2026: Build with context. Ship with confidence.",
       "org": "Devpost",
       "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://dsh-hacks-v2.devpost.com/",
+      "type": "Machine Learning/AI",
+      "url": "https://codegeist2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -204,38 +204,20 @@
       "source": "Remotive"
     },
     {
-      "title": "(Senior) Consultant Business & Process Engineering (m/w/d)",
-      "org": "GCG Unternehmensberatung GmbH & Co. KG",
-      "location": "Karlsruhe",
+      "title": "Ingenieur:in Automationstechnik Halbleiter",
+      "org": "wabcon",
+      "location": "Dresden",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/gcg-unternehmensberatung-gmbh-co-kg/senior-consultant-business-process-engineering-karlsruhe-121754",
+      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/ingenieurin-automationstechnik-halbleiter-dresden-19450",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "(Senior) Consultant Business & Process Engineering (m/w/d)",
-      "org": "GCG Unternehmensberatung GmbH & Co. KG",
-      "location": "Munich",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) \u2013 Marketing Automation (all genders)",
+      "org": "Foodji GmbH",
+      "location": "M\u00fcnchen, Bayern, Deutschland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/gcg-unternehmensberatung-gmbh-co-kg/senior-consultant-business-process-engineering-munich-499372",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Elektroniker / Automatisierungstechniker (m/w/d)",
-      "org": "TD-BW Automatisierungstechnik GmbH",
-      "location": "Bitterfeld-Wolfen",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/td-bw-automatisierungstechnik-gmbh/elektroniker-automatisierungstechniker-bitterfeld-wolfen-224115",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "QA Automation Engineer - AI",
-      "org": "Anaplan",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/qa-automation-engineer-ai-london-276846",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-80263",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -249,20 +231,29 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Field Engineer (m/w/x)",
-      "org": "Rotzinger Group",
-      "location": "Altendorf, Schwyz, Schweiz",
+      "title": "Softwarearchitekt \u2013 HMI / Automatisierungstechnik (w/m/d)",
+      "org": "Right Search",
+      "location": "Bern",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-230096",
+      "url": "https://www.arbeitnow.ch/jobs/companies/right-search/softwarearchitekt-hmi-automatisierungstechnik-bern-279865",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Technical Architect & Developer \u2013 Marketing Automation",
-      "org": "Sonarsource",
-      "location": "Geneva",
+      "title": "Ing\u00e9nieur MES (h/f)",
+      "org": "Enova Consulting",
+      "location": "Lausanne",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/senior-technical-architect-developer-marketing-automation-geneva-350884",
+      "url": "https://www.arbeitnow.ch/jobs/companies/enova-consulting/ingenieur-mes-h-f-lausanne-340137",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Process Engineer Halbleiter 100% (a)",
+      "org": "Gut Personal Consulting GmbH",
+      "location": "Z\u00fcrichsee (ZH)",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gut-personal-consulting-gmbh/process-engineer-halbleiter-100-a-zurichsee-zh-348687",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -272,24 +263,6 @@
       "location": "Gorinchem, Zuid-Holland, Nederland",
       "type": "On-site",
       "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-388596",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Engineering Director - Building Automation",
-      "org": "Priva",
-      "location": "De Lier, Zuid-Holland, Netherlands",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/priva/engineering-director-building-automation-de-lier-312369",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Reliability Engineer",
-      "org": "Storiogroup",
-      "location": "Ypenburg, Nederlands",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/storiogroup/reliability-engineer-ypenburg-nederlands-116427",
       "tag": "Job",
       "source": "Arbeitnow"
     },
