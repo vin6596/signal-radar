@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:29:07.184017+00:00",
+  "generated_at": "2026-10-30T12:14:43.133536+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -83,17 +83,7 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "AI Automation Intern (Sustainability)",
-      "org": "Prosus",
-      "location": "Amsterdam",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/prosus/ai-automation-intern-sustainability-amsterdam-334804",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Senior Back-end Developer",
@@ -204,29 +194,65 @@
       "source": "Remotive"
     },
     {
-      "title": "Ingenieur:in Automationstechnik Halbleiter",
-      "org": "wabcon",
-      "location": "Dresden",
+      "title": "Senior Electrical Engineer - Robotics (m/f/d)",
+      "org": "RobCo",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/ingenieurin-automationstechnik-halbleiter-dresden-19450",
+      "url": "https://www.arbeitnow.com/jobs/companies/robco/senior-electrical-engineer-robotics-munich-246458",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior CRM & Lifecycle Analyst (B2C) \u2013 Marketing Automation (all genders)",
-      "org": "Foodji GmbH",
-      "location": "M\u00fcnchen, Bayern, Deutschland",
+      "title": "Operations Manager & AI Automation - Traineeship (m/w/d)",
+      "org": "Digitale Leute School",
+      "location": "Cologne",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-80263",
+      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/operations-manager-ai-automation-traineeship-cologne-164599",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "AMR Pre-Sales Solution Engineer \u2013 French & Mandarin Speaking",
-      "org": "Hikrobot Europe",
-      "location": "Hikrobot Europe B.V. (France)",
+      "title": "Growth Engineer \u2013 Outbound & Data Automation (m/w/d)",
+      "org": "eFLY Marketplace Services GmbH",
+      "location": "Stuttgart",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/hikrobot-europe/amr-pre-sales-solution-engineer-french-mandarin-speaking-hikrobot-europe-bv-france-425198",
+      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-424058",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Elektroniker (w/m/d) - Automatisierungstechnik",
+      "org": "DPI Automatisierungssysteme GmbH",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/dpi-automatisierungssysteme-gmbh/elektroniker-automatisierungstechnik-berlin-349899",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior CRM Manager (m/w/d) - E-Mail-Marketing & Automation",
+      "org": "eRecht24 GmbH & Co. KG",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/erecht24-gmbh-co-kg/senior-crm-manager-e-mail-marketing-automation-berlin-267465",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Head of Field Engineering, EMEA",
+      "org": "Exa",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/exa/head-of-field-engineering-emea-london-28407",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Test Automation Engineer UiPath",
+      "org": "Infometis AG",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/infometis-ag/test-automation-engineer-uipath-zurich-440417",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -245,24 +271,6 @@
       "location": "Lausanne",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/enova-consulting/ingenieur-mes-h-f-lausanne-340137",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Process Engineer Halbleiter 100% (a)",
-      "org": "Gut Personal Consulting GmbH",
-      "location": "Z\u00fcrichsee (ZH)",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gut-personal-consulting-gmbh/process-engineer-halbleiter-100-a-zurichsee-zh-348687",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Controls Engineer",
-      "org": "AMF Bakery Systems B.V.",
-      "location": "Gorinchem, Zuid-Holland, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-388596",
       "tag": "Job",
       "source": "Arbeitnow"
     },
