@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-30T12:14:43.133536+00:00",
+  "generated_at": "2026-10-30T21:58:26.949807+00:00",
   "hackathons": [
-    {
-      "title": "Nebius x NVIDIA Global AI Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://nebiusglobalaihackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
     {
       "title": "PayPal AI Hackathon",
       "org": "Devpost",
@@ -25,6 +16,15 @@
       "location": "Online",
       "type": "AR/VR",
       "url": "https://start-developer-competition-26.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Kiroween 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly",
+      "url": "https://kiroween.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Intern Power Electronics Engineer",
+      "org": "Secheron S Dot A",
+      "location": "Satigny, Switzerland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/intern-power-electronics-engineer-satigny-254031",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Senior Back-end Developer",
@@ -194,56 +204,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Electrical Engineer - Robotics (m/f/d)",
-      "org": "RobCo",
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "org": "MY Humancapital GmbH",
       "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/robco/senior-electrical-engineer-robotics-munich-246458",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-329086",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Operations Manager & AI Automation - Traineeship (m/w/d)",
-      "org": "Digitale Leute School",
-      "location": "Cologne",
+      "title": "Projektleiter/in Automation 80 - 100 %",
+      "org": "two.jobs",
+      "location": "Z\u00fcrich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/operations-manager-ai-automation-traineeship-cologne-164599",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Growth Engineer \u2013 Outbound & Data Automation (m/w/d)",
-      "org": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-424058",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Elektroniker (w/m/d) - Automatisierungstechnik",
-      "org": "DPI Automatisierungssysteme GmbH",
-      "location": "Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/dpi-automatisierungssysteme-gmbh/elektroniker-automatisierungstechnik-berlin-349899",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior CRM Manager (m/w/d) - E-Mail-Marketing & Automation",
-      "org": "eRecht24 GmbH & Co. KG",
-      "location": "Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/erecht24-gmbh-co-kg/senior-crm-manager-e-mail-marketing-automation-berlin-267465",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Head of Field Engineering, EMEA",
-      "org": "Exa",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/exa/head-of-field-engineering-emea-london-28407",
+      "url": "https://www.arbeitnow.ch/jobs/companies/twojobs/projektleiter-in-automation-80-100-zurich-178987",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -257,22 +231,15 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Softwarearchitekt \u2013 HMI / Automatisierungstechnik (w/m/d)",
-      "org": "Right Search",
-      "location": "Bern",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/right-search/softwarearchitekt-hmi-automatisierungstechnik-bern-279865",
+      "title": "AI & Automation Analyst",
+      "org": "UpGuard",
+      "location": "Australia",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/158081-ai-automation-analyst",
       "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Ing\u00e9nieur MES (h/f)",
-      "org": "Enova Consulting",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enova-consulting/ingenieur-mes-h-f-lausanne-340137",
-      "tag": "Job",
-      "source": "Arbeitnow"
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
