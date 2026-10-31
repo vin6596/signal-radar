@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T21:58:26.949807+00:00",
+  "generated_at": "2026-10-31T11:46:31.748253+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -25,15 +25,6 @@
       "location": "Online",
       "type": "Beginner Friendly",
       "url": "https://kiroween.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Qloo Agentic Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://qloo.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -81,6 +72,15 @@
       "url": "https://codegeist2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
+    },
+    {
+      "title": "DSH Hacks V2 ($100k+ in prizes!)",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly",
+      "url": "https://dsh-hacks-v2.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
     }
   ],
   "internships": [
@@ -95,6 +95,15 @@
     }
   ],
   "jobs": [
+    {
+      "title": "Full-Stack Developer",
+      "org": "Fluence International, Inc.",
+      "location": "Worldwide",
+      "type": "contract",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Senior Back-end Developer",
       "org": "Lemon.io",
@@ -204,11 +213,11 @@
       "source": "Remotive"
     },
     {
-      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
-      "org": "MY Humancapital GmbH",
+      "title": "Flight Control System Engineer",
+      "org": "Hypersonica",
       "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-329086",
+      "url": "https://www.arbeitnow.com/jobs/companies/hypersonica/flight-control-system-engineer-munich-300691",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -229,17 +238,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/infometis-ag/test-automation-engineer-uipath-zurich-440417",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "AI & Automation Analyst",
-      "org": "UpGuard",
-      "location": "Australia",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/158081-ai-automation-analyst",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
