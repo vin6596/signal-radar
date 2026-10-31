@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:46:31.748253+00:00",
+  "generated_at": "2026-10-31T21:03:55.138858+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -56,20 +56,20 @@
       "source": "Devpost"
     },
     {
-      "title": "UGREEN Hackathon 2026 on AI NAS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Lifehacks",
-      "url": "https://ugreenhackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Codegeist 2026: Build with context. Ship with confidence.",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://codegeist2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "UGREEN Hackathon 2026 on AI NAS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Lifehacks",
+      "url": "https://ugreenhackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -84,6 +84,15 @@
     }
   ],
   "internships": [
+    {
+      "title": "Internship - Radiation Testing of Electronic Components and Test Automation",
+      "org": "The Exploration Company",
+      "location": "Munich, Germany",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-351117",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    },
     {
       "title": "Intern Power Electronics Engineer",
       "org": "Secheron S Dot A",
@@ -213,11 +222,11 @@
       "source": "Remotive"
     },
     {
-      "title": "Flight Control System Engineer",
-      "org": "Hypersonica",
-      "location": "Munich",
+      "title": "Senior Automation Engineer",
+      "org": "roboyo",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/hypersonica/flight-control-system-engineer-munich-300691",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roboyo/senior-automation-engineer-151543",
       "tag": "Job",
       "source": "Arbeitnow"
     },
