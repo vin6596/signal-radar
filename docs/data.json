@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:45:36.597148+00:00",
+  "generated_at": "2026-11-01T21:44:51.500097+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -84,15 +84,6 @@
     }
   ],
   "internships": [
-    {
-      "title": "Internship - Radiation Testing of Electronic Components and Test Automation",
-      "org": "The Exploration Company",
-      "location": "Munich, Germany",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-351117",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    },
     {
       "title": "Intern Electrical R&D Engineer",
       "org": "Secheron S Dot A",
@@ -249,6 +240,33 @@
       "source": "Arbeitnow"
     },
     {
+      "title": "Marketing Automation Engineer",
+      "org": "Privateequityinsights",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/marketing-automation-engineer-london-419068",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Automation Engineer",
+      "org": "Privateequityinsights",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/ai-automation-engineer-london-435673",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Mechatronics Engineer",
+      "org": "Lightcastdiscovery",
+      "location": "Cambridge",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightcastdiscovery/senior-mechatronics-engineer-cambridge-234698",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Field Engineer (m/w/x)",
       "org": "Rotzinger Group",
       "location": "Altendorf, Schwyz, Schweiz",
@@ -272,15 +290,6 @@
       "location": "Z\u00fcrich",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/twojobs/projektleiter-in-automation-80-100-zurich-178987",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Test Automation Engineer UiPath",
-      "org": "Infometis AG",
-      "location": "Z\u00fcrich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/infometis-ag/test-automation-engineer-uipath-zurich-440417",
       "tag": "Job",
       "source": "Arbeitnow"
     },
