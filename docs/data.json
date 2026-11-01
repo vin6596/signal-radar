@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T21:03:55.138858+00:00",
+  "generated_at": "2026-11-01T12:45:36.597148+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -11,20 +11,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Meta VR Start Developer Competition 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR",
-      "url": "https://start-developer-competition-26.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Kiroween 2026",
       "org": "Devpost",
       "location": "Online",
       "type": "Beginner Friendly",
       "url": "https://kiroween.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Meta VR Start Developer Competition 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "AR/VR",
+      "url": "https://start-developer-competition-26.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -47,20 +47,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Learn AR with SPECS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR",
-      "url": "https://learn-specs.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Codegeist 2026: Build with context. Ship with confidence.",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://codegeist2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Learn AR with SPECS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "AR/VR",
+      "url": "https://learn-specs.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -90,6 +90,15 @@
       "location": "Munich, Germany",
       "type": "On-site",
       "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-351117",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Intern Electrical R&D Engineer",
+      "org": "Secheron S Dot A",
+      "location": "Satigny, Switzerland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/intern-electrical-rd-engineer-satigny-194732",
       "tag": "Internship",
       "source": "Arbeitnow"
     },
@@ -213,20 +222,47 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior back-end Engineer",
-      "org": "Lemon.io",
-      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+      "title": "Revenue Operations Engineer | AI & Automation (m/f/d)",
+      "org": "Superchat",
+      "location": "Berlin, Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/superchat/revenue-operations-engineer-ai-automation-berlin-berlin-413012",
       "tag": "Job",
-      "source": "Remotive"
+      "source": "Arbeitnow"
     },
     {
-      "title": "Senior Automation Engineer",
-      "org": "roboyo",
-      "location": "Remote",
+      "title": "Lead Solutions Architect",
+      "org": "databricks",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/roboyo/senior-automation-engineer-151543",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/lead-solutions-architect-munich-92372",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Delivery Solutions Architect",
+      "org": "databricks",
+      "location": "Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/delivery-solutions-architect-munich-3303",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Field Engineer (m/w/x)",
+      "org": "Rotzinger Group",
+      "location": "Altendorf, Schwyz, Schweiz",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-372814",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Systems Engineer  (Excavator Automation)",
+      "org": "Gravis Robotics",
+      "location": "Zurich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/systems-engineer-excavator-automation-zurich-5810",
       "tag": "Job",
       "source": "Arbeitnow"
     },
