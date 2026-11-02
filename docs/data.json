@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:44:51.500097+00:00",
+  "generated_at": "2026-11-02T14:53:58.741299+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -56,20 +56,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Learn AR with SPECS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR",
-      "url": "https://learn-specs.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "UGREEN Hackathon 2026 on AI NAS",
       "org": "Devpost",
       "location": "Online",
       "type": "Lifehacks",
       "url": "https://ugreenhackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Learn AR with SPECS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "AR/VR",
+      "url": "https://learn-specs.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -90,15 +90,6 @@
       "location": "Satigny, Switzerland",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/intern-electrical-rd-engineer-satigny-194732",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Intern Power Electronics Engineer",
-      "org": "Secheron S Dot A",
-      "location": "Satigny, Switzerland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/intern-power-electronics-engineer-satigny-254031",
       "tag": "Internship",
       "source": "Arbeitnow"
     }
@@ -213,56 +204,65 @@
       "source": "Remotive"
     },
     {
-      "title": "Revenue Operations Engineer | AI & Automation (m/f/d)",
-      "org": "Superchat",
-      "location": "Berlin, Berlin",
+      "title": "Head of Finance Automation/ AI Agentification",
+      "org": "Rohlik",
+      "location": "M\u00fcnchen, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/superchat/revenue-operations-engineer-ai-automation-berlin-berlin-413012",
+      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/head-of-finance-automation-ai-agentification-munich-244359",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Lead Solutions Architect",
-      "org": "databricks",
-      "location": "Munich",
+      "title": "Werkstudent AI & Automation (m/w/d) n8n, Make, Zapier",
+      "org": "AdKochMarketing GmbH",
+      "location": "Hamburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/lead-solutions-architect-munich-92372",
+      "url": "https://www.arbeitnow.com/jobs/companies/adkochmarketing-gmbh/werkstudent-ai-automation-n8n-make-zapier-hamburg-232004",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Delivery Solutions Architect",
-      "org": "databricks",
-      "location": "Munich",
+      "title": "Extrusion & Process Technician or Extrusion Engineer (m/f/d)",
+      "org": "Humify GmbH",
+      "location": "Delitzsch",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/delivery-solutions-architect-munich-3303",
+      "url": "https://www.arbeitnow.com/jobs/companies/humify-gmbh/extrusion-process-technician-or-extrusion-engineer-delitzsch-466351",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Marketing Automation Engineer",
-      "org": "Privateequityinsights",
-      "location": "London",
+      "title": "Leiter Instandhaltung & Automatisierungstechnik (m/w/d)",
+      "org": "NXT Hero GmbH",
+      "location": "Leipzig",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/marketing-automation-engineer-london-419068",
+      "url": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/leiter-instandhaltung-automatisierungstechnik-leipzig-292030",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "AI Automation Engineer",
-      "org": "Privateequityinsights",
-      "location": "London",
+      "title": "Staff QA Automation Engineer",
+      "org": "tem",
+      "location": "United Kingdom",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/ai-automation-engineer-london-435673",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/staff-qa-automation-engineer-united-kingdom-170297",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Mechatronics Engineer",
-      "org": "Lightcastdiscovery",
-      "location": "Cambridge",
+      "title": "Post-doctorant : \u00ab Artificial Intelligence for Sustainable Renewable Energy Production and Storage in Subsurface Reservoirs\u201d",
+      "org": "ECOLE NATIONALE SUPERIEURE DE TECHNIQUES AVANCEES",
+      "location": "Palaiseau, \u00cele-de-France, France",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightcastdiscovery/senior-mechatronics-engineer-cambridge-234698",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ecole-nationale-superieure-de-techniques-avancees/post-doctorant-artificial-intelligence-for-sustainable-renewable-energy-production-and-storage-in-subsurface-reservoirs-palaiseau-306934",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer - GMP Pharma & Biotech",
+      "org": "agap2 - HIQ Consulting",
+      "location": "Basel",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/agap2-hiq-consulting/automation-engineer-gmp-pharma-biotech-basel-65474",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -285,13 +285,15 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Projektleiter/in Automation 80 - 100 %",
-      "org": "two.jobs",
-      "location": "Z\u00fcrich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/twojobs/projektleiter-in-automation-80-100-zurich-178987",
+      "title": "Devices & IOT Field Engineering Manager (Americas)",
+      "org": "Canonical",
+      "location": "LATAM,  Canada,  USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/158498-devices-iot-field-engineering-manager-americas-3",
       "tag": "Job",
-      "source": "Arbeitnow"
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
