@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T14:53:58.741299+00:00",
+  "generated_at": "2026-11-03T00:36:22.207688+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -25,24 +25,6 @@
       "location": "Online",
       "type": "AR/VR",
       "url": "https://start-developer-competition-26.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Codex x TwitchCon Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Communication",
-      "url": "https://twitchcon-codex.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR",
-      "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -81,9 +63,36 @@
       "url": "https://dsh-hacks-v2.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
+    },
+    {
+      "title": "Arbiter Hacks V1",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly",
+      "url": "https://arbiter-hacks-v1.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Code for Humanity",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Education",
+      "url": "https://code-for-humanity.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
     }
   ],
   "internships": [
+    {
+      "title": "Robotics Engineering Intern",
+      "org": "Vetaion GmbH",
+      "location": "Garching",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/vetaion-gmbh/robotics-engineering-intern-garching-442817",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    },
     {
       "title": "Intern Electrical R&D Engineer",
       "org": "Secheron S Dot A",
@@ -204,56 +213,83 @@
       "source": "Remotive"
     },
     {
-      "title": "Head of Finance Automation/ AI Agentification",
-      "org": "Rohlik",
-      "location": "M\u00fcnchen, Germany",
+      "title": "Team Lead Operations Automation & AI (All genders)",
+      "org": "Skdse",
+      "location": "Munich, Bavaria",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/head-of-finance-automation-ai-agentification-munich-244359",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/team-lead-operations-automation-ai-all-genders-munich-bavaria-127964",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Werkstudent AI & Automation (m/w/d) n8n, Make, Zapier",
-      "org": "AdKochMarketing GmbH",
-      "location": "Hamburg",
+      "title": "Automation Engineer (All genders)",
+      "org": "Skdse",
+      "location": "Munich, Bavaria",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/adkochmarketing-gmbh/werkstudent-ai-automation-n8n-make-zapier-hamburg-232004",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/automation-engineer-all-genders-munich-bavaria-116743",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Extrusion & Process Technician or Extrusion Engineer (m/f/d)",
-      "org": "Humify GmbH",
-      "location": "Delitzsch",
+      "title": "(Mid/Senior) Robotics or Mechatronics Technician/Engineer (m/f/d)",
+      "org": "Agilerobotsse",
+      "location": "Munich, Bavaria",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/humify-gmbh/extrusion-process-technician-or-extrusion-engineer-delitzsch-466351",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/mid-senior-robotics-or-mechatronics-technician-engineer-munich-bavaria-317155",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Leiter Instandhaltung & Automatisierungstechnik (m/w/d)",
-      "org": "NXT Hero GmbH",
-      "location": "Leipzig",
+      "title": "Mechatronics and Hardware Test Engineer (m/f/d)",
+      "org": "Agilerobotsse",
+      "location": "Munich, Bavaria",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/leiter-instandhaltung-automatisierungstechnik-leipzig-292030",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/mechatronics-and-hardware-test-engineer-munich-bavaria-432664",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Staff QA Automation Engineer",
-      "org": "tem",
-      "location": "United Kingdom",
+      "title": "Automation, IT Systems & Security Specialist (m/f/d)",
+      "org": "RobCo",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/staff-qa-automation-engineer-united-kingdom-170297",
+      "url": "https://www.arbeitnow.com/jobs/companies/robco/automation-it-systems-security-specialist-munich-215510",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Post-doctorant : \u00ab Artificial Intelligence for Sustainable Renewable Energy Production and Storage in Subsurface Reservoirs\u201d",
-      "org": "ECOLE NATIONALE SUPERIEURE DE TECHNIQUES AVANCEES",
-      "location": "Palaiseau, \u00cele-de-France, France",
+      "title": "Werkstudent:in Marketing Automation & AI (m/w/d)",
+      "org": "relokate HR GmbH",
+      "location": "Berlin",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/relokate-hr-gmbh/werkstudentin-marketing-automation-ai-berlin-246461",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation & Industrialization Director",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Orly",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ecole-nationale-superieure-de-techniques-avancees/post-doctorant-artificial-intelligence-for-sustainable-renewable-energy-production-and-storage-in-subsurface-reservoirs-palaiseau-306934",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/automation-industrialization-director-orly-421160",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automatiker / Projektbetreuer (w/m)",
+      "org": "H\u00e4rdi Personal",
+      "location": "Rotkreuz",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/hardi-personal/automatiker-projektbetreuer-w-m-rotkreuz-470074",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Professional ICT Test Manager (m/w/d) - SIP / VISO / Test Automation (60-80%) (Ref.Nr.: 47713)",
+      "org": "Wavestone Germany AG",
+      "location": "Bern",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/professional-ict-test-manager-sip-viso-test-automation-60-80-refnr-47713-bern-391249",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -285,15 +321,13 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Devices & IOT Field Engineering Manager (Americas)",
-      "org": "Canonical",
-      "location": "LATAM,  Canada,  USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/158498-devices-iot-field-engineering-manager-americas-3",
+      "title": "Network Security & Automation Engineer (Relocation Provided)",
+      "org": "Wypoon",
+      "location": "Amsterdam",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/network-security-automation-engineer-relocation-provided-amsterdam-179414",
       "tag": "Job",
-      "source": "Jobicy"
+      "source": "Arbeitnow"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
