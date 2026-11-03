@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:36:22.207688+00:00",
+  "generated_at": "2026-11-03T13:43:18.458290+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -65,6 +65,15 @@
       "source": "Devpost"
     },
     {
+      "title": "QNX Global Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "IoT",
+      "url": "https://qnx.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "Arbiter Hacks V1",
       "org": "Devpost",
       "location": "Online",
@@ -72,37 +81,9 @@
       "url": "https://arbiter-hacks-v1.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
-    },
-    {
-      "title": "Code for Humanity",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Education",
-      "url": "https://code-for-humanity.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Robotics Engineering Intern",
-      "org": "Vetaion GmbH",
-      "location": "Garching",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/vetaion-gmbh/robotics-engineering-intern-garching-442817",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Intern Electrical R&D Engineer",
-      "org": "Secheron S Dot A",
-      "location": "Satigny, Switzerland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/intern-electrical-rd-engineer-satigny-194732",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Full-Stack Developer",
@@ -195,83 +176,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Freelance Copywriter",
-      "org": "Coalition Technologies ",
-      "location": "Worldwide",
-      "type": "freelance",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior React Full-stack Developer",
-      "org": "Lemon.io",
-      "location": "Europe, USA, Canada, APAC",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Team Lead Operations Automation & AI (All genders)",
-      "org": "Skdse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/team-lead-operations-automation-ai-all-genders-munich-bavaria-127964",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Automation Engineer (All genders)",
-      "org": "Skdse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/automation-engineer-all-genders-munich-bavaria-116743",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "(Mid/Senior) Robotics or Mechatronics Technician/Engineer (m/f/d)",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/mid-senior-robotics-or-mechatronics-technician-engineer-munich-bavaria-317155",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Mechatronics and Hardware Test Engineer (m/f/d)",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/mechatronics-and-hardware-test-engineer-munich-bavaria-432664",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Automation, IT Systems & Security Specialist (m/f/d)",
-      "org": "RobCo",
-      "location": "Munich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/robco/automation-it-systems-security-specialist-munich-215510",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Werkstudent:in Marketing Automation & AI (m/w/d)",
-      "org": "relokate HR GmbH",
+      "title": "Junior Automatisierungsingenieur (m/w/d)",
+      "org": "Modulist GmbH",
       "location": "Berlin",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/relokate-hr-gmbh/werkstudentin-marketing-automation-ai-berlin-246461",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/modulist-gmbh/junior-automatisierungsingenieur-berlin-179795",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation & Industrialization Director",
-      "org": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Orly",
+      "title": "Robotics / Mechatronics Engineer",
+      "org": "Isembard",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/automation-industrialization-director-orly-421160",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/isembard/robotics-mechatronics-engineer-london-55318",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -321,6 +239,15 @@
       "source": "Arbeitnow"
     },
     {
+      "title": "Senior Controls Engineer",
+      "org": "AMF Bakery Systems B.V.",
+      "location": "Gorinchem, Zuid-Holland, Nederland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-18770",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Network Security & Automation Engineer (Relocation Provided)",
       "org": "Wypoon",
       "location": "Amsterdam",
@@ -328,6 +255,17 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/network-security-automation-engineer-relocation-provided-amsterdam-179414",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Kernel Build Automation Engineer - Ubuntu Linux",
+      "org": "Canonical",
+      "location": "EMEA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/158610-kernel-build-automation-engineer-ubuntu-linux",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
