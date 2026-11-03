@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:43:18.458290+00:00",
+  "generated_at": "2026-11-03T22:57:07.846733+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -56,20 +56,20 @@
       "source": "Devpost"
     },
     {
-      "title": "DSH Hacks V2 ($100k+ in prizes!)",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://dsh-hacks-v2.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "QNX Global Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "IoT",
       "url": "https://qnx.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "DSH Hacks V2 ($100k+ in prizes!)",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly",
+      "url": "https://dsh-hacks-v2.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -176,96 +176,58 @@
       "source": "Remotive"
     },
     {
-      "title": "Junior Automatisierungsingenieur (m/w/d)",
-      "org": "Modulist GmbH",
-      "location": "Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/modulist-gmbh/junior-automatisierungsingenieur-berlin-179795",
+      "title": "Senior Architect, Enterprise Agentic Automation",
+      "org": "Camunda",
+      "location": "Remote",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-architect-enterprise-agentic-automation-165952",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Robotics / Mechatronics Engineer",
-      "org": "Isembard",
-      "location": "London",
+      "title": "Senior High-Voltage Electrical Design Engineer (all genders)",
+      "org": "v\u00e6ridion",
+      "location": "Munich HQ",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/isembard/robotics-mechatronics-engineer-london-55318",
+      "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/senior-high-voltage-electrical-design-engineer-all-genders-munich-349797",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automatiker / Projektbetreuer (w/m)",
-      "org": "H\u00e4rdi Personal",
-      "location": "Rotkreuz",
+      "title": "Senior Test Engineer \u2013 Mechanical Flight Control System (all genders)",
+      "org": "v\u00e6ridion",
+      "location": "Manufacturing & Testing Facility",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/hardi-personal/automatiker-projektbetreuer-w-m-rotkreuz-470074",
+      "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/senior-test-engineer-mechanical-flight-control-system-all-genders-munich-155876",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Professional ICT Test Manager (m/w/d) - SIP / VISO / Test Automation (60-80%) (Ref.Nr.: 47713)",
-      "org": "Wavestone Germany AG",
-      "location": "Bern",
+      "title": "Head of AI Factory Commissioning",
+      "org": "Firmus",
+      "location": "Sydney, Australia",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/professional-ict-test-manager-sip-viso-test-automation-60-80-refnr-47713-bern-391249",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/firmus/head-of-ai-factory-commissioning-sydney-australia-359684",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Engineer - GMP Pharma & Biotech",
-      "org": "agap2 - HIQ Consulting",
-      "location": "Basel",
+      "title": "Ing\u00e9nieur S\u00e9curit\u00e9 des Proc\u00e9d\u00e9s - Process Safety Engineer (H/F)",
+      "org": "Enova Consulting",
+      "location": "Geneva",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/agap2-hiq-consulting/automation-engineer-gmp-pharma-biotech-basel-65474",
+      "url": "https://www.arbeitnow.ch/jobs/companies/enova-consulting/ingenieur-securite-des-procedes-process-safety-engineer-h-f-geneva-207274",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Field Engineer (m/w/x)",
-      "org": "Rotzinger Group",
-      "location": "Altendorf, Schwyz, Schweiz",
+      "title": "Regulatory & Certification Engineer, Hydrogen Energy",
+      "org": "Eh Energy",
+      "location": "Nyon",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-372814",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eh-energy/regulatory-certification-engineer-hydrogen-energy-nyon-308498",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Systems Engineer  (Excavator Automation)",
-      "org": "Gravis Robotics",
-      "location": "Zurich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/systems-engineer-excavator-automation-zurich-5810",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Controls Engineer",
-      "org": "AMF Bakery Systems B.V.",
-      "location": "Gorinchem, Zuid-Holland, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-18770",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Network Security & Automation Engineer (Relocation Provided)",
-      "org": "Wypoon",
-      "location": "Amsterdam",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/network-security-automation-engineer-relocation-provided-amsterdam-179414",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Kernel Build Automation Engineer - Ubuntu Linux",
-      "org": "Canonical",
-      "location": "EMEA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/158610-kernel-build-automation-engineer-ubuntu-linux",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
