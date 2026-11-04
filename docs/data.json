@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:57:07.846733+00:00",
+  "generated_at": "2026-11-04T13:51:32.180240+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -85,6 +85,15 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Freelance Copywriter",
+      "org": "Coalition Technologies ",
+      "location": "Worldwide",
+      "type": "freelance",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Full-Stack Developer",
       "org": "Fluence International, Inc.",
@@ -176,56 +185,74 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Architect, Enterprise Agentic Automation",
-      "org": "Camunda",
-      "location": "Remote",
+      "title": "Teamleiter (m/w/d)\u00a0- Automation & Instandhaltung",
+      "org": "Teampicnic",
+      "location": "Falkensee, Brandenburg",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-automation-instandhaltung-falkensee-brandenburg-441395",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Teamleiter (m/w/d) - Automation & Instandhaltung",
+      "org": "Teampicnic",
+      "location": "Berlin, Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-automation-instandhaltung-berlin-berlin-194197",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Werkstudent Commercial Enablement - AI & Automation (German-Speaking) (f/m/d)",
+      "org": "Zenjob",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/zenjob/werkstudent-commercial-enablement-ai-automation-german-speaking-berlin-228232",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Electrical Distribution Engineer",
+      "org": "Proxima Fusion GmbH",
+      "location": "Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/electrical-distribution-engineer-munich-188910",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI & GROWTH MARKETING MANAGER (M/F/D) - AI Automation \u00b7 SEO & GEO \u00b7 B2B Digital Growth",
+      "org": "sera Gruppe",
+      "location": "Immenhausen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/sera-gruppe/ai-growth-marketing-manager-ai-automation-seo-geo-b2b-digital-growth-immenhausen-15257",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Ingenieur Geb\u00e4udeautomation (m/w/d)",
+      "org": "Buro Happold",
+      "location": "Berlin",
       "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-architect-enterprise-agentic-automation-165952",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior High-Voltage Electrical Design Engineer (all genders)",
-      "org": "v\u00e6ridion",
-      "location": "Munich HQ",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/senior-high-voltage-electrical-design-engineer-all-genders-munich-349797",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Test Engineer \u2013 Mechanical Flight Control System (all genders)",
-      "org": "v\u00e6ridion",
-      "location": "Manufacturing & Testing Facility",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/senior-test-engineer-mechanical-flight-control-system-all-genders-munich-155876",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Head of AI Factory Commissioning",
-      "org": "Firmus",
-      "location": "Sydney, Australia",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/firmus/head-of-ai-factory-commissioning-sydney-australia-359684",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Ing\u00e9nieur S\u00e9curit\u00e9 des Proc\u00e9d\u00e9s - Process Safety Engineer (H/F)",
-      "org": "Enova Consulting",
-      "location": "Geneva",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enova-consulting/ingenieur-securite-des-procedes-process-safety-engineer-h-f-geneva-207274",
+      "url": "https://www.arbeitnow.com/jobs/companies/buro-happold/ingenieur-gebaudeautomation-berlin-321967",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
       "title": "Regulatory & Certification Engineer, Hydrogen Energy",
-      "org": "Eh Energy",
+      "org": "Eh Group",
       "location": "Nyon",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/eh-energy/regulatory-certification-engineer-hydrogen-energy-nyon-308498",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/regulatory-certification-engineer-hydrogen-energy-nyon-191554",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "SPS Programmierer / Software Engineer (w/m)",
+      "org": "H\u00e4rdi Personal",
+      "location": "Lucerne",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/hardi-personal/sps-programmierer-software-engineer-w-m-lucerne-27386",
       "tag": "Job",
       "source": "Arbeitnow"
     },
