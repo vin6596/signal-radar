@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:16:15.419144+00:00",
+  "generated_at": "2026-11-05T14:05:58.514082+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -176,56 +176,38 @@
       "source": "Remotive"
     },
     {
-      "title": "Freelance Writer",
-      "org": "IAPWE",
-      "location": "Worldwide",
-      "type": "freelance",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Electrical Engineer II",
-      "org": "Kraken",
-      "location": "Berlin, Germany",
+      "title": "GTM Engineer - Sales Automation and Analytics Management",
+      "org": "Pergolux",
+      "location": "Berlin | Global Team",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/kraken/electrical-engineer-ii-berlin-178280",
+      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/gtm-engineer-sales-automation-and-analytics-management-berlin-224004",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior AI & Automation Operations Manager (m/w/d)",
-      "org": "Rosental Organics GmbH",
+      "title": "Senior Robotics Autonomy Engineer - Planning, Decision & Intercept",
+      "org": "Promethion Industries",
       "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/senior-ai-automation-operations-manager-berlin-103357",
+      "url": "https://www.arbeitnow.com/jobs/companies/promethion-industries/senior-robotics-autonomy-engineer-planning-decision-intercept-berlin-421432",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior CRM Manager - Klaviyo & Automation/ E-Mail Marketing Manager (m/w/d)",
-      "org": "Rosental Organics GmbH",
-      "location": "Berlin",
+      "title": "Prozessingenieur (m/w/d) diagnostische Testsysteme / Point-of-Care (1728)",
+      "org": "BR\u00dcGGEN ENGINEERING GmbH",
+      "location": "Mannheim",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/senior-crm-manager-klaviyo-automation-e-mail-marketing-manager-berlin-140137",
+      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/prozessingenieur-diagnostische-testsysteme-point-of-care-1728-mannheim-167134",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "SPS-Programmierer / Automatisierungstechniker (m/w/d)",
-      "org": "HiOffice",
-      "location": "Dohna",
+      "title": "Electrical Systems Designer (all genders)",
+      "org": "v\u00e6ridion",
+      "location": "Munich HQ",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/hioffice/sps-programmierer-automatisierungstechniker-dohna-318581",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Sr.Manager Field Engineering, Digital Natives & Emerging Enterprise France",
-      "org": "databricks",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/srmanager-field-engineering-digital-natives-emerging-enterprise-france-paris-156711",
+      "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/electrical-systems-designer-all-genders-munich-42137",
       "tag": "Job",
       "source": "Arbeitnow"
     },
