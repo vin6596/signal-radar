@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T13:49:05.636978+00:00",
+  "generated_at": "2026-11-06T22:45:30.638274+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -204,20 +204,38 @@
       "source": "Remotive"
     },
     {
-      "title": "Electronics Test Engineer (m/f/d)",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
+      "title": "Werkstudent:in Business Operations & Automation",
+      "org": "Code17 GmbH",
+      "location": "Leipzig",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/electronics-test-engineer-munich-bavaria-173460",
+      "url": "https://www.arbeitnow.com/jobs/companies/code17-gmbh/werkstudentin-business-operations-automation-leipzig-333404",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Fachbauleiter Leittechnik / Automatisierungstechnik (m/w/d)",
-      "org": "INP Deutschland GmbH",
-      "location": "Eschweiler",
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "org": "MY Humancapital GmbH",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/inp-deutschland-gmbh/fachbauleiter-leittechnik-automatisierungstechnik-eschweiler-105210",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-403500",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Superviseur Instrumentation (H/F)",
+      "org": "EXOCETH CONSULTING",
+      "location": "B\u00e9thune, Hauts-de-France, France",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/superviseur-instrumentation-h-f-bethune-291730",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Sr. Specialist Solutions Architect",
+      "org": "databricks",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-specialist-solutions-architect-zurich-188461",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -274,6 +292,50 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/proxima-fusion-gmbh/electrical-distribution-engineer-zurich-456817",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | UK | Remote",
+      "org": "Grafana Labs",
+      "location": "Germany,  Ireland,  Spain,  UK",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/159444-staff-software-engineer-opentelemetry-python-instrumentation-uk-remote",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Spain | Remote",
+      "org": "Grafana Labs",
+      "location": "Spain",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/159441-staff-software-engineer-opentelemetry-python-instrumentation-spain-remote",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Ireland | Remote",
+      "org": "Grafana Labs",
+      "location": "Germany,  Ireland,  Spain,  UK",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/159437-staff-software-engineer-opentelemetry-python-instrumentation-ireland-remote",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Germany | Remote",
+      "org": "Grafana Labs",
+      "location": "Germany,  Ireland,  Spain,  UK",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/159433-staff-software-engineer-opentelemetry-python-instrumentation-germany-remote",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
