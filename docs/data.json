@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:19:16.455419+00:00",
+  "generated_at": "2026-11-06T13:49:05.636978+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -83,8 +83,36 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Internationaler Servicetechniker (DJ130)",
+      "org": "Excellent Go4",
+      "location": "Winterthur",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/internationaler-servicetechniker-dj130-winterthur-99159",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
+    {
+      "title": "Freelance Writer",
+      "org": "IAPWE",
+      "location": "Worldwide",
+      "type": "freelance",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Content Reviewer - United States",
+      "org": "TELUS Digital",
+      "location": "USA",
+      "type": "part_time",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Freelance Copywriter",
       "org": "Coalition Technologies ",
@@ -176,47 +204,74 @@
       "source": "Remotive"
     },
     {
-      "title": "Projektleiter MSR / Geb\u00e4udeautomation (m/w/d)",
-      "org": "Riverstate Premium Recruiting",
-      "location": "Erfurt",
+      "title": "Electronics Test Engineer (m/f/d)",
+      "org": "Agilerobotsse",
+      "location": "Munich, Bavaria",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/projektleiter-msr-gebaudeautomation-erfurt-462397",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/electronics-test-engineer-munich-bavaria-173460",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Projektleiter MSR / Geb\u00e4udeautomation (m/w/d)",
-      "org": "Riverstate Premium Recruiting",
-      "location": "Halle (Saale)",
+      "title": "Fachbauleiter Leittechnik / Automatisierungstechnik (m/w/d)",
+      "org": "INP Deutschland GmbH",
+      "location": "Eschweiler",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/projektleiter-msr-gebaudeautomation-halle-saale-311604",
+      "url": "https://www.arbeitnow.com/jobs/companies/inp-deutschland-gmbh/fachbauleiter-leittechnik-automatisierungstechnik-eschweiler-105210",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Elektroniker f\u00fcr Automatisierungstechnik (m/w/d)",
-      "org": "HRW Geb\u00e4udetechnik",
-      "location": "Hamburg",
+      "title": "Mechanical Engineer, Automation Projects",
+      "org": "Destinusgroup",
+      "location": "Payerne, Switzerland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/hrw-gebaudetechnik/elektroniker-fur-automatisierungstechnik-hamburg-498721",
+      "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-automation-projects-payerne-267521",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Steuerungstechniker:in Kundendienst",
-      "org": "AKSA W\u00fcrenlos AG",
-      "location": "W\u00fcrenlos",
+      "title": "Mechanical Engineer, Automation Projects",
+      "org": "Destinusgroup",
+      "location": "Z\u00fcrich, Switzerland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/aksa-wurenlos-ag/steuerungstechnikerinn-kundendienst-wurenlos-48898",
+      "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-automation-projects-zurich-308242",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Regulatory & Certification Engineer, Hydrogen Energy",
-      "org": "Eh Group",
-      "location": "Nyon",
+      "title": "Field Engineer (m/w/x)",
+      "org": "Rotzinger Group",
+      "location": "Altendorf, Schwyz, Schweiz",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/regulatory-certification-engineer-hydrogen-energy-nyon-191554",
+      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-234534",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Software Engineer, 80-100%",
+      "org": "Veratron AG",
+      "location": "R\u00fcthi, Sankt Gallen, Schweiz",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/veratron-ag/automation-software-engineer-80-100-ruthi-381544",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "PCB DESIGN ENGINEER 80-100% (m/f/d)",
+      "org": "Veratron AG",
+      "location": "R\u00fcthi, Sankt Gallen, Schweiz",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/veratron-ag/pcb-design-engineer-80-100-ruthi-105235",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Electrical Distribution Engineer",
+      "org": "Proxima Fusion GmbH",
+      "location": "Zurich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/proxima-fusion-gmbh/electrical-distribution-engineer-zurich-456817",
       "tag": "Job",
       "source": "Arbeitnow"
     },
