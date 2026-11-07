@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:33:01.476694+00:00",
+  "generated_at": "2026-11-07T21:29:49.524181+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -47,20 +47,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Learn AR with SPECS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR",
-      "url": "https://learn-specs.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "QNX Global Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "IoT",
       "url": "https://qnx.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Learn AR with SPECS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "AR/VR",
+      "url": "https://learn-specs.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -213,20 +213,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Electrical Engineer",
-      "org": "Axon",
-      "location": "Kassel, Hesse",
+      "title": "Team Lead Engineering - Finance Automation (f/m/d)",
+      "org": "Zeal Network",
+      "location": "Hamburg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/axon/senior-electrical-engineer-kassel-hesse-273202",
+      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/team-lead-engineering-finance-automation-hamburg-64058",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Control Systems Engineer \u2013 Vehicle Dynamics & Abstraction (m/f/d)",
-      "org": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-control-systems-engineer-vehicle-dynamics-abstraction-gilching-32929",
+      "title": "Principal Field Engineer, US Remote",
+      "org": "Exa",
+      "location": "Remote",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/exa/principal-field-engineer-us-remote-124433",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -267,15 +267,6 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Field Engineer (m/w/x)",
-      "org": "Rotzinger Group",
-      "location": "Altendorf, Schwyz, Schweiz",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-234534",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Senior Controls Engineer",
       "org": "AMF Bakery Systems B.V.",
       "location": "Gorinchem, Zuid-Holland, Nederland",
@@ -283,6 +274,28 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-150893",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Telco Field Engineering Director",
+      "org": "Canonical",
+      "location": "EMEA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/159599-telco-field-engineering-director",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Telco Cloud Field Engineer",
+      "org": "Canonical",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/159598-telco-cloud-field-engineer",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
