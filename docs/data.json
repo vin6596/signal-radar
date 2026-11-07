@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T22:45:30.638274+00:00",
+  "generated_at": "2026-11-07T12:33:01.476694+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -92,9 +92,27 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/internationaler-servicetechniker-dj130-winterthur-99159",
       "tag": "Internship",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Internship - Programming & Automation",
+      "org": "Fiducial",
+      "location": "Delft",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-programming-automation-delft-385463",
+      "tag": "Internship",
+      "source": "Arbeitnow"
     }
   ],
   "jobs": [
+    {
+      "title": "US Remote Patient Care Advocate (Customer Service)",
+      "org": "VXI Global Solutions",
+      "location": "USA",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Freelance Writer",
       "org": "IAPWE",
@@ -195,38 +213,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Tier III Service Desk Engineer",
-      "org": "Unio Digital",
-      "location": "Worldwide",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Werkstudent:in Business Operations & Automation",
-      "org": "Code17 GmbH",
-      "location": "Leipzig",
+      "title": "Senior Electrical Engineer",
+      "org": "Axon",
+      "location": "Kassel, Hesse",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/code17-gmbh/werkstudentin-business-operations-automation-leipzig-333404",
+      "url": "https://www.arbeitnow.com/jobs/companies/axon/senior-electrical-engineer-kassel-hesse-273202",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
-      "org": "MY Humancapital GmbH",
-      "location": "Munich",
+      "title": "Senior Control Systems Engineer \u2013 Vehicle Dynamics & Abstraction (m/f/d)",
+      "org": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-403500",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-control-systems-engineer-vehicle-dynamics-abstraction-gilching-32929",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Superviseur Instrumentation (H/F)",
-      "org": "EXOCETH CONSULTING",
-      "location": "B\u00e9thune, Hauts-de-France, France",
+      "title": "Senior Multiphysics R&D Engineer (Electro-mechanical)",
+      "org": "Secheron S Dot A",
+      "location": "Satigny, Switzerland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/superviseur-instrumentation-h-f-bethune-291730",
+      "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/senior-multiphysics-rd-engineer-electro-mechanical-satigny-374681",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -267,75 +276,13 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Software Engineer, 80-100%",
-      "org": "Veratron AG",
-      "location": "R\u00fcthi, Sankt Gallen, Schweiz",
+      "title": "Senior Controls Engineer",
+      "org": "AMF Bakery Systems B.V.",
+      "location": "Gorinchem, Zuid-Holland, Nederland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/veratron-ag/automation-software-engineer-80-100-ruthi-381544",
+      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-150893",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "PCB DESIGN ENGINEER 80-100% (m/f/d)",
-      "org": "Veratron AG",
-      "location": "R\u00fcthi, Sankt Gallen, Schweiz",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/veratron-ag/pcb-design-engineer-80-100-ruthi-105235",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Distribution Engineer",
-      "org": "Proxima Fusion GmbH",
-      "location": "Zurich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/proxima-fusion-gmbh/electrical-distribution-engineer-zurich-456817",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | UK | Remote",
-      "org": "Grafana Labs",
-      "location": "Germany,  Ireland,  Spain,  UK",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/159444-staff-software-engineer-opentelemetry-python-instrumentation-uk-remote",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Spain | Remote",
-      "org": "Grafana Labs",
-      "location": "Spain",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/159441-staff-software-engineer-opentelemetry-python-instrumentation-spain-remote",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Ireland | Remote",
-      "org": "Grafana Labs",
-      "location": "Germany,  Ireland,  Spain,  UK",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/159437-staff-software-engineer-opentelemetry-python-instrumentation-ireland-remote",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Germany | Remote",
-      "org": "Grafana Labs",
-      "location": "Germany,  Ireland,  Spain,  UK",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/159433-staff-software-engineer-opentelemetry-python-instrumentation-germany-remote",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
