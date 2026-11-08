@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:51:05.723162+00:00",
+  "generated_at": "2026-11-08T21:44:22.704383+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -74,16 +74,26 @@
       "source": "Devpost"
     },
     {
-      "title": "HackUTD 2026: ZeroDay",
+      "title": "Arbiter Hacks V1",
       "org": "Devpost",
-      "location": "University of Texas at Dallas - ECSW",
-      "type": "Open Ended",
-      "url": "https://hackutd-zeroday.devpost.com/",
+      "location": "Online",
+      "type": "Beginner Friendly",
+      "url": "https://arbiter-hacks-v1.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Operations Data & Automation Apprentice",
+      "org": "Backmarket",
+      "location": "Bordeaux",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/operations-data-automation-apprentice-bordeaux-84574",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Tier III Service Desk Engineer",
@@ -203,6 +213,15 @@
       "source": "Remotive"
     },
     {
+      "title": "Senior Business Automation Developer (all genders)",
+      "org": "Flaconi",
+      "location": "Berlin, Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/flaconi/senior-business-automation-developer-all-genders-berlin-berlin-374169",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Germany | Remote",
       "org": "grafanalabs",
       "location": "Remote",
@@ -221,11 +240,11 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Junior AI-Automation Specialist (m/w/d) \u2013 vor Ort in Dortmund",
-      "org": "ATZ AG",
-      "location": "Dortmund, Nordrhein-Westfalen, Deutschland",
+      "title": "System Test Automation Engineer",
+      "org": "Wayve",
+      "location": "London, United Kingdom",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-160104",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/system-test-automation-engineer-london-united-kingdom-401378",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -239,29 +258,29 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Mechatronic Engineer - Automation Test Equipment",
-      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "title": "Stage - Project Manager & Automation (F/H) - Paris",
+      "org": "Horizontradingsolutions",
+      "location": "Paris, Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/horizontradingsolutions/stage-project-manager-automation-f-h-paris-paris-paris-198404",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Sr. Manager, Field Engineering Qatar&Africa",
+      "org": "databricks",
       "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/mechatronic-engineer-automation-test-equipment-paris-125813",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-manager-field-engineering-qatarafrica-paris-380645",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Multiphysics R&D Engineer (Electro-mechanical)",
-      "org": "Secheron S Dot A",
-      "location": "Satigny, Switzerland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/senior-multiphysics-rd-engineer-electro-mechanical-satigny-374681",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Sr. Specialist Solutions Architect",
+      "title": "Manager, Field Engineering France",
       "org": "databricks",
-      "location": "Z\u00fcrich",
+      "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-specialist-solutions-architect-zurich-188461",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/manager-field-engineering-france-paris-149639",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -273,6 +292,28 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-150893",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Staff Product Manager, Marketing Automation - CANADA",
+      "org": "Luxury Presence",
+      "location": "Canada",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/159849-staff-product-manager-marketing-automation-canada",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Head of AI, Automation & Analytics",
+      "org": "UpGuard",
+      "location": "Australia",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/159809-head-of-ai-automation-analytics",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
