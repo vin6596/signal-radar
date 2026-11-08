@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:29:49.524181+00:00",
+  "generated_at": "2026-11-08T12:51:05.723162+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -74,36 +74,26 @@
       "source": "Devpost"
     },
     {
-      "title": "Arbiter Hacks V1",
+      "title": "HackUTD 2026: ZeroDay",
       "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://arbiter-hacks-v1.devpost.com/",
+      "location": "University of Texas at Dallas - ECSW",
+      "type": "Open Ended",
+      "url": "https://hackutd-zeroday.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Internationaler Servicetechniker (DJ130)",
-      "org": "Excellent Go4",
-      "location": "Winterthur",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/internationaler-servicetechniker-dj130-winterthur-99159",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Internship - Programming & Automation",
-      "org": "Fiducial",
-      "location": "Delft",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-programming-automation-delft-385463",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
+    {
+      "title": "Tier III Service Desk Engineer",
+      "org": "Unio Digital",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "US Remote Patient Care Advocate (Customer Service)",
       "org": "VXI Global Solutions",
@@ -213,20 +203,47 @@
       "source": "Remotive"
     },
     {
-      "title": "Team Lead Engineering - Finance Automation (f/m/d)",
-      "org": "Zeal Network",
-      "location": "Hamburg",
+      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Germany | Remote",
+      "org": "grafanalabs",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/team-lead-engineering-finance-automation-hamburg-64058",
+      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/staff-software-engineer-opentelemetry-python-instrumentation-germany-remote-427337",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Principal Field Engineer, US Remote",
-      "org": "Exa",
+      "title": "Senior Automation Engineer  - UiPath",
+      "org": "roboyo",
+      "location": "Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/roboyo/senior-automation-engineer-uipath-munich-27512",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Junior AI-Automation Specialist (m/w/d) \u2013 vor Ort in Dortmund",
+      "org": "ATZ AG",
+      "location": "Dortmund, Nordrhein-Westfalen, Deutschland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-160104",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | UK | Remote",
+      "org": "grafanalabs",
       "location": "Remote",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/exa/principal-field-engineer-us-remote-124433",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-software-engineer-opentelemetry-python-instrumentation-uk-remote-85977",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Mechatronic Engineer - Automation Test Equipment",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/mechatronic-engineer-automation-test-equipment-paris-125813",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -249,24 +266,6 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Mechanical Engineer, Automation Projects",
-      "org": "Destinusgroup",
-      "location": "Payerne, Switzerland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-automation-projects-payerne-267521",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Mechanical Engineer, Automation Projects",
-      "org": "Destinusgroup",
-      "location": "Z\u00fcrich, Switzerland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-automation-projects-zurich-308242",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Senior Controls Engineer",
       "org": "AMF Bakery Systems B.V.",
       "location": "Gorinchem, Zuid-Holland, Nederland",
@@ -274,28 +273,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-150893",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Telco Field Engineering Director",
-      "org": "Canonical",
-      "location": "EMEA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/159599-telco-field-engineering-director",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Telco Cloud Field Engineer",
-      "org": "Canonical",
-      "location": "EMEA,  LATAM,  Canada,  USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/159598-telco-cloud-field-engineer",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
