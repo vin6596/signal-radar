@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:44:22.704383+00:00",
+  "generated_at": "2026-11-09T15:22:35.157089+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -29,15 +29,6 @@
       "source": "Devpost"
     },
     {
-      "title": "Codegeist 2026: Build with context. Ship with confidence.",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://codegeist2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "UGREEN Hackathon 2026 on AI NAS",
       "org": "Devpost",
       "location": "Online",
@@ -47,11 +38,11 @@
       "source": "Devpost"
     },
     {
-      "title": "QNX Global Hackathon",
+      "title": "Codegeist 2026: Build with context. Ship with confidence.",
       "org": "Devpost",
       "location": "Online",
-      "type": "IoT",
-      "url": "https://qnx.devpost.com/",
+      "type": "Machine Learning/AI",
+      "url": "https://codegeist2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -61,6 +52,15 @@
       "location": "Online",
       "type": "AR/VR",
       "url": "https://learn-specs.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "QNX Global Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "IoT",
+      "url": "https://qnx.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -204,42 +204,6 @@
       "source": "Remotive"
     },
     {
-      "title": "Inside Sales Contractor",
-      "org": "Credit Wellness, LLC",
-      "location": "Worldwide",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Business Automation Developer (all genders)",
-      "org": "Flaconi",
-      "location": "Berlin, Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/flaconi/senior-business-automation-developer-all-genders-berlin-berlin-374169",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Germany | Remote",
-      "org": "grafanalabs",
-      "location": "Remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/staff-software-engineer-opentelemetry-python-instrumentation-germany-remote-427337",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Automation Engineer  - UiPath",
-      "org": "roboyo",
-      "location": "Munich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/roboyo/senior-automation-engineer-uipath-munich-27512",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "System Test Automation Engineer",
       "org": "Wayve",
       "location": "London, United Kingdom",
@@ -249,11 +213,11 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | UK | Remote",
-      "org": "grafanalabs",
-      "location": "Remote",
+      "title": "Director Software Foundations - Warehouse Robotics & Automation",
+      "org": "Exotec",
+      "location": "Lille, France",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-software-engineer-opentelemetry-python-instrumentation-uk-remote-85977",
+      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/director-software-foundations-warehouse-robotics-automation-lille-67270",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -267,53 +231,13 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Sr. Manager, Field Engineering Qatar&Africa",
-      "org": "databricks",
-      "location": "Paris",
+      "title": "Automatiker EFZ \u2013 1580378",
+      "org": "Anker Swiss AG",
+      "location": "Langenthal",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-manager-field-engineering-qatarafrica-paris-380645",
+      "url": "https://www.arbeitnow.ch/jobs/companies/anker-swiss-ag/automatiker-efz-1580378-langenthal-191875",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Manager, Field Engineering France",
-      "org": "databricks",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/manager-field-engineering-france-paris-149639",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Controls Engineer",
-      "org": "AMF Bakery Systems B.V.",
-      "location": "Gorinchem, Zuid-Holland, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-150893",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Staff Product Manager, Marketing Automation - CANADA",
-      "org": "Luxury Presence",
-      "location": "Canada",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/159849-staff-product-manager-marketing-automation-canada",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Head of AI, Automation & Analytics",
-      "org": "UpGuard",
-      "location": "Australia",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/159809-head-of-ai-automation-analytics",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
