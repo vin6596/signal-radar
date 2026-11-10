@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T01:13:42.643275+00:00",
+  "generated_at": "2026-11-10T14:25:55.362629+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -83,8 +83,36 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "AI Automation Intern, Communications",
+      "org": "Prosus",
+      "location": "Amsterdam",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/prosus/ai-automation-intern-communications-amsterdam-283753",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Internship - UAV Robotics/Mechatronics (Drone Prototyping, Integration & Field Testing)",
+      "org": "Fiducial",
+      "location": "Delft",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-uav-robotics-mechatronics-drone-prototyping-integration-field-testing-delft-234540",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
+    {
+      "title": "Inside Sales Contractor",
+      "org": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Tier III Service Desk Engineer",
       "org": "Unio Digital",
@@ -194,20 +222,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Sales Engineer - AI Agents (Western Europe, Italy)",
-      "org": "nice",
-      "location": "Remote",
+      "title": "AOI-Programmierer:in / SMT-Fachkraft (m/w/d) | 100% | Region Ostschweiz, Schweiz",
+      "org": "CONCAPE",
+      "location": "Memmingen",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-sales-engineer-ai-agents-western-europe-italy-431223",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/aoi-programmiererin-smt-fachkraft-100-region-ostschweiz-schweiz-memmingen-437125",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Director Software Foundations - Warehouse Robotics & Automation",
-      "org": "Exotec",
-      "location": "Lille, France",
+      "title": "AOI-Programmierer:in / SMT-Fachkraft (m/w/d) | 100% | Region Ostschweiz, Schweiz",
+      "org": "CONCAPE",
+      "location": "Ulm",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/director-software-foundations-warehouse-robotics-automation-lille-67270",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/aoi-programmiererin-smt-fachkraft-100-region-ostschweiz-schweiz-ulm-281376",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "OT Engineer",
+      "org": "Bell Food Group",
+      "location": "Basel",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bell-food-group/ot-engineer-basel-164616",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -219,17 +256,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/anker-swiss-ag/automatiker-efz-1580378-langenthal-191875",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Finance Operations & Automation Analyst (Billing)",
-      "org": "Swap",
-      "location": "Poland",
-      "type": [
-        "Contract"
-      ],
-      "url": "https://jobicy.com/jobs/160678-finance-operations-automation-analyst-billing",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
