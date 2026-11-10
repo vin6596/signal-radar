@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:22:35.157089+00:00",
+  "generated_at": "2026-11-10T01:13:42.643275+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -47,15 +47,6 @@
       "source": "Devpost"
     },
     {
-      "title": "Learn AR with SPECS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR",
-      "url": "https://learn-specs.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "QNX Global Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -81,19 +72,18 @@
       "url": "https://arbiter-hacks-v1.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
-    }
-  ],
-  "internships": [
+    },
     {
-      "title": "Operations Data & Automation Apprentice",
-      "org": "Backmarket",
-      "location": "Bordeaux",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/operations-data-automation-apprentice-bordeaux-84574",
-      "tag": "Internship",
-      "source": "Arbeitnow"
+      "title": "Code for Humanity",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Education",
+      "url": "https://code-for-humanity.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
     }
   ],
+  "internships": [],
   "jobs": [
     {
       "title": "Tier III Service Desk Engineer",
@@ -204,11 +194,11 @@
       "source": "Remotive"
     },
     {
-      "title": "System Test Automation Engineer",
-      "org": "Wayve",
-      "location": "London, United Kingdom",
+      "title": "Senior Sales Engineer - AI Agents (Western Europe, Italy)",
+      "org": "nice",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/system-test-automation-engineer-london-united-kingdom-401378",
+      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-sales-engineer-ai-agents-western-europe-italy-431223",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -222,15 +212,6 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Stage - Project Manager & Automation (F/H) - Paris",
-      "org": "Horizontradingsolutions",
-      "location": "Paris, Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/horizontradingsolutions/stage-project-manager-automation-f-h-paris-paris-paris-198404",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Automatiker EFZ \u2013 1580378",
       "org": "Anker Swiss AG",
       "location": "Langenthal",
@@ -238,6 +219,17 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/anker-swiss-ag/automatiker-efz-1580378-langenthal-191875",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Finance Operations & Automation Analyst (Billing)",
+      "org": "Swap",
+      "location": "Poland",
+      "type": [
+        "Contract"
+      ],
+      "url": "https://jobicy.com/jobs/160678-finance-operations-automation-analyst-billing",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
