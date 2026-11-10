@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:25:55.362629+00:00",
+  "generated_at": "2026-11-10T22:53:46.826748+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -84,6 +84,15 @@
     }
   ],
   "internships": [
+    {
+      "title": "CFD Workflow Automation Intern",
+      "org": "Pangea Propulsion",
+      "location": "Toulouse",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pangea-propulsion/cfd-workflow-automation-intern-toulouse-482340",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    },
     {
       "title": "AI Automation Intern, Communications",
       "org": "Prosus",
@@ -222,38 +231,29 @@
       "source": "Remotive"
     },
     {
-      "title": "AOI-Programmierer:in / SMT-Fachkraft (m/w/d) | 100% | Region Ostschweiz, Schweiz",
-      "org": "CONCAPE",
-      "location": "Memmingen",
+      "title": "Lead Mechatronics and Systems Engineer - Preclinical Research",
+      "org": "Netholabs",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/concape/aoi-programmiererin-smt-fachkraft-100-region-ostschweiz-schweiz-memmingen-437125",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/lead-mechatronics-and-systems-engineer-preclinical-research-london-14288",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "AOI-Programmierer:in / SMT-Fachkraft (m/w/d) | 100% | Region Ostschweiz, Schweiz",
-      "org": "CONCAPE",
-      "location": "Ulm",
+      "title": "Field Engineer (m/w/x)",
+      "org": "Rotzinger Group",
+      "location": "Altendorf, Schwyz, Schweiz",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/concape/aoi-programmiererin-smt-fachkraft-100-region-ostschweiz-schweiz-ulm-281376",
+      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-238149",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "OT Engineer",
-      "org": "Bell Food Group",
-      "location": "Basel",
+      "title": "Senior Engineer I, Systems Engineering - Controls Engineer",
+      "org": "Asm",
+      "location": "Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bell-food-group/ot-engineer-basel-164616",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Automatiker EFZ \u2013 1580378",
-      "org": "Anker Swiss AG",
-      "location": "Langenthal",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/anker-swiss-ag/automatiker-efz-1580378-langenthal-191875",
+      "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-i-systems-engineering-controls-engineer-353895",
       "tag": "Job",
       "source": "Arbeitnow"
     },
