@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T22:53:46.826748+00:00",
+  "generated_at": "2026-11-11T13:39:48.938496+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -94,20 +94,11 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "AI Automation Intern, Communications",
-      "org": "Prosus",
-      "location": "Amsterdam",
+      "title": "Medical Affairs Project Associate Specialist, Post Graduate Trainee",
+      "org": "Alnylampharmaceuticals",
+      "location": "Zug",
       "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/prosus/ai-automation-intern-communications-amsterdam-283753",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Internship - UAV Robotics/Mechatronics (Drone Prototyping, Integration & Field Testing)",
-      "org": "Fiducial",
-      "location": "Delft",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-uav-robotics-mechatronics-drone-prototyping-integration-field-testing-delft-234540",
+      "url": "https://www.arbeitnow.ch/jobs/companies/alnylampharmaceuticals/medical-affairs-project-associate-specialist-post-graduate-trainee-zug-29989",
       "tag": "Internship",
       "source": "Arbeitnow"
     }
@@ -231,11 +222,38 @@
       "source": "Remotive"
     },
     {
-      "title": "Lead Mechatronics and Systems Engineer - Preclinical Research",
-      "org": "Netholabs",
-      "location": "London",
+      "title": "Senior CRM Manager - Klaviyo & Automation/ E-Mail Marketing Manager (m/w/d)",
+      "org": "Rosental Organics GmbH",
+      "location": "Berlin, Berlin, Deutschland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/lead-mechatronics-and-systems-engineer-preclinical-research-london-14288",
+      "url": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/senior-crm-manager-klaviyo-automation-e-mail-marketing-manager-berlin-462959",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior AI & Automation Operations Manager (m/w/d)",
+      "org": "Rosental Organics GmbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/senior-ai-automation-operations-manager-berlin-285409",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Junior) Engineer Transmission Network (M/W/D) - BU3",
+      "org": "Live Reply GmbH",
+      "location": "Frankfurt am Main",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/live-reply-gmbh/junior-engineer-transmission-network-bu3-frankfurt-am-main-6813",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Automation Engineer",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/ai-automation-engineer-paris-496766",
       "tag": "Job",
       "source": "Arbeitnow"
     },
