@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:07:08.025881+00:00",
+  "generated_at": "2026-11-12T14:43:41.488857+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -29,20 +29,20 @@
       "source": "Devpost"
     },
     {
-      "title": "UGREEN Hackathon 2026 on AI NAS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Lifehacks",
-      "url": "https://ugreenhackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Codegeist 2026: Build with context. Ship with confidence.",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://codegeist2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "UGREEN Hackathon 2026 on AI NAS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Lifehacks",
+      "url": "https://ugreenhackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -83,18 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Medical Affairs Project Associate Specialist, Post Graduate Trainee",
-      "org": "Alnylampharmaceuticals",
-      "location": "Zug",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/alnylampharmaceuticals/medical-affairs-project-associate-specialist-post-graduate-trainee-zug-29989",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
+    {
+      "title": "Senior React Full-stack Developer",
+      "org": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Inside Sales Contractor",
       "org": "Credit Wellness, LLC",
@@ -213,11 +212,56 @@
       "source": "Remotive"
     },
     {
-      "title": "Field Engineer (m/w/x)",
-      "org": "Rotzinger Group",
-      "location": "Altendorf, Schwyz, Schweiz",
+      "title": "Head of Finance Automation/ AI Agentification",
+      "org": "Rohlik",
+      "location": "M\u00fcnchen, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-238149",
+      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/head-of-finance-automation-ai-agentification-munich-37676",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Leitung Automation 80\u2013100 % (m/w/d) (MW)",
+      "org": "Excellent Go4",
+      "location": "Aarau",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/leitung-automation-80-100-mw-aarau-445356",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Projektleiter Automation / SPS & HMI (m/w/d), 100% (MW)",
+      "org": "Excellent Go4",
+      "location": "St. Gallen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/projektleiter-automation-sps-hmi-100-mw-st-gallen-415254",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "SPS-Programmierer Automation & Anlagenbau (m/w/d) Nr. MW",
+      "org": "Excellent Go4",
+      "location": "Oberb\u00fcren",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/sps-programmierer-automation-anlagenbau-nr-mw-oberburen-484166",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Automation Engineer / Elektrotechniker Anlagenbau (100%) Nr. MW",
+      "org": "Excellent Go4",
+      "location": "Altdorf",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/automation-engineer-elektrotechniker-anlagenbau-100-nr-mw-altdorf-425867",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Team Lead Electrical Engineering (gn)",
+      "org": "two.jobs",
+      "location": "Wohlen",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/twojobs/team-lead-electrical-engineering-gn-wohlen-190258",
       "tag": "Job",
       "source": "Arbeitnow"
     },
