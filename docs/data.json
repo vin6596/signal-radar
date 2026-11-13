@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:00:05.372313+00:00",
+  "generated_at": "2026-11-13T23:17:46.178183+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -85,6 +85,24 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Remote Office Assistant",
+      "org": "Coalition Technologies ",
+      "location": "Worldwide",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "tag": "Job",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "org": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Customer Service Representative",
       "org": "ShyftOff",
@@ -212,20 +230,38 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Forward Deployed Engineer (m/f/d) | Integration & Automation | Full-time",
-      "org": "Ayunis",
-      "location": "Munich",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) \u2013 Marketing Automation (all genders)",
+      "org": "Foodji GmbH",
+      "location": "M\u00fcnchen, Bayern, Deutschland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ayunis/senior-forward-deployed-engineer-integration-automation-full-time-munich-445628",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-407880",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Head of Manufacturing Science & Technology - MSAT (m/w/d)",
-      "org": "Triga Consulting GmbH & Co KG",
-      "location": "Berlin",
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "org": "MY Humancapital GmbH",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/triga-consulting-gmbh-co-kg/head-of-manufacturing-science-technology-msat-berlin-59216",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-189250",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior/ Principal Engineer - Electrical Building Services (Contract)",
+      "org": "Bakerhicks",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bakerhicks/senior-principal-engineer-electrical-building-services-contract-430236",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Principal / Lead Primary Engineer - HV Substations",
+      "org": "Bakerhicks",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bakerhicks/principal-lead-primary-engineer-hv-substations-305818",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -239,11 +275,11 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Leitung Automation 80\u2013100 % (m/w/d) (MW)",
-      "org": "Excellent Go4",
-      "location": "Aarau",
+      "title": "Senior Electrical Engineer",
+      "org": "Deerns Groep BV",
+      "location": "Den Haag, Zuid-Holland, Netherlands",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/leitung-automation-80-100-mw-aarau-445356",
+      "url": "https://www.arbeitnow.nl/jobs/companies/deerns-groep-bv/senior-electrical-engineer-den-haag-272376",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -255,6 +291,17 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-93018",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior IBM Business Automation Workflow (BAW) Developer",
+      "org": "Oowlish Technology",
+      "location": "Brazil",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/161941-senior-ibm-business-automation-workflow-baw-developer",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
