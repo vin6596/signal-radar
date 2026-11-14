@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:02:50.807472+00:00",
+  "generated_at": "2026-11-14T22:01:08.553601+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -230,11 +230,65 @@
       "source": "Remotive"
     },
     {
+      "title": "Leiter Technische Entwicklung (m/w/d)",
+      "org": "Monika Moser, Executive Search",
+      "location": "H\u00f6rselberg-Hainich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/monika-moser-executive-search/leiter-technische-entwicklung-horselberg-hainich-176692",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Software Provisioning Technician (m/f/d) - UGV",
+      "org": "Quantum-Systems GmbH",
+      "location": "G\u00f6ppingen, Baden-W\u00fcrttemberg, Germany",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-technician-ugv-goppingen-499660",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Fachplaner TGA (m/w/d) - Versorgungstechnik & Geb\u00e4udeautomation",
       "org": "sic architekten gmbh",
       "location": "Cologne",
       "type": "On-site",
       "url": "https://www.arbeitnow.com/jobs/companies/sic-architekten-gmbh/fachplaner-tga-versorgungstechnik-gebaudeautomation-cologne-418538",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Specialist Field Engineer  - Security",
+      "org": "Coreweaveu",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-specialist-field-engineer-security-london-231278",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Specialist Field Engineer  - HPC/AI/ML",
+      "org": "Coreweaveu",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-specialist-field-engineer-hpc-ai-ml-london-153587",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Specialist Field Engineer - Compute Infrastructure",
+      "org": "Coreweaveu",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-specialist-field-engineer-compute-infrastructure-london-6787",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Manager, Field Engineering",
+      "org": "Coreweaveu",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-manager-field-engineering-london-92564",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -246,6 +300,17 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/deerns-groep-bv/senior-electrical-engineer-den-haag-272376",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Software Engineer, AI & Automation - Canada",
+      "org": "NerdWallet",
+      "location": "Canada",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/162215-software-engineer-ai-automation-canada",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
