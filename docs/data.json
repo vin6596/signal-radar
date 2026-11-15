@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:01:08.553601+00:00",
+  "generated_at": "2026-11-15T13:30:31.134271+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -65,20 +65,20 @@
       "source": "Devpost"
     },
     {
-      "title": "DSH Hacks V2 ($100k+ in prizes!)",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://dsh-hacks-v2.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Arbiter Hacks V1",
       "org": "Devpost",
       "location": "Online",
       "type": "Beginner Friendly",
       "url": "https://arbiter-hacks-v1.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Open Agentic Web Challenge",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://cognizant-agenticweb.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -230,6 +230,15 @@
       "source": "Remotive"
     },
     {
+      "title": "AI Integration & Automation Engineer (m/w/d) GER",
+      "org": "Customs Support Group",
+      "location": "Remote job",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Leiter Technische Entwicklung (m/w/d)",
       "org": "Monika Moser, Executive Search",
       "location": "H\u00f6rselberg-Hainich",
@@ -248,67 +257,60 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Fachplaner TGA (m/w/d) - Versorgungstechnik & Geb\u00e4udeautomation",
-      "org": "sic architekten gmbh",
-      "location": "Cologne",
+      "title": "Electrical Engineer (Launcher)",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/sic-architekten-gmbh/fachplaner-tga-versorgungstechnik-gebaudeautomation-cologne-418538",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-launcher-paris-181304",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Specialist Field Engineer  - Security",
-      "org": "Coreweaveu",
-      "location": "London",
+      "title": "Electrical Engineer (Electronic Warfare)",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-specialist-field-engineer-security-london-231278",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-electronic-warfare-paris-335488",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Specialist Field Engineer  - HPC/AI/ML",
-      "org": "Coreweaveu",
-      "location": "London",
+      "title": "Field Engineer (m/w/x)",
+      "org": "Rotzinger Group",
+      "location": "Altendorf, Schwyz, Schweiz",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-specialist-field-engineer-hpc-ai-ml-london-153587",
+      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-299106",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Specialist Field Engineer - Compute Infrastructure",
-      "org": "Coreweaveu",
-      "location": "London",
+      "title": "Reliability Engineer (NL)",
+      "org": "Storiogroup",
+      "location": "Ypenburg, Nederlands",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-specialist-field-engineer-compute-infrastructure-london-6787",
+      "url": "https://www.arbeitnow.nl/jobs/companies/storiogroup/reliability-engineer-nl-ypenburg-nederlands-302897",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Manager, Field Engineering",
-      "org": "Coreweaveu",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-manager-field-engineering-london-92564",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Electrical Engineer",
-      "org": "Deerns Groep BV",
-      "location": "Den Haag, Zuid-Holland, Netherlands",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/deerns-groep-bv/senior-electrical-engineer-den-haag-272376",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Software Engineer, AI & Automation - Canada",
-      "org": "NerdWallet",
-      "location": "Canada",
+      "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
+      "org": "Dropbox",
+      "location": "Ireland",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/162215-software-engineer-ai-automation-canada",
+      "url": "https://jobicy.com/jobs/162318-senior-client-platform-engineer-endpoint-platform-automation",
+      "tag": "Job",
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Customer Engineer Middle East, Oil & Gas",
+      "org": "Armada",
+      "location": "UAE",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/162287-senior-customer-engineer-middle-east-oil-gas",
       "tag": "Job",
       "source": "Jobicy"
     },
