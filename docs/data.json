@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:30:31.134271+00:00",
+  "generated_at": "2026-11-15T22:31:17.601482+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -65,15 +65,6 @@
       "source": "Devpost"
     },
     {
-      "title": "Arbiter Hacks V1",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://arbiter-hacks-v1.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Open Agentic Web Challenge",
       "org": "Devpost",
       "location": "Online",
@@ -81,10 +72,28 @@
       "url": "https://cognizant-agenticweb.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
+    },
+    {
+      "title": "Deck the Pixels",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Design",
+      "url": "https://deckthepixels.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
     }
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Content Creator - YouTube",
+      "org": "Metics Media",
+      "location": "USA, Canada",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Remote Office Assistant",
       "org": "Coalition Technologies ",
@@ -221,38 +230,11 @@
       "source": "Remotive"
     },
     {
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "org": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
       "title": "AI Integration & Automation Engineer (m/w/d) GER",
       "org": "Customs Support Group",
       "location": "Remote job",
       "type": "Remote",
       "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Leiter Technische Entwicklung (m/w/d)",
-      "org": "Monika Moser, Executive Search",
-      "location": "H\u00f6rselberg-Hainich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/monika-moser-executive-search/leiter-technische-entwicklung-horselberg-hainich-176692",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Software Provisioning Technician (m/f/d) - UGV",
-      "org": "Quantum-Systems GmbH",
-      "location": "G\u00f6ppingen, Baden-W\u00fcrttemberg, Germany",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-technician-ugv-goppingen-499660",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -293,24 +275,13 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
-      "org": "Dropbox",
-      "location": "Ireland",
+      "title": "Web Automation Test Engineer",
+      "org": "Caylent",
+      "location": "Brazil",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/162318-senior-client-platform-engineer-endpoint-platform-automation",
-      "tag": "Job",
-      "source": "Jobicy"
-    },
-    {
-      "title": "Senior Customer Engineer Middle East, Oil & Gas",
-      "org": "Armada",
-      "location": "UAE",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/162287-senior-customer-engineer-middle-east-oil-gas",
+      "url": "https://jobicy.com/jobs/162439-web-automation-test-engineer-2",
       "tag": "Job",
       "source": "Jobicy"
     },
