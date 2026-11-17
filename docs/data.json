@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T01:38:55.959742+00:00",
+  "generated_at": "2026-11-17T15:34:49.748417+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -230,60 +230,6 @@
       "source": "Remotive"
     },
     {
-      "title": "Software Engineer, AI Coding Tasks",
-      "org": "Askable",
-      "location": "Worldwide",
-      "type": "contract",
-      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "SPS-Programmierer (m/w/d)",
-      "org": "Horn Glass Industries AG",
-      "location": "Pl\u00f6\u00dfberg",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/horn-glass-industries-ag/sps-programmierer-plossberg-65212",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Elektro-Techniker (m/w/d)",
-      "org": "CD-Automation GmbH",
-      "location": "Gera",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/cd-automation-gmbh/elektro-techniker-gera-162945",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Marketing Automation Engineer",
-      "org": "Unitedmedia",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/marketing-automation-engineer-london-404824",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AI Automation Engineer",
-      "org": "Unitedmedia",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ai-automation-engineer-london-202659",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Marketing Automation Engineer",
-      "org": "Cfoinsights",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/marketing-automation-engineer-london-286463",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Electrical Engineer (Gimbal)",
       "org": "Signal Processing Engineer (RF Processing & Analytics)",
       "location": "Paris",
@@ -307,24 +253,6 @@
       "location": "Paris",
       "type": "On-site",
       "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-ground-control-system-paris-119824",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Ing\u00e9nieur Automation",
-      "org": "cross-ING AG",
-      "location": "Yverdon-les-Bains, Waadt, Schweiz",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/ingenieur-automation-yverdon-les-bains-190246",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Reliability Engineer (NL)",
-      "org": "Storiogroup",
-      "location": "Ypenburg, Nederlands",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/storiogroup/reliability-engineer-nl-ypenburg-nederlands-302897",
       "tag": "Job",
       "source": "Arbeitnow"
     },
