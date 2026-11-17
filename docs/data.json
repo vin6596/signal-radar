@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:57:32.911537+00:00",
+  "generated_at": "2026-11-17T01:38:55.959742+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -56,20 +56,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Open Agentic Web Challenge",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://cognizant-agenticweb.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Deck the Pixels",
       "org": "Devpost",
       "location": "Online",
       "type": "Design",
       "url": "https://deckthepixels.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Open Agentic Web Challenge",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://cognizant-agenticweb.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -239,47 +239,83 @@
       "source": "Remotive"
     },
     {
-      "title": "Flight Control Automation Engineer (m/f/d)",
-      "org": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
+      "title": "SPS-Programmierer (m/w/d)",
+      "org": "Horn Glass Industries AG",
+      "location": "Pl\u00f6\u00dfberg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/flight-control-automation-engineer-gilching-110248",
+      "url": "https://www.arbeitnow.com/jobs/companies/horn-glass-industries-ag/sps-programmierer-plossberg-65212",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior HVDC Cable Engineer \u2013 Manufacturing & Quality (Offshore Grid Connection, Germany)",
-      "org": "TIS GmbH",
-      "location": "Charlottenburg, Berlin, Germany",
+      "title": "Elektro-Techniker (m/w/d)",
+      "org": "CD-Automation GmbH",
+      "location": "Gera",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/tis-gmbh/senior-hvdc-cable-engineer-manufacturing-quality-offshore-grid-connection-germany-charlottenburg-105723",
+      "url": "https://www.arbeitnow.com/jobs/companies/cd-automation-gmbh/elektro-techniker-gera-162945",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Mass Timber Field Engineer (m/f/d)",
-      "org": "Simpson Strong-Tie GmbH",
-      "location": "Berlin",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/simpson-strong-tie-gmbh/mass-timber-field-engineer-berlin-27611",
+      "title": "Marketing Automation Engineer",
+      "org": "Unitedmedia",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/marketing-automation-engineer-london-404824",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
-      "org": "databricks",
-      "location": "Remote",
+      "title": "AI Automation Engineer",
+      "org": "Unitedmedia",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/lead-solutions-architect-generative-ai-emea-emerging-dnb-185708",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ai-automation-engineer-london-202659",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Systems Electrical Engineer (m/w/d) 80-100%",
-      "org": "Signode",
-      "location": "Dietikon, Z\u00fcrich, Switzerland",
+      "title": "Marketing Automation Engineer",
+      "org": "Cfoinsights",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/signode/systems-electrical-engineer-80-100-dietikon-258399",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/marketing-automation-engineer-london-286463",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Electrical Engineer (Gimbal)",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-gimbal-paris-295287",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Electrical Engineer (Tooling)",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-tooling-paris-455645",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Electrical Engineer (Ground Control System)",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/electrical-engineer-ground-control-system-paris-119824",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Ing\u00e9nieur Automation",
+      "org": "cross-ING AG",
+      "location": "Yverdon-les-Bains, Waadt, Schweiz",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/ingenieur-automation-yverdon-les-bains-190246",
       "tag": "Job",
       "source": "Arbeitnow"
     },
