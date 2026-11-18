@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:11:58.904084+00:00",
+  "generated_at": "2026-11-18T23:56:25.073611+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -7,15 +7,6 @@
       "location": "Online",
       "type": "Beginner Friendly",
       "url": "https://kiroween.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Meta VR Start Developer Competition 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR",
-      "url": "https://start-developer-competition-26.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Beginner Friendly",
       "url": "https://arbiter-hacks-v1.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Code for Humanity",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Education",
+      "url": "https://code-for-humanity.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
@@ -230,65 +230,11 @@
       "source": "Remotive"
     },
     {
-      "title": "Test Engineer / Test Automation Engineer (m/w/d) Schwerpunkt API-Testing",
-      "org": "Nelta GmbH",
-      "location": "Frankfurt am Main",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/nelta-gmbh/test-engineer-test-automation-engineer-schwerpunkt-api-testing-frankfurt-am-main-300918",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Engineering Technician",
-      "org": "IBA Dosimetry GmbH",
-      "location": "Nuremberg",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/iba-dosimetry-gmbh/engineering-technician-nuremberg-297634",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Fl\u00e4chenakquisiteur (m/w/d) Solarparks und Batteriespeicher",
-      "org": "Renergo GmbH",
-      "location": "Heidenheim",
+      "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
+      "org": "Exotec",
+      "location": "Lille, France",
       "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/renergo-gmbh/flachenakquisiteur-solarparks-und-batteriespeicher-heidenheim-420962",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Marketing Automation Engineer",
-      "org": "Hrtechx",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/marketing-automation-engineer-london-283385",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AI Automation Engineer",
-      "org": "Hrtechx",
-      "location": "London",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ai-automation-engineer-london-266673",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Stage - Microfabrication et proc\u00e9d\u00e9s de fabrication de puces microfluidiques",
-      "org": "Maison MGA",
-      "location": "Mably",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/maison-mga/stage-microfabrication-et-procedes-de-fabrication-de-puces-microfluidiques-mably-16927",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Delivery Solutions Architect",
-      "org": "databricks",
-      "location": "Paris",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/delivery-solutions-architect-paris-452174",
+      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-lille-198757",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -302,42 +248,13 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Robotic Controls Engineer",
-      "org": "Enactintelligence",
-      "location": "Z\u00fcrich",
+      "title": "Test Automation Engineer",
+      "org": "Infomedics",
+      "location": "Almere, Flevoland, Nederland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/robotic-controls-engineer-zurich-41326",
+      "url": "https://www.arbeitnow.nl/jobs/companies/infomedics/test-automation-engineer-almere-488912",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior People Intelligence, Automation & AI Specialist",
-      "org": "Envalior",
-      "location": "Geleen, Netherlands",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/envalior/senior-people-intelligence-automation-ai-specialist-geleen-241645",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Engineer I, Electrical Engineering",
-      "org": "Asm",
-      "location": "Remote",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-i-electrical-engineering-76845",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Process Engineer (Power Generation / Gas-to-Power)",
-      "org": "Candid Intelligence",
-      "location": "USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/163066-senior-process-engineer-power-generation-gas-to-power",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
