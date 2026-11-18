@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:36:52.796638+00:00",
+  "generated_at": "2026-11-18T15:11:58.904084+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -230,31 +230,114 @@
       "source": "Remotive"
     },
     {
-      "title": "Automation Engineer \u2013 Magnet Industrialisation",
-      "org": "Proxima Fusion GmbH",
-      "location": "Zurich",
+      "title": "Test Engineer / Test Automation Engineer (m/w/d) Schwerpunkt API-Testing",
+      "org": "Nelta GmbH",
+      "location": "Frankfurt am Main",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/proxima-fusion-gmbh/automation-engineer-magnet-industrialisation-zurich-163628",
+      "url": "https://www.arbeitnow.com/jobs/companies/nelta-gmbh/test-engineer-test-automation-engineer-schwerpunkt-api-testing-frankfurt-am-main-300918",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Electrical Technician, Magnet Systems",
-      "org": "Proxima Fusion GmbH",
-      "location": "Zurich",
+      "title": "Engineering Technician",
+      "org": "IBA Dosimetry GmbH",
+      "location": "Nuremberg",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/proxima-fusion-gmbh/electrical-technician-magnet-systems-zurich-401281",
+      "url": "https://www.arbeitnow.com/jobs/companies/iba-dosimetry-gmbh/engineering-technician-nuremberg-297634",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Controls Engineer",
-      "org": "AMF Bakery Systems B.V.",
-      "location": "Gorinchem, Zuid-Holland, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-216344",
+      "title": "Fl\u00e4chenakquisiteur (m/w/d) Solarparks und Batteriespeicher",
+      "org": "Renergo GmbH",
+      "location": "Heidenheim",
+      "type": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/renergo-gmbh/flachenakquisiteur-solarparks-und-batteriespeicher-heidenheim-420962",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Marketing Automation Engineer",
+      "org": "Hrtechx",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/marketing-automation-engineer-london-283385",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Automation Engineer",
+      "org": "Hrtechx",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ai-automation-engineer-london-266673",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Stage - Microfabrication et proc\u00e9d\u00e9s de fabrication de puces microfluidiques",
+      "org": "Maison MGA",
+      "location": "Mably",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/maison-mga/stage-microfabrication-et-procedes-de-fabrication-de-puces-microfluidiques-mably-16927",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Delivery Solutions Architect",
+      "org": "databricks",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/databricks/delivery-solutions-architect-paris-452174",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Solutions Architect - CPG and Manufacturing",
+      "org": "databricks",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/solutions-architect-cpg-and-manufacturing-zurich-251157",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Robotic Controls Engineer",
+      "org": "Enactintelligence",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/robotic-controls-engineer-zurich-41326",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior People Intelligence, Automation & AI Specialist",
+      "org": "Envalior",
+      "location": "Geleen, Netherlands",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/envalior/senior-people-intelligence-automation-ai-specialist-geleen-241645",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Engineer I, Electrical Engineering",
+      "org": "Asm",
+      "location": "Remote",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-i-electrical-engineering-76845",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Process Engineer (Power Generation / Gas-to-Power)",
+      "org": "Candid Intelligence",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/163066-senior-process-engineer-power-generation-gas-to-power",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
