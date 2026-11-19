@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T23:56:25.073611+00:00",
+  "generated_at": "2026-11-19T15:20:04.838029+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -230,11 +230,38 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
-      "org": "Exotec",
-      "location": "Lille, France",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-lille-198757",
+      "title": "Fachplaner TGA (m/w/d) - Elektrotechnik & Geb\u00e4udeautomation",
+      "org": "sic architekten gmbh",
+      "location": "Cologne",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/sic-architekten-gmbh/fachplaner-tga-elektrotechnik-gebaudeautomation-cologne-376519",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "org": "Physicsx",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-machine-learning-engineer-london-12046",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Technicien.ne m\u00e9thodes",
+      "org": "Maison MGA",
+      "location": "Mably",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/maison-mga/technicienne-methodes-mably-498529",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Test Automation Engineer - KI/MCP/Agents",
+      "org": "PROSTAFF Schweiz GmbH",
+      "location": "Bern",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/test-automation-engineer-ki-mcp-agents-bern-388710",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -244,15 +271,6 @@
       "location": "Z\u00fcrich",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/databricks/solutions-architect-cpg-and-manufacturing-zurich-251157",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Test Automation Engineer",
-      "org": "Infomedics",
-      "location": "Almere, Flevoland, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/infomedics/test-automation-engineer-almere-488912",
       "tag": "Job",
       "source": "Arbeitnow"
     },
