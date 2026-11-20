@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:58:11.367072+00:00",
+  "generated_at": "2026-11-20T23:43:28.920687+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -85,6 +85,15 @@
   ],
   "internships": [
     {
+      "title": "Alternance - Talent Acquisition Intern",
+      "org": "Exotec",
+      "location": "Lille, France",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/alternance-talent-acquisition-intern-lille-90220",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Mechatronics Engineer Intern- Sensor Integration and Test",
       "org": "Harmattan Ai",
       "location": "Lausanne",
@@ -95,6 +104,15 @@
     }
   ],
   "jobs": [
+    {
+      "title": "Content Reviewer - United States",
+      "org": "TELUS Digital",
+      "location": "USA",
+      "type": "part_time",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Tech Lead Full-Stack Rails Engineer",
       "org": "Mitre Media",
@@ -231,65 +249,29 @@
       "source": "Remotive"
     },
     {
-      "title": "Junior Specialist Automation & AI (m/w/d)",
-      "org": "TecTake",
-      "location": "H\u00f6chberg",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/tectake/junior-specialist-automation-ai-hochberg-383767",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Growth Engineer \u2013 Outbound & Data Automation (m/w/d)",
-      "org": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-479014",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Founding Engineer - Robotics (m/w/d)",
-      "org": "Anton Robotics",
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "org": "MY Humancapital GmbH",
       "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/anton-robotics/founding-engineer-robotics-munich-64890",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-46708",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Forward Deployed Robotics Engineer (m/w/d)",
-      "org": "Anton Robotics",
+      "title": "Projektingenieur Verfahrenstechnik (m/w/d)",
+      "org": "MY Humancapital GmbH",
       "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/anton-robotics/forward-deployed-robotics-engineer-munich-403635",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/projektingenieur-verfahrenstechnik-munich-486219",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation Engineer - Facilities SCADA & PLC (f/m/d)",
-      "org": "Black Semiconductor GmbH",
-      "location": "Aachen, Germany",
+      "title": "Field Engineer (m/w/x)",
+      "org": "Rotzinger Group",
+      "location": "Altendorf, Schwyz, Schweiz",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/automation-engineer-facilities-scada-plc-aachen-44805",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Junior Growth Manager (m/w/d) f\u00fcr KI & Automation | 100 % Remote",
-      "org": "Koller & Lode GmbH",
-      "location": "Berlin",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/koller-lode-gmbh/growth-marketing-manager-fur-outbound-automation-100-remote-berlin-118775",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "People Operations Associate (AI and Automation)",
-      "org": "hyperexponential",
-      "location": "London (hybrid)",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hyperexponential/people-operations-associate-ai-and-automation-london-175800",
+      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-410334",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -321,33 +303,6 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Key Account Manager - Oil & Gas",
-      "org": "Anybotics",
-      "location": "Zurich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/key-account-manager-oil-gas-zurich-315326",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Head of Business Automation",
-      "org": "Anybotics",
-      "location": "Zurich, Switzerland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/head-of-business-automation-zurich-switzerland-78161",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "(Senior) Field Engineer, Industrial Robotics",
-      "org": "Anybotics",
-      "location": "Zurich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/senior-field-engineer-industrial-robotics-zurich-358253",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Senior Account Manager - Warehouse Automation - BENELUX",
       "org": "Exotec",
       "location": "Netherlands",
@@ -375,13 +330,15 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "System Engineer (Control Systems)",
-      "org": "Aim Solutions",
-      "location": "Headquarter",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/aim-solutions/system-engineer-control-systems-eindhoven-111921",
+      "title": "Manager, Business Risk and AI Automation",
+      "org": "Reddit",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/163556-manager-business-risk-and-ai-automation",
       "tag": "Job",
-      "source": "Arbeitnow"
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
