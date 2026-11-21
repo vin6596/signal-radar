@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:43:28.920687+00:00",
+  "generated_at": "2026-11-21T14:17:56.695283+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -11,20 +11,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Codegeist 2026: Build with context. Ship with confidence.",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://codegeist2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "#BuildHybridAI 2026",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://firebasehybridaihackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Codegeist 2026: Build with context. Ship with confidence.",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://codegeist2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -83,26 +83,7 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Alternance - Talent Acquisition Intern",
-      "org": "Exotec",
-      "location": "Lille, France",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/alternance-talent-acquisition-intern-lille-90220",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Mechatronics Engineer Intern- Sensor Integration and Test",
-      "org": "Harmattan Ai",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/mechatronics-engineer-intern-sensor-integration-and-test-lausanne-299815",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Content Reviewer - United States",
@@ -249,20 +230,20 @@
       "source": "Remotive"
     },
     {
-      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
-      "org": "MY Humancapital GmbH",
-      "location": "Munich",
+      "title": "AI Engineer, DevEx & Automation",
+      "org": "mirakllabs",
+      "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-46708",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-paris-253225",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Projektingenieur Verfahrenstechnik (m/w/d)",
-      "org": "MY Humancapital GmbH",
-      "location": "Munich",
+      "title": "AI Engineer, DevEx & Automation",
+      "org": "mirakllabs",
+      "location": "Bordeaux",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/projektingenieur-verfahrenstechnik-munich-486219",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-bordeaux-394620",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -272,33 +253,6 @@
       "location": "Altendorf, Schwyz, Schweiz",
       "type": "On-site",
       "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-410334",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Electrical Engineer",
-      "org": "Harmattan Ai",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/senior-electrical-engineer-lausanne-496781",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Embedded Electrical Engineer - SoM",
-      "org": "Harmattan Ai",
-      "location": "Zurich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/embedded-electrical-engineer-som-zurich-24862",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Embedded Electrical Engineer - SoM",
-      "org": "Harmattan Ai",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/embedded-electrical-engineer-som-lausanne-440542",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -328,17 +282,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/macos-jamf-automation-engineer-amsterdam-the-netherlands-441329",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Manager, Business Risk and AI Automation",
-      "org": "Reddit",
-      "location": "USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/163556-manager-business-risk-and-ai-automation",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
