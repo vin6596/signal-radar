@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:49:47.228859+00:00",
+  "generated_at": "2026-11-22T14:09:08.095084+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -230,6 +230,15 @@
       "source": "Remotive"
     },
     {
+      "title": "Venture Development \u2013 AI & Process Automation (w/m/d)",
+      "org": "Enpal",
+      "location": "Berlin",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/venture-development-ai-process-automation-berlin-327429",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Software Engineer (m/f/d) Industrial Robot Control",
       "org": "Agilerobotsse",
       "location": "Munich, Bavaria",
@@ -239,74 +248,20 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "(Senior) Electronics Engineer (m/f/d)",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
+      "title": "Industrial Vision & Automation Engineer",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Orly",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-electronics-engineer-munich-bavaria-328785",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/industrial-vision-automation-engineer-orly-103459",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Mechatronics Test Engineer (m/f/d)",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/mechatronics-test-engineer-munich-bavaria-471636",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Marketing Automation & AI Manager (m/w/d) | B2B Marketing",
-      "org": "caronsale",
-      "location": "Berlin",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/caronsale/marketing-automation-ai-manager-b2b-marketing-berlin-158810",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AI Engineer, DevEx & Automation",
-      "org": "mirakllabs",
+      "title": "Embedded Electrical Engineer - SoM",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
       "location": "Paris",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-paris-253225",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AI Engineer, DevEx & Automation",
-      "org": "mirakllabs",
-      "location": "Bordeaux",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-bordeaux-394620",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Field Engineer (m/w/x)",
-      "org": "Rotzinger Group",
-      "location": "Altendorf, Schwyz, Schweiz",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-410334",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Account Manager - Warehouse Automation - BENELUX",
-      "org": "Exotec",
-      "location": "Netherlands",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
-      "org": "Exotec",
-      "location": "Netherlands",
-      "type": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/embedded-electrical-engineer-som-paris-163003",
       "tag": "Job",
       "source": "Arbeitnow"
     },
