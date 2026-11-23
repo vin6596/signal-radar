@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:17:14.892466+00:00",
+  "generated_at": "2026-11-23T17:30:55.323052+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -29,20 +29,20 @@
       "source": "Devpost"
     },
     {
-      "title": "QNX Global Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "IoT",
-      "url": "https://qnx.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Reddit\u2019s Game of the Day Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Beginner Friendly",
       "url": "https://redditgameofday2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "QNX Global Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "IoT",
+      "url": "https://qnx.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -212,58 +212,60 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Back-end Developer",
+      "title": "Senior Back-end Developerusa",
       "org": "Lemon.io",
       "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
       "type": "full_time",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135",
       "tag": "Job",
       "source": "Remotive"
     },
     {
-      "title": "AI Trainer - Video Annotation",
-      "org": "iMerit Technology",
-      "location": "Worldwide",
-      "type": "freelance",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
-      "tag": "Job",
-      "source": "Remotive"
-    },
-    {
-      "title": "Fertigungstechniker / Industrial Engineering (m/w/d)",
-      "org": "surge aero GmbH",
-      "location": "Munich",
+      "title": "Customer Success Associate - Renewable Energy",
+      "org": "trawa",
+      "location": "Berlin HQ",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/surge-aero-gmbh/fertigungstechniker-industrial-engineering-munich-256845",
+      "url": "https://www.arbeitnow.com/jobs/companies/trawa/customer-success-associate-renewable-energy-berlin-355656",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Mitarbeiter (m/w/d) f\u00fcr Serienprozesstechnik",
-      "org": "ACE Advanced Composite Engineering GmbH",
-      "location": "Salem",
+      "title": "Lab Automation Lead",
+      "org": "Orakl Oncology",
+      "location": "Villejuif",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ace-advanced-composite-engineering-gmbh/mitarbeiter-fur-serienprozesstechnik-salem-222523",
+      "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/lab-automation-lead-villejuif-471110",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Industrial Vision & Automation Engineer",
-      "org": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Orly",
+      "title": "Automation / System Engineer IT/OT (m/w/d)",
+      "org": "EXCO Group",
+      "location": "Root",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/industrial-vision-automation-engineer-orly-103459",
+      "url": "https://www.arbeitnow.ch/jobs/companies/exco-group/automation-system-engineer-it-ot-root-302010",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Embedded Electrical Engineer - SoM",
-      "org": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
+      "title": "Senior Controls Engineer",
+      "org": "AMF Bakery Systems B.V.",
+      "location": "Gorinchem, Zuid-Holland, Nederland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/embedded-electrical-engineer-som-paris-163003",
+      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-261416",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Marketing Automation Specialist",
+      "org": "Anteriad",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/163928-senior-marketing-automation-specialist",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
