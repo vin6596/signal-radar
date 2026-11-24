@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:51:33.323430+00:00",
+  "generated_at": "2026-11-24T17:02:13.878209+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -38,20 +38,20 @@
       "source": "Devpost"
     },
     {
-      "title": "QNX Global Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "IoT",
-      "url": "https://qnx.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Open Agentic Web Challenge",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://cognizant-agenticweb.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "QNX Global Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "IoT",
+      "url": "https://qnx.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -231,38 +231,38 @@
       "source": "Remotive"
     },
     {
-      "title": "Customer Success Associate - Renewable Energy",
-      "org": "trawa",
-      "location": "Berlin HQ",
+      "title": "Engineering Manager \u2013 Solar Array (all genders)",
+      "org": "Reflex Aerospace GmbH",
+      "location": "Berlin",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/trawa/customer-success-associate-renewable-energy-berlin-355656",
+      "url": "https://www.arbeitnow.com/jobs/companies/reflex-aerospace-gmbh/engineering-manager-solar-array-all-genders-berlin-178757",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Lab Automation Lead",
-      "org": "Orakl Oncology",
-      "location": "Villejuif",
+      "title": "Lead Business Operations & Data (w/m/d)",
+      "org": "Vestigas",
+      "location": "M\u00fcnchen (Hybrid)",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/lab-automation-lead-villejuif-471110",
+      "url": "https://www.arbeitnow.com/jobs/companies/vestigas/lead-business-operations-data-munchen-hybrid-51910",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Automation / System Engineer IT/OT (m/w/d)",
-      "org": "EXCO Group",
-      "location": "Root",
+      "title": "Tritium Process Engineers",
+      "org": "Personal data collected as part of the application process",
+      "location": "Hybrid",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/exco-group/automation-system-engineer-it-ot-root-302010",
+      "url": "https://www.arbeitnow.fr/jobs/companies/personal-data-collected-as-part-of-the-application-process/tritium-process-engineers-hybrid-265451",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Controls Engineer",
-      "org": "AMF Bakery Systems B.V.",
-      "location": "Gorinchem, Zuid-Holland, Nederland",
+      "title": "Projektleiter Geb\u00e4udeautomation / MSR Engineering (w/m, 80-100%)",
+      "org": "Roger Germ AG | Personalberatung Energie & Elektro",
+      "location": "Z\u00fcrich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-261416",
+      "url": "https://www.arbeitnow.ch/jobs/companies/roger-germ-ag-personalberatung-energie-elektro/projektleiter-gebaudeautomation-msr-engineering-w-m-80-100-zurich-193859",
       "tag": "Job",
       "source": "Arbeitnow"
     },
