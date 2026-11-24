@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:30:55.323052+00:00",
+  "generated_at": "2026-11-24T03:51:33.323430+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -11,20 +11,20 @@
       "source": "Devpost"
     },
     {
-      "title": "#BuildHybridAI 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://firebasehybridaihackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Codegeist 2026: Build with context. Ship with confidence.",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://codegeist2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "#BuildHybridAI 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://firebasehybridaihackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -47,20 +47,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Deck the Pixels",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Design",
-      "url": "https://deckthepixels.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Open Agentic Web Challenge",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://cognizant-agenticweb.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Deck the Pixels",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Design",
+      "url": "https://deckthepixels.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -74,16 +74,26 @@
       "source": "Devpost"
     },
     {
-      "title": "Arbiter Hacks V1",
+      "title": "AWS MSP AI Hackathon",
       "org": "Devpost",
       "location": "Online",
-      "type": "Beginner Friendly",
-      "url": "https://arbiter-hacks-v1.devpost.com/",
+      "type": "Machine Learning/AI",
+      "url": "https://aws-agentic-msp.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Mechatronics Engineer Intern - Automated UAV Calibration",
+      "org": "Harmattan Ai",
+      "location": "Lausanne",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/mechatronics-engineer-intern-automated-uav-calibration-lausanne-315668",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "Content Reviewer - United States",
@@ -255,17 +265,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-261416",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Marketing Automation Specialist",
-      "org": "Anteriad",
-      "location": "USA",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/163928-senior-marketing-automation-specialist",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
