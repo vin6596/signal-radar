@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T01:57:05.714030+00:00",
+  "generated_at": "2026-11-25T16:52:21.433202+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -83,8 +83,27 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Software Integration & DevOps Intern / Working Student (m/f/d) Robotics Software",
+      "org": "Agilerobotsse",
+      "location": "Munich, Bavaria",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/software-integration-devops-intern-working-student-robotics-software-munich-bavaria-185917",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
+    {
+      "title": "WordPress Theme & Plugin Developer",
+      "org": "Steward Web Development",
+      "location": "Americas, LATAM, Canada, USA timezones",
+      "type": "contract",
+      "url": "https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "Content Reviewer - United States",
       "org": "TELUS Digital",
@@ -221,49 +240,85 @@
       "source": "Remotive"
     },
     {
-      "title": "Electrical Engineer",
-      "org": "pplwise",
-      "location": "Munich",
+      "title": "(Senior) Java Test Automation Engineer (m/f/d)",
+      "org": "ecosio",
+      "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/pplwise/electrical-engineer-munich-92535",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-senior-java-test-automation-engineer-110894",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Engineering Manager \u2013 Solar Array (all genders)",
-      "org": "Reflex Aerospace GmbH",
-      "location": "Berlin",
+      "title": "Business Automation & AI Manager (all genders)",
+      "org": "Foodji GmbH",
+      "location": "M\u00fcnchen, Bayern, Deutschland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/reflex-aerospace-gmbh/engineering-manager-solar-array-all-genders-berlin-178757",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/business-automation-ai-manager-all-genders-munchen-211509",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Tritium Process Engineers",
-      "org": "Personal data collected as part of the application process",
-      "location": "Hybrid",
+      "title": "Lead Product Engineer - Electronic Control Systems",
+      "org": "OnTarget Communications",
+      "location": "Toomebridge, Northern Ireland, United Kingdom",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/personal-data-collected-as-part-of-the-application-process/tritium-process-engineers-hybrid-265451",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ontarget-communications/lead-product-engineer-electronic-control-systems-toomebridge-219633",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Projektleiter Geb\u00e4udeautomation / MSR Engineering (w/m, 80-100%)",
-      "org": "Roger Germ AG | Personalberatung Energie & Elektro",
-      "location": "Z\u00fcrich",
+      "title": "Electrical Support & Test Engineer",
+      "org": "OnTarget Communications",
+      "location": "Antrim, Northern Ireland, United Kingdom",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/roger-germ-ag-personalberatung-energie-elektro/projektleiter-gebaudeautomation-msr-engineering-w-m-80-100-zurich-193859",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ontarget-communications/electrical-support-test-engineer-antrim-367821",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Sr. Contracts Manager - Renewable Energy",
-      "org": "SB Energy",
-      "location": "USA",
+      "title": "Senior Mechanical / Electrical System Integration Lead",
+      "org": "OnTarget Communications",
+      "location": "Basel, Basel-Stadt, Switzerland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/ontarget-communications/senior-mechanical-electrical-system-integration-lead-basel-44670",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Mechatronics Systems Engineer",
+      "org": "OnTarget Communications",
+      "location": "Stans, Nidwalden, Switzerland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/ontarget-communications/senior-mechatronics-systems-engineer-stans-188615",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Field Engineer (m/w/x)",
+      "org": "Rotzinger Group",
+      "location": "Altendorf, Schwyz, Schweiz",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-134465",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Principal AI & Automation Lead",
+      "org": "The Sharing Group",
+      "location": "Almere, Flevoland, Nederland",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.nl/jobs/companies/the-sharing-group/principal-ai-automation-lead-almere-150276",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Senior) Java Test Automation Engineer (m/f/d)",
+      "org": "ecosio",
+      "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
       "type": [
         "Full-Time"
       ],
-      "url": "https://jobicy.com/jobs/164128-sr-contracts-manager-renewable-energy",
+      "url": "https://jobicy.com/jobs/164241-senior-java-test-automation-engineer-m-f-d",
       "tag": "Job",
       "source": "Jobicy"
     },
