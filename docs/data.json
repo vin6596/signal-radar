@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:02:13.878209+00:00",
+  "generated_at": "2026-11-25T01:57:05.714030+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -83,17 +83,7 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Mechatronics Engineer Intern - Automated UAV Calibration",
-      "org": "Harmattan Ai",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/mechatronics-engineer-intern-automated-uav-calibration-lausanne-315668",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "Content Reviewer - United States",
@@ -231,20 +221,20 @@
       "source": "Remotive"
     },
     {
+      "title": "Electrical Engineer",
+      "org": "pplwise",
+      "location": "Munich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/pplwise/electrical-engineer-munich-92535",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Engineering Manager \u2013 Solar Array (all genders)",
       "org": "Reflex Aerospace GmbH",
       "location": "Berlin",
       "type": "On-site",
       "url": "https://www.arbeitnow.com/jobs/companies/reflex-aerospace-gmbh/engineering-manager-solar-array-all-genders-berlin-178757",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Lead Business Operations & Data (w/m/d)",
-      "org": "Vestigas",
-      "location": "M\u00fcnchen (Hybrid)",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/vestigas/lead-business-operations-data-munchen-hybrid-51910",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -265,6 +255,17 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/roger-germ-ag-personalberatung-energie-elektro/projektleiter-gebaudeautomation-msr-engineering-w-m-80-100-zurich-193859",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Sr. Contracts Manager - Renewable Energy",
+      "org": "SB Energy",
+      "location": "USA",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/164128-sr-contracts-manager-renewable-energy",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
