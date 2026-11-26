@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:52:21.433202+00:00",
+  "generated_at": "2026-11-26T01:37:49.612217+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -83,17 +83,7 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Software Integration & DevOps Intern / Working Student (m/f/d) Robotics Software",
-      "org": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/software-integration-devops-intern-working-student-robotics-software-munich-bavaria-185917",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "WordPress Theme & Plugin Developer",
@@ -240,38 +230,20 @@
       "source": "Remotive"
     },
     {
-      "title": "(Senior) Java Test Automation Engineer (m/f/d)",
-      "org": "ecosio",
-      "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
+      "title": "Staff Electrical Engineer",
+      "org": "Electraaero",
+      "location": "Olten",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-senior-java-test-automation-engineer-110894",
+      "url": "https://www.arbeitnow.ch/jobs/companies/electraaero/staff-electrical-engineer-olten-343402",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Business Automation & AI Manager (all genders)",
-      "org": "Foodji GmbH",
-      "location": "M\u00fcnchen, Bayern, Deutschland",
+      "title": "Heavy- Duty Automation Engineer",
+      "org": "Harmattan Ai",
+      "location": "Lausanne",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/business-automation-ai-manager-all-genders-munchen-211509",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Lead Product Engineer - Electronic Control Systems",
-      "org": "OnTarget Communications",
-      "location": "Toomebridge, Northern Ireland, United Kingdom",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ontarget-communications/lead-product-engineer-electronic-control-systems-toomebridge-219633",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Electrical Support & Test Engineer",
-      "org": "OnTarget Communications",
-      "location": "Antrim, Northern Ireland, United Kingdom",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ontarget-communications/electrical-support-test-engineer-antrim-367821",
+      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/heavy-duty-automation-engineer-lausanne-379498",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -310,17 +282,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/the-sharing-group/principal-ai-automation-lead-almere-150276",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "(Senior) Java Test Automation Engineer (m/f/d)",
-      "org": "ecosio",
-      "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/164241-senior-java-test-automation-engineer-m-f-d",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
