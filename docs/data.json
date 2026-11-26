@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:37:49.612217+00:00",
+  "generated_at": "2026-11-26T16:29:43.321121+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -83,7 +83,17 @@
       "source": "Devpost"
     }
   ],
-  "internships": [],
+  "internships": [
+    {
+      "title": "Senior Internal Automation Engineer",
+      "org": "Volta",
+      "location": "London, UK",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/senior-internal-automation-engineer-london-149376",
+      "tag": "Internship",
+      "source": "Arbeitnow"
+    }
+  ],
   "jobs": [
     {
       "title": "WordPress Theme & Plugin Developer",
@@ -230,6 +240,42 @@
       "source": "Remotive"
     },
     {
+      "title": "SPS - Programmierer / Automatisierungstechniker (gn)",
+      "org": "Remmert GmbH",
+      "location": "L\u00f6hne",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/remmert-gmbh/sps-programmierer-automatisierungstechniker-gn-lohne-257241",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Head of Production Factory (m/f/d)",
+      "org": "Quantum-Systems GmbH",
+      "location": "Ergolding , Bayern, Germany",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/head-of-production-factory-ergolding-201471",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Professional System Engineer (Linux/Automation, 80-100%) - ID261126",
+      "org": "Adfinis AG",
+      "location": "Bern",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/adfinis-ag/professional-system-engineer-linux-automation-80-100-id261126-bern-350363",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Automation Engineer (SPS, Robotics & Commissioning)",
+      "org": "Coopers Group AG",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-automation-engineer-sps-robotics-commissioning-zurich-299244",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Staff Electrical Engineer",
       "org": "Electraaero",
       "location": "Olten",
@@ -248,38 +294,11 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Mechanical / Electrical System Integration Lead",
-      "org": "OnTarget Communications",
-      "location": "Basel, Basel-Stadt, Switzerland",
+      "title": "Network Security & Automation Engineer (Relocation Provided)",
+      "org": "Wypoon",
+      "location": "Amsterdam",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/ontarget-communications/senior-mechanical-electrical-system-integration-lead-basel-44670",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Mechatronics Systems Engineer",
-      "org": "OnTarget Communications",
-      "location": "Stans, Nidwalden, Switzerland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/ontarget-communications/senior-mechatronics-systems-engineer-stans-188615",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Field Engineer (m/w/x)",
-      "org": "Rotzinger Group",
-      "location": "Altendorf, Schwyz, Schweiz",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-134465",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Principal AI & Automation Lead",
-      "org": "The Sharing Group",
-      "location": "Almere, Flevoland, Nederland",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/the-sharing-group/principal-ai-automation-lead-almere-150276",
+      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/network-security-automation-engineer-relocation-provided-amsterdam-260825",
       "tag": "Job",
       "source": "Arbeitnow"
     },
