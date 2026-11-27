@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:31:36.731750+00:00",
+  "generated_at": "2026-11-27T16:15:04.154103+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -85,6 +85,15 @@
   ],
   "internships": [],
   "jobs": [
+    {
+      "title": "Produktspezialist:in (German-speaking)",
+      "org": "Creative Force ",
+      "location": "Europe, EMEA, Germany, European timezones",
+      "type": "full_time",
+      "url": "https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212",
+      "tag": "Job",
+      "source": "Remotive"
+    },
     {
       "title": "WordPress Theme & Plugin Developer",
       "org": "Steward Web Development",
@@ -230,20 +239,47 @@
       "source": "Remotive"
     },
     {
-      "title": "Prozessingenieur Fertigung & Produktionssteuerung (m/w/x)",
-      "org": "K-tronik GmbH",
-      "location": "Frankfurt am Main",
+      "title": "Automation Test Engineer (f/m/d)",
+      "org": "Black Semiconductor GmbH",
+      "location": "Aachen, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/prozessingenieur-fertigung-produktionssteuerung-frankfurt-am-main-93123",
+      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/automation-test-engineer-aachen-225432",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Marketing Automation Engineer",
-      "org": "Unitedmedia",
-      "location": "London",
+      "title": "Growth Engineer \u2013 Outbound & Data Automation (m/w/d)",
+      "org": "eFLY Marketplace Services GmbH",
+      "location": "Stuttgart",
       "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/marketing-automation-engineer-london-77753",
+      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-428100",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Field Deployment Engineer",
+      "org": "Outsight",
+      "location": "Paris",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/outsight/field-deployment-engineer-paris-47468",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Robotics Engineer",
+      "org": "inspire AG",
+      "location": "Lugano",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/inspire-ag/ai-robotics-engineer-lugano-192347",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Scientist MS&T \u2013 Pharma Sterile Manufacturing Drug Product",
+      "org": "gloor&lang AG",
+      "location": "Neuch\u00e2tel",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gloorlang-ag/scientist-mst-pharma-sterile-manufacturing-drug-product-neuchatel-221062",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -257,24 +293,6 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Professional System Engineer (Linux/Automation, 80-100%) - ID261126",
-      "org": "Adfinis AG",
-      "location": "Bern",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/adfinis-ag/professional-system-engineer-linux-automation-80-100-id261126-bern-350363",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Automation Engineer (SPS, Robotics & Commissioning)",
-      "org": "Coopers Group AG",
-      "location": "Z\u00fcrich",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-automation-engineer-sps-robotics-commissioning-zurich-299244",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Network Security & Automation Engineer (Relocation Provided)",
       "org": "Wypoon",
       "location": "Amsterdam",
@@ -282,17 +300,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/network-security-automation-engineer-relocation-provided-amsterdam-260825",
       "tag": "Job",
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Technical Sales Specialist (Electrical Market)",
-      "org": "Ajax Systems",
-      "location": "France",
-      "type": [
-        "Full-Time"
-      ],
-      "url": "https://jobicy.com/jobs/164465-technical-sales-specialist-electrical-market-2",
-      "tag": "Job",
-      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
