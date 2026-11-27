@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:29:43.321121+00:00",
+  "generated_at": "2026-11-27T01:31:36.731750+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -83,17 +83,7 @@
       "source": "Devpost"
     }
   ],
-  "internships": [
-    {
-      "title": "Senior Internal Automation Engineer",
-      "org": "Volta",
-      "location": "London, UK",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/senior-internal-automation-engineer-london-149376",
-      "tag": "Internship",
-      "source": "Arbeitnow"
-    }
-  ],
+  "internships": [],
   "jobs": [
     {
       "title": "WordPress Theme & Plugin Developer",
@@ -240,20 +230,29 @@
       "source": "Remotive"
     },
     {
-      "title": "SPS - Programmierer / Automatisierungstechniker (gn)",
-      "org": "Remmert GmbH",
-      "location": "L\u00f6hne",
+      "title": "Prozessingenieur Fertigung & Produktionssteuerung (m/w/x)",
+      "org": "K-tronik GmbH",
+      "location": "Frankfurt am Main",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/remmert-gmbh/sps-programmierer-automatisierungstechniker-gn-lohne-257241",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/prozessingenieur-fertigung-produktionssteuerung-frankfurt-am-main-93123",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Head of Production Factory (m/f/d)",
-      "org": "Quantum-Systems GmbH",
-      "location": "Ergolding , Bayern, Germany",
+      "title": "Marketing Automation Engineer",
+      "org": "Unitedmedia",
+      "location": "London",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/head-of-production-factory-ergolding-201471",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/marketing-automation-engineer-london-77753",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "High Voltage Electrical Engineer",
+      "org": "Proxima Fusion GmbH",
+      "location": "Zurich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/proxima-fusion-gmbh/high-voltage-electrical-engineer-zurich-369604",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -276,24 +275,6 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Staff Electrical Engineer",
-      "org": "Electraaero",
-      "location": "Olten",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/electraaero/staff-electrical-engineer-olten-343402",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Heavy- Duty Automation Engineer",
-      "org": "Harmattan Ai",
-      "location": "Lausanne",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/heavy-duty-automation-engineer-lausanne-379498",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Network Security & Automation Engineer (Relocation Provided)",
       "org": "Wypoon",
       "location": "Amsterdam",
@@ -301,6 +282,17 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/network-security-automation-engineer-relocation-provided-amsterdam-260825",
       "tag": "Job",
       "source": "Arbeitnow"
+    },
+    {
+      "title": "Technical Sales Specialist (Electrical Market)",
+      "org": "Ajax Systems",
+      "location": "France",
+      "type": [
+        "Full-Time"
+      ],
+      "url": "https://jobicy.com/jobs/164465-technical-sales-specialist-electrical-market-2",
+      "tag": "Job",
+      "source": "Jobicy"
     },
     {
       "title": "Search: Electrical / Automation / Oil & Gas roles",
