@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:15:04.154103+00:00",
+  "generated_at": "2026-11-28T01:11:11.789078+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -239,29 +239,74 @@
       "source": "Remotive"
     },
     {
-      "title": "Automation Test Engineer (f/m/d)",
-      "org": "Black Semiconductor GmbH",
-      "location": "Aachen, Germany",
+      "title": "Finance Manager (Finance, Data & Automation) (gn) @ Atlantic, Berlin",
+      "org": "atlantic.vc",
+      "location": "Berlin, Berlin, Germany",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/automation-test-engineer-aachen-225432",
+      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/finance-manager-finance-data-automation-gn-at-atlantic-berlin-65088",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Growth Engineer \u2013 Outbound & Data Automation (m/w/d)",
-      "org": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "org": "MY Humancapital GmbH",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-428100",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-306111",
       "tag": "Job",
       "source": "Arbeitnow"
     },
     {
-      "title": "Field Deployment Engineer",
-      "org": "Outsight",
-      "location": "Paris",
+      "title": "Projektingenieur Verfahrenstechnik (m/w/d)",
+      "org": "MY Humancapital GmbH",
+      "location": "Munich",
       "type": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/outsight/field-deployment-engineer-paris-47468",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/projektingenieur-verfahrenstechnik-munich-424480",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Marketing Automation Engineer",
+      "org": "Privateequityinsights",
+      "location": "London",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/marketing-automation-engineer-london-126242",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior OT / SCADA & Automation Engineer (80\u2013100%)",
+      "org": "cross-ING AG",
+      "location": "Villigen, Aargau, Schweiz",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/senior-ot-scada-automation-engineer-80-100-villigen-486352",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Sr. Delivery Solutions Architect",
+      "org": "databricks",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-delivery-solutions-architect-zurich-350585",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Delivery Solutions Architect",
+      "org": "databricks",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/delivery-solutions-architect-zurich-116421",
+      "tag": "Job",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "End-of-Line Robotics Engineer",
+      "org": "CDDS AG",
+      "location": "Z\u00fcrich",
+      "type": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cdds-ag/end-of-line-robotics-engineer-zurich-384157",
       "tag": "Job",
       "source": "Arbeitnow"
     },
@@ -284,20 +329,11 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "High Voltage Electrical Engineer",
-      "org": "Proxima Fusion GmbH",
-      "location": "Zurich",
+      "title": "Senior Controls Engineer",
+      "org": "AMF Bakery Systems B.V.",
+      "location": "Gorinchem, Zuid-Holland, Nederland",
       "type": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/proxima-fusion-gmbh/high-voltage-electrical-engineer-zurich-369604",
-      "tag": "Job",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Network Security & Automation Engineer (Relocation Provided)",
-      "org": "Wypoon",
-      "location": "Amsterdam",
-      "type": "On-site",
-      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/network-security-automation-engineer-relocation-provided-amsterdam-260825",
+      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-253177",
       "tag": "Job",
       "source": "Arbeitnow"
     },
